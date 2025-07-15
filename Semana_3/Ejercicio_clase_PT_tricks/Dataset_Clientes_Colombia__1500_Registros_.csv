@@ -1,0 +1,1501 @@
+ID Cliente,Edad,Genero,Producto Comprado,Categoria,Valor de Compra,Ciudad,Talla,Estacion,Calificacion,Suscripcion Activa,Tipo de Envio,Compras Previas,Metodo de Pago,Frecuencia de Compras
+5000,43,Masculino,Hoodie,Ropa,31,Cucuta,S,Otono,3.0,Si,Entrega al dia siguiente,80,Tarjeta de debito,Semanal
+5001,44,Femenino,Hat,Accesorios,30,Cucuta,L,Invierno,4.3,No,Recogida en tienda,54,Transferencia bancaria,Quincenal
+5002,62,Masculino,Shirt,Ropa,28,Bucaramanga,L,Otono,3.6,Si,Envio en 2 dias,82,Tarjeta de credito,Semanal
+5003,46,Femenino,Backpack,Accesorios,71,Barranquilla,XXL,Otono,3.3,Si,Envio en 2 dias,20,Tarjeta de credito,Trimestral
+5004,63,Femenino,Skirt,Ropa,107,Pereira,M,Invierno,3.7,Si,Envio gratuito,22,Nequi,Cada 3 meses
+5005,69,Masculino,Gloves,Accesorios,30,Pereira,M,Verano,3.5,No,Envio estandar,28,Transferencia bancaria,Anualmente
+5006,53,Femenino,Blouse,Ropa,79,Barranquilla,M,Verano,2.6,No,Envio estandar,33,Tarjeta de credito,Anualmente
+5007,41,Femenino,Shorts,Ropa,35,Bogota,XXL,Invierno,4.4,No,Recogida en tienda,63,Transferencia bancaria,Quincenal
+5008,63,Femenino,Gloves,Accesorios,120,Cartagena,M,Invierno,3.5,No,Express,76,Tarjeta de credito,Cada 3 meses
+5009,64,Femenino,Pants,Ropa,43,Pereira,S,Primavera,3.2,No,Express,79,Efectivo,Quincenal
+5010,41,Masculino,Blouse,Ropa,21,Santa Marta,S,Otono,4.9,No,Recogida en tienda,27,Efectivo,Semanal
+5011,45,Masculino,Blouse,Ropa,32,Manizales,XS,Primavera,3.3,Si,Entrega al dia siguiente,45,Nequi,Semanal
+5012,69,Femenino,Backpack,Accesorios,52,Manizales,XL,Invierno,3.3,No,Recogida en tienda,47,Tarjeta de credito,Trimestral
+5013,20,Femenino,Hat,Accesorios,41,Manizales,L,Otono,4.7,Si,Envio en 2 dias,40,Nequi,Mensual
+5014,27,Masculino,Boots,Calzado,60,Bogota,S,Invierno,4.7,No,Recogida en tienda,46,Efectivo,Cada 3 meses
+5015,75,Masculino,Skirt,Ropa,117,Cartagena,XL,Otono,3.6,Si,Envio gratuito,94,Efectivo,Quincenal
+5016,53,Masculino,Belt,Accesorios,44,Cali,XS,Verano,3.0,No,Envio gratuito,20,Efectivo,Mensual
+5017,25,Masculino,Belt,Accesorios,76,Bucaramanga,XXL,Invierno,3.6,Si,Recogida en tienda,18,Transferencia bancaria,Cada 3 meses
+5018,23,Femenino,Hoodie,Ropa,43,Cucuta,S,Otono,3.9,Si,Envio estandar,0,Nequi,Trimestral
+5019,29,Masculino,Blouse,Ropa,51,Neiva,L,Primavera,4.7,Si,Envio gratuito,87,Transferencia bancaria,Mensual
+5020,41,Femenino,Jacket,Abrigos,39,Bogota,XS,Invierno,4.6,No,Entrega al dia siguiente,80,Tarjeta de debito,Trimestral
+5021,60,Femenino,Jacket,Abrigos,25,Villavicencio,XL,Invierno,3.3,Si,Express,6,Tarjeta de debito,Cada 3 meses
+5022,69,Femenino,Sweater,Ropa,29,Manizales,XL,Invierno,2.7,No,Express,30,Efectivo,Anualmente
+5023,19,Femenino,Dress,Ropa,69,Neiva,L,Otono,4.1,Si,Envio en 2 dias,38,Efectivo,Mensual
+5024,65,Masculino,Socks,Accesorios,97,Cali,M,Primavera,4.6,Si,Entrega al dia siguiente,57,Efectivo,Mensual
+5025,35,Masculino,Blouse,Ropa,116,Pereira,M,Verano,3.6,No,Envio en 2 dias,5,Nequi,Cada 3 meses
+5026,47,Femenino,Sneakers,Calzado,107,Armenia,S,Invierno,3.8,Si,Envio gratuito,59,Efectivo,Anualmente
+5027,69,Masculino,Hoodie,Ropa,39,Cali,XXL,Otono,4.6,No,Envio gratuito,72,Transferencia bancaria,Trimestral
+5028,22,Femenino,Shirt,Ropa,33,Manizales,L,Invierno,2.7,No,Envio gratuito,32,Nequi,Anualmente
+5029,67,Femenino,Boots,Calzado,114,Villavicencio,L,Verano,4.5,No,Envio en 2 dias,10,Efectivo,Semanal
+5030,37,Masculino,Shorts,Ropa,112,Santa Marta,XXL,Invierno,4.1,No,Envio gratuito,23,Tarjeta de credito,Quincenal
+5031,23,Masculino,Socks,Accesorios,33,Pereira,XL,Primavera,2.5,Si,Envio en 2 dias,21,Efectivo,Mensual
+5032,62,Masculino,Socks,Accesorios,115,Ibague,XXL,Invierno,3.3,No,Recogida en tienda,86,Efectivo,Cada 3 meses
+5033,23,Femenino,Coat,Abrigos,21,Barranquilla,XS,Primavera,4.2,Si,Envio en 2 dias,26,Efectivo,Semanal
+5034,27,Femenino,Pants,Ropa,100,Cucuta,XL,Verano,2.7,No,Express,60,Efectivo,Anualmente
+5035,25,Femenino,Coat,Abrigos,114,Armenia,L,Invierno,3.7,No,Envio estandar,31,Tarjeta de credito,Cada 3 meses
+5036,54,Masculino,Belt,Accesorios,62,Bogota,XS,Invierno,4.9,No,Recogida en tienda,74,Nequi,Semanal
+5037,53,Masculino,Belt,Accesorios,82,Pereira,L,Invierno,3.1,Si,Envio estandar,2,Efectivo,Trimestral
+5038,38,Femenino,Hat,Accesorios,102,Pereira,L,Primavera,3.7,No,Entrega al dia siguiente,89,Efectivo,Anualmente
+5039,28,Masculino,Sweater,Ropa,44,Santa Marta,M,Invierno,3.1,Si,Envio estandar,87,Tarjeta de debito,Trimestral
+5040,72,Masculino,Coat,Abrigos,57,Armenia,XXL,Invierno,4.9,No,Entrega al dia siguiente,20,Nequi,Quincenal
+5041,36,Femenino,Socks,Accesorios,81,Cali,S,Verano,2.9,No,Envio en 2 dias,53,Efectivo,Cada 3 meses
+5042,33,Femenino,Shoes,Calzado,26,Bogota,M,Otono,3.4,Si,Express,64,Transferencia bancaria,Anualmente
+5043,39,Masculino,Boots,Calzado,99,Barranquilla,XS,Verano,3.7,No,Envio gratuito,98,Transferencia bancaria,Trimestral
+5044,35,Femenino,Sunglasses,Accesorios,85,Ibague,XXL,Primavera,4.3,No,Entrega al dia siguiente,96,Transferencia bancaria,Anualmente
+5045,68,Femenino,Shoes,Calzado,25,Manizales,XS,Verano,4.1,Si,Envio gratuito,20,Tarjeta de debito,Semanal
+5046,46,Masculino,Sweater,Ropa,32,Cali,XXL,Otono,3.3,Si,Envio en 2 dias,25,Efectivo,Mensual
+5047,67,Femenino,Handbag,Accesorios,80,Bucaramanga,M,Verano,2.7,No,Recogida en tienda,96,Efectivo,Cada 3 meses
+5048,58,Femenino,Coat,Abrigos,116,Neiva,XL,Invierno,4.5,Si,Entrega al dia siguiente,52,Efectivo,Mensual
+5049,72,Masculino,Backpack,Accesorios,76,Cali,XS,Primavera,2.7,No,Entrega al dia siguiente,98,Tarjeta de credito,Mensual
+5050,21,Masculino,T-shirt,Ropa,24,Villavicencio,XXL,Verano,4.8,Si,Recogida en tienda,91,Nequi,Cada 3 meses
+5051,44,Masculino,Socks,Accesorios,109,Manizales,M,Otono,4.8,Si,Envio gratuito,67,Nequi,Quincenal
+5052,62,Masculino,Sandals,Calzado,102,Barranquilla,XL,Invierno,4.2,No,Express,38,Transferencia bancaria,Anualmente
+5053,52,Masculino,Jewelry,Accesorios,112,Armenia,XXL,Verano,3.8,No,Express,11,Nequi,Trimestral
+5054,37,Masculino,T-shirt,Ropa,101,Cali,XS,Primavera,4.7,No,Express,99,Tarjeta de debito,Semanal
+5055,45,Femenino,Sweater,Ropa,27,Cucuta,M,Otono,4.1,No,Envio en 2 dias,6,Transferencia bancaria,Mensual
+5056,37,Femenino,Sandals,Calzado,63,Barranquilla,XXL,Verano,3.4,No,Recogida en tienda,100,Nequi,Semanal
+5057,26,Masculino,Shirt,Ropa,114,Barranquilla,XS,Otono,3.8,Si,Envio gratuito,58,Transferencia bancaria,Quincenal
+5058,63,Masculino,Pants,Ropa,30,Medellin,XS,Invierno,4.7,No,Express,57,Transferencia bancaria,Cada 3 meses
+5059,61,Masculino,Shorts,Ropa,91,Manizales,L,Otono,4.0,No,Entrega al dia siguiente,88,Efectivo,Semanal
+5060,44,Femenino,Coat,Abrigos,84,Cali,L,Invierno,2.8,Si,Recogida en tienda,27,Efectivo,Mensual
+5061,20,Femenino,Shoes,Calzado,67,Medellin,XL,Invierno,2.8,No,Envio estandar,37,Transferencia bancaria,Trimestral
+5062,27,Femenino,Jeans,Ropa,59,Bucaramanga,M,Otono,3.7,Si,Express,100,Nequi,Mensual
+5063,21,Masculino,Hoodie,Ropa,47,Cali,XXL,Invierno,2.5,No,Envio en 2 dias,5,Efectivo,Mensual
+5064,54,Masculino,Shorts,Ropa,77,Bucaramanga,L,Invierno,4.6,Si,Express,64,Efectivo,Mensual
+5065,60,Masculino,Coat,Abrigos,113,Bucaramanga,XS,Invierno,3.5,No,Envio gratuito,69,Transferencia bancaria,Semanal
+5066,74,Masculino,Sweater,Ropa,55,Villavicencio,XS,Verano,4.3,No,Envio estandar,82,Transferencia bancaria,Semanal
+5067,53,Femenino,Gloves,Accesorios,99,Manizales,XL,Primavera,4.9,Si,Entrega al dia siguiente,64,Transferencia bancaria,Anualmente
+5068,60,Femenino,Backpack,Accesorios,55,Neiva,S,Verano,4.6,No,Envio en 2 dias,68,Nequi,Cada 3 meses
+5069,43,Femenino,Scarf,Accesorios,22,Bucaramanga,L,Verano,3.5,No,Entrega al dia siguiente,32,Transferencia bancaria,Anualmente
+5070,24,Femenino,Hoodie,Ropa,38,Cali,M,Primavera,2.9,No,Recogida en tienda,21,Transferencia bancaria,Trimestral
+5071,38,Femenino,Backpack,Accesorios,111,Bogota,M,Invierno,2.7,Si,Entrega al dia siguiente,41,Tarjeta de debito,Mensual
+5072,70,Femenino,Belt,Accesorios,45,Barranquilla,XL,Verano,3.7,No,Envio en 2 dias,34,Transferencia bancaria,Cada 3 meses
+5073,47,Masculino,Blouse,Ropa,81,Bogota,L,Verano,4.8,Si,Envio gratuito,70,Nequi,Semanal
+5074,24,Femenino,T-shirt,Ropa,91,Villavicencio,S,Otono,3.9,No,Envio en 2 dias,81,Nequi,Quincenal
+5075,68,Femenino,Jeans,Ropa,89,Cali,S,Invierno,4.9,No,Envio en 2 dias,0,Efectivo,Trimestral
+5076,36,Femenino,Backpack,Accesorios,27,Santa Marta,M,Otono,4.6,No,Envio gratuito,80,Tarjeta de credito,Trimestral
+5077,71,Masculino,Belt,Accesorios,40,Armenia,XL,Primavera,3.3,No,Recogida en tienda,15,Tarjeta de credito,Semanal
+5078,53,Masculino,Pants,Ropa,46,Ibague,XL,Otono,4.7,No,Recogida en tienda,33,Efectivo,Cada 3 meses
+5079,33,Masculino,Jacket,Abrigos,46,Santa Marta,XL,Otono,2.5,Si,Recogida en tienda,0,Nequi,Mensual
+5080,18,Femenino,Socks,Accesorios,42,Pereira,XL,Invierno,4.4,Si,Recogida en tienda,83,Transferencia bancaria,Trimestral
+5081,19,Masculino,Socks,Accesorios,35,Bucaramanga,L,Otono,3.5,Si,Envio en 2 dias,59,Tarjeta de debito,Quincenal
+5082,46,Femenino,Handbag,Accesorios,115,Bogota,M,Otono,3.0,No,Recogida en tienda,28,Tarjeta de credito,Mensual
+5083,41,Femenino,Hat,Accesorios,83,Armenia,XXL,Verano,2.5,No,Envio en 2 dias,35,Nequi,Trimestral
+5084,49,Femenino,Shoes,Calzado,44,Villavicencio,XXL,Verano,2.7,Si,Recogida en tienda,8,Tarjeta de credito,Cada 3 meses
+5085,54,Femenino,Shirt,Ropa,113,Neiva,M,Verano,4.6,Si,Recogida en tienda,86,Nequi,Trimestral
+5086,34,Masculino,Backpack,Accesorios,74,Villavicencio,XXL,Primavera,4.6,No,Entrega al dia siguiente,52,Tarjeta de debito,Anualmente
+5087,61,Masculino,Scarf,Accesorios,66,Manizales,XS,Verano,2.6,No,Envio estandar,57,Tarjeta de debito,Anualmente
+5088,43,Femenino,Jacket,Abrigos,30,Ibague,XS,Verano,4.9,No,Envio en 2 dias,31,Tarjeta de credito,Quincenal
+5089,39,Masculino,Blouse,Ropa,100,Villavicencio,XS,Primavera,3.7,Si,Envio estandar,80,Tarjeta de debito,Cada 3 meses
+5090,33,Femenino,Scarf,Accesorios,50,Bucaramanga,XS,Otono,3.8,Si,Envio en 2 dias,99,Nequi,Trimestral
+5091,46,Femenino,Sneakers,Calzado,77,Ibague,XS,Primavera,4.9,Si,Entrega al dia siguiente,40,Transferencia bancaria,Quincenal
+5092,21,Masculino,Belt,Accesorios,58,Ibague,XXL,Invierno,2.7,Si,Envio estandar,6,Tarjeta de debito,Mensual
+5093,43,Femenino,Skirt,Ropa,116,Pereira,S,Primavera,3.6,No,Entrega al dia siguiente,79,Nequi,Anualmente
+5094,39,Femenino,Sandals,Calzado,86,Bucaramanga,XL,Verano,2.8,Si,Envio estandar,91,Transferencia bancaria,Trimestral
+5095,68,Femenino,Shorts,Ropa,36,Villavicencio,XL,Otono,3.4,No,Recogida en tienda,79,Efectivo,Quincenal
+5096,33,Femenino,Belt,Accesorios,27,Cali,M,Invierno,3.8,No,Envio gratuito,74,Nequi,Quincenal
+5097,27,Masculino,Hoodie,Ropa,97,Bucaramanga,M,Otono,4.9,Si,Envio en 2 dias,30,Nequi,Trimestral
+5098,72,Femenino,Pants,Ropa,64,Barranquilla,S,Verano,4.5,No,Express,85,Efectivo,Semanal
+5099,62,Masculino,Skirt,Ropa,108,Bucaramanga,XL,Otono,4.0,No,Envio gratuito,20,Transferencia bancaria,Mensual
+5100,74,Femenino,Scarf,Accesorios,48,Bogota,XXL,Verano,4.2,No,Envio estandar,27,Tarjeta de credito,Mensual
+5101,65,Masculino,Sweater,Ropa,68,Barranquilla,L,Verano,4.6,Si,Envio gratuito,1,Transferencia bancaria,Cada 3 meses
+5102,19,Femenino,Coat,Abrigos,57,Santa Marta,S,Otono,2.6,Si,Express,25,Tarjeta de debito,Quincenal
+5103,32,Masculino,Sweater,Ropa,42,Bucaramanga,XL,Verano,2.9,Si,Express,33,Transferencia bancaria,Anualmente
+5104,71,Femenino,Jewelry,Accesorios,103,Neiva,XS,Otono,4.8,No,Entrega al dia siguiente,30,Tarjeta de debito,Cada 3 meses
+5105,60,Femenino,Shirt,Ropa,99,Pereira,XXL,Primavera,2.8,Si,Express,24,Nequi,Mensual
+5106,62,Masculino,Jacket,Abrigos,96,Pereira,XXL,Verano,4.8,Si,Envio estandar,37,Tarjeta de credito,Cada 3 meses
+5107,33,Femenino,Sneakers,Calzado,55,Cucuta,S,Invierno,3.0,Si,Entrega al dia siguiente,84,Nequi,Anualmente
+5108,28,Masculino,T-shirt,Ropa,102,Neiva,XL,Otono,3.7,No,Express,41,Tarjeta de debito,Trimestral
+5109,62,Masculino,Sunglasses,Accesorios,83,Santa Marta,M,Invierno,4.1,Si,Express,28,Tarjeta de credito,Mensual
+5110,73,Femenino,Jewelry,Accesorios,47,Cartagena,L,Invierno,3.9,No,Envio gratuito,70,Transferencia bancaria,Quincenal
+5111,66,Femenino,Hoodie,Ropa,76,Manizales,M,Verano,4.0,No,Envio estandar,79,Tarjeta de debito,Mensual
+5112,46,Masculino,Pants,Ropa,72,Bucaramanga,L,Otono,3.2,Si,Express,56,Tarjeta de credito,Cada 3 meses
+5113,59,Femenino,Jeans,Ropa,30,Cartagena,XL,Primavera,4.5,Si,Envio en 2 dias,15,Transferencia bancaria,Cada 3 meses
+5114,20,Femenino,Jacket,Abrigos,45,Villavicencio,M,Otono,3.3,No,Express,90,Nequi,Quincenal
+5115,72,Masculino,Backpack,Accesorios,118,Cartagena,M,Otono,4.5,No,Entrega al dia siguiente,74,Transferencia bancaria,Mensual
+5116,59,Femenino,Jewelry,Accesorios,49,Barranquilla,XXL,Verano,3.7,No,Recogida en tienda,59,Tarjeta de debito,Anualmente
+5117,38,Femenino,Pants,Ropa,118,Armenia,L,Verano,3.6,Si,Envio gratuito,17,Nequi,Quincenal
+5118,37,Femenino,Scarf,Accesorios,104,Cucuta,M,Otono,3.1,No,Recogida en tienda,96,Efectivo,Semanal
+5119,52,Masculino,Jacket,Abrigos,95,Bogota,XL,Primavera,4.8,Si,Envio gratuito,72,Nequi,Trimestral
+5120,54,Masculino,Jewelry,Accesorios,46,Pereira,XS,Invierno,3.0,Si,Envio gratuito,72,Efectivo,Semanal
+5121,75,Masculino,Blouse,Ropa,41,Medellin,XXL,Verano,2.6,No,Envio en 2 dias,23,Tarjeta de credito,Anualmente
+5122,42,Masculino,Gloves,Accesorios,49,Cartagena,XXL,Primavera,3.6,No,Envio estandar,1,Tarjeta de credito,Cada 3 meses
+5123,73,Masculino,Jewelry,Accesorios,40,Medellin,S,Invierno,3.7,Si,Entrega al dia siguiente,26,Tarjeta de credito,Quincenal
+5124,37,Masculino,Sunglasses,Accesorios,105,Santa Marta,S,Otono,4.0,No,Envio gratuito,25,Transferencia bancaria,Quincenal
+5125,46,Femenino,Jewelry,Accesorios,97,Neiva,S,Otono,4.8,No,Entrega al dia siguiente,59,Nequi,Anualmente
+5126,65,Femenino,Hoodie,Ropa,102,Santa Marta,M,Otono,3.5,Si,Entrega al dia siguiente,31,Tarjeta de credito,Trimestral
+5127,64,Masculino,Sandals,Calzado,69,Villavicencio,S,Primavera,3.5,Si,Express,20,Tarjeta de debito,Semanal
+5128,52,Masculino,Socks,Accesorios,28,Armenia,XXL,Verano,4.8,No,Envio estandar,15,Tarjeta de debito,Anualmente
+5129,66,Femenino,Shirt,Ropa,118,Neiva,M,Invierno,3.6,No,Express,64,Transferencia bancaria,Mensual
+5130,19,Femenino,Sneakers,Calzado,108,Villavicencio,XXL,Invierno,3.5,No,Express,50,Transferencia bancaria,Anualmente
+5131,34,Femenino,Sunglasses,Accesorios,37,Bucaramanga,XXL,Invierno,3.7,Si,Envio en 2 dias,70,Tarjeta de credito,Semanal
+5132,46,Femenino,Scarf,Accesorios,55,Cucuta,S,Verano,4.6,Si,Express,37,Transferencia bancaria,Trimestral
+5133,65,Masculino,Dress,Ropa,29,Villavicencio,XS,Otono,2.9,No,Express,27,Transferencia bancaria,Semanal
+5134,52,Femenino,Sandals,Calzado,109,Bogota,XXL,Primavera,3.5,No,Entrega al dia siguiente,6,Nequi,Anualmente
+5135,21,Masculino,T-shirt,Ropa,45,Barranquilla,M,Verano,3.0,Si,Entrega al dia siguiente,3,Transferencia bancaria,Cada 3 meses
+5136,70,Femenino,Socks,Accesorios,105,Medellin,S,Primavera,4.5,Si,Recogida en tienda,21,Transferencia bancaria,Mensual
+5137,50,Femenino,Jacket,Abrigos,61,Manizales,XXL,Verano,4.1,No,Entrega al dia siguiente,15,Tarjeta de credito,Quincenal
+5138,24,Masculino,Jacket,Abrigos,42,Bogota,L,Otono,2.5,Si,Entrega al dia siguiente,28,Transferencia bancaria,Semanal
+5139,70,Masculino,Sneakers,Calzado,99,Bucaramanga,XS,Primavera,4.7,No,Envio gratuito,98,Nequi,Mensual
+5140,24,Femenino,Hat,Accesorios,32,Ibague,M,Invierno,4.2,Si,Envio gratuito,22,Tarjeta de debito,Semanal
+5141,48,Femenino,Jacket,Abrigos,22,Ibague,XL,Invierno,3.5,Si,Envio estandar,75,Transferencia bancaria,Quincenal
+5142,19,Femenino,Hoodie,Ropa,50,Armenia,L,Verano,4.0,Si,Express,47,Efectivo,Cada 3 meses
+5143,30,Femenino,Jewelry,Accesorios,46,Villavicencio,XS,Verano,4.8,No,Recogida en tienda,42,Tarjeta de credito,Cada 3 meses
+5144,38,Femenino,Shirt,Ropa,73,Villavicencio,M,Primavera,3.1,No,Envio gratuito,31,Tarjeta de credito,Trimestral
+5145,21,Femenino,Socks,Accesorios,109,Armenia,S,Invierno,3.8,Si,Entrega al dia siguiente,80,Transferencia bancaria,Anualmente
+5146,73,Masculino,Blouse,Ropa,44,Bogota,XXL,Verano,4.8,Si,Envio en 2 dias,22,Nequi,Trimestral
+5147,71,Femenino,Handbag,Accesorios,84,Medellin,L,Invierno,3.3,Si,Express,54,Tarjeta de credito,Trimestral
+5148,33,Masculino,Hoodie,Ropa,93,Santa Marta,XXL,Verano,3.2,No,Envio en 2 dias,46,Efectivo,Mensual
+5149,28,Masculino,Sandals,Calzado,74,Manizales,XL,Invierno,4.4,No,Envio en 2 dias,97,Efectivo,Mensual
+5150,72,Femenino,T-shirt,Ropa,58,Ibague,XL,Verano,3.9,Si,Envio gratuito,48,Efectivo,Cada 3 meses
+5151,47,Masculino,Jewelry,Accesorios,91,Ibague,L,Primavera,3.3,No,Express,19,Tarjeta de credito,Anualmente
+5152,18,Masculino,Scarf,Accesorios,71,Pereira,L,Otono,3.5,No,Recogida en tienda,75,Transferencia bancaria,Mensual
+5153,74,Femenino,Boots,Calzado,69,Ibague,S,Verano,4.4,No,Recogida en tienda,44,Nequi,Semanal
+5154,49,Masculino,Sunglasses,Accesorios,27,Villavicencio,L,Invierno,4.3,Si,Entrega al dia siguiente,4,Tarjeta de debito,Semanal
+5155,63,Femenino,Sunglasses,Accesorios,105,Villavicencio,S,Otono,4.0,Si,Envio gratuito,31,Nequi,Trimestral
+5156,60,Femenino,Backpack,Accesorios,34,Neiva,XS,Invierno,3.5,Si,Envio estandar,24,Efectivo,Quincenal
+5157,71,Masculino,Hat,Accesorios,108,Cartagena,XL,Invierno,4.0,No,Recogida en tienda,11,Transferencia bancaria,Semanal
+5158,54,Masculino,Coat,Abrigos,54,Armenia,S,Invierno,4.2,Si,Express,62,Transferencia bancaria,Anualmente
+5159,22,Masculino,Shirt,Ropa,73,Villavicencio,M,Invierno,2.9,No,Express,90,Tarjeta de credito,Quincenal
+5160,49,Femenino,Shirt,Ropa,34,Santa Marta,XL,Verano,3.0,Si,Recogida en tienda,23,Tarjeta de credito,Cada 3 meses
+5161,75,Masculino,Sandals,Calzado,100,Ibague,XS,Verano,2.7,Si,Entrega al dia siguiente,15,Tarjeta de debito,Anualmente
+5162,39,Femenino,Shorts,Ropa,50,Santa Marta,L,Primavera,2.5,No,Envio en 2 dias,85,Nequi,Anualmente
+5163,24,Femenino,Shirt,Ropa,20,Pereira,XL,Otono,4.8,No,Envio gratuito,77,Efectivo,Cada 3 meses
+5164,41,Masculino,Jacket,Abrigos,50,Bucaramanga,XXL,Invierno,3.4,Si,Envio gratuito,42,Transferencia bancaria,Anualmente
+5165,47,Masculino,Sweater,Ropa,37,Bogota,XL,Primavera,4.7,No,Recogida en tienda,96,Tarjeta de credito,Cada 3 meses
+5166,46,Masculino,Shirt,Ropa,72,Villavicencio,S,Primavera,5.0,No,Envio en 2 dias,81,Tarjeta de debito,Anualmente
+5167,69,Masculino,Socks,Accesorios,76,Barranquilla,XL,Invierno,3.5,Si,Envio gratuito,54,Efectivo,Semanal
+5168,72,Femenino,Sweater,Ropa,69,Cartagena,XL,Verano,4.3,Si,Express,63,Transferencia bancaria,Cada 3 meses
+5169,71,Masculino,Dress,Ropa,77,Medellin,L,Verano,3.1,Si,Recogida en tienda,89,Transferencia bancaria,Anualmente
+5170,45,Femenino,Dress,Ropa,61,Pereira,M,Verano,4.3,No,Recogida en tienda,15,Tarjeta de credito,Trimestral
+5171,58,Masculino,Blouse,Ropa,108,Bucaramanga,S,Primavera,4.1,No,Recogida en tienda,95,Efectivo,Semanal
+5172,59,Masculino,Handbag,Accesorios,48,Cartagena,XS,Otono,2.7,Si,Envio gratuito,94,Nequi,Quincenal
+5173,65,Femenino,Shorts,Ropa,67,Cali,M,Invierno,3.9,Si,Envio gratuito,7,Nequi,Trimestral
+5174,30,Masculino,Pants,Ropa,60,Neiva,M,Verano,3.8,Si,Envio en 2 dias,50,Transferencia bancaria,Trimestral
+5175,72,Masculino,Jacket,Abrigos,38,Cucuta,M,Verano,3.7,No,Express,76,Tarjeta de debito,Quincenal
+5176,65,Femenino,Skirt,Ropa,60,Cartagena,XL,Primavera,3.2,No,Recogida en tienda,27,Efectivo,Cada 3 meses
+5177,63,Masculino,Belt,Accesorios,62,Cali,XXL,Verano,4.6,Si,Recogida en tienda,94,Transferencia bancaria,Quincenal
+5178,72,Masculino,Sweater,Ropa,70,Cartagena,XXL,Verano,5.0,No,Envio gratuito,54,Efectivo,Cada 3 meses
+5179,66,Masculino,Jewelry,Accesorios,29,Manizales,XXL,Otono,3.2,Si,Recogida en tienda,70,Efectivo,Anualmente
+5180,26,Masculino,T-shirt,Ropa,94,Cucuta,XS,Otono,3.6,Si,Envio estandar,17,Efectivo,Semanal
+5181,48,Masculino,Coat,Abrigos,46,Barranquilla,XXL,Verano,4.3,Si,Envio gratuito,92,Nequi,Anualmente
+5182,61,Femenino,Jewelry,Accesorios,74,Villavicencio,S,Primavera,2.7,No,Express,6,Transferencia bancaria,Trimestral
+5183,59,Masculino,Shorts,Ropa,75,Cali,XXL,Invierno,3.1,Si,Express,50,Efectivo,Cada 3 meses
+5184,62,Femenino,Sneakers,Calzado,115,Pereira,XXL,Primavera,4.4,No,Envio gratuito,80,Efectivo,Cada 3 meses
+5185,18,Femenino,Boots,Calzado,30,Medellin,L,Verano,2.6,No,Envio gratuito,88,Transferencia bancaria,Trimestral
+5186,29,Masculino,Scarf,Accesorios,102,Armenia,L,Otono,3.9,Si,Envio gratuito,8,Nequi,Quincenal
+5187,43,Femenino,Jewelry,Accesorios,91,Cucuta,XL,Invierno,2.7,Si,Express,84,Transferencia bancaria,Quincenal
+5188,73,Femenino,Backpack,Accesorios,91,Santa Marta,M,Primavera,2.6,Si,Recogida en tienda,20,Transferencia bancaria,Trimestral
+5189,34,Femenino,Blouse,Ropa,35,Manizales,M,Otono,4.9,Si,Entrega al dia siguiente,84,Transferencia bancaria,Quincenal
+5190,37,Femenino,Shirt,Ropa,120,Cartagena,XXL,Invierno,2.8,No,Recogida en tienda,40,Nequi,Cada 3 meses
+5191,56,Femenino,Sunglasses,Accesorios,32,Villavicencio,XS,Verano,2.6,Si,Envio gratuito,27,Tarjeta de credito,Trimestral
+5192,53,Femenino,Shorts,Ropa,65,Cartagena,S,Invierno,2.7,No,Envio gratuito,48,Tarjeta de credito,Mensual
+5193,47,Femenino,Hat,Accesorios,106,Pereira,XXL,Verano,3.8,Si,Recogida en tienda,93,Tarjeta de debito,Semanal
+5194,62,Femenino,Sunglasses,Accesorios,67,Ibague,XXL,Verano,3.5,Si,Envio gratuito,100,Efectivo,Mensual
+5195,19,Femenino,Blouse,Ropa,54,Medellin,XL,Primavera,4.2,No,Envio en 2 dias,42,Transferencia bancaria,Cada 3 meses
+5196,39,Masculino,Coat,Abrigos,48,Cartagena,XS,Primavera,3.4,Si,Entrega al dia siguiente,13,Transferencia bancaria,Quincenal
+5197,51,Masculino,Shorts,Ropa,82,Medellin,XL,Otono,4.3,No,Envio estandar,34,Nequi,Anualmente
+5198,75,Femenino,Dress,Ropa,60,Neiva,L,Verano,3.4,No,Entrega al dia siguiente,75,Tarjeta de credito,Cada 3 meses
+5199,18,Femenino,Socks,Accesorios,36,Cali,L,Otono,2.6,No,Recogida en tienda,99,Tarjeta de credito,Semanal
+5200,56,Masculino,Sunglasses,Accesorios,78,Cali,L,Otono,4.5,No,Envio gratuito,54,Nequi,Semanal
+5201,74,Femenino,Hoodie,Ropa,101,Cucuta,XS,Otono,3.5,No,Envio en 2 dias,81,Transferencia bancaria,Anualmente
+5202,64,Femenino,Blouse,Ropa,41,Ibague,XS,Primavera,4.4,No,Envio en 2 dias,54,Nequi,Semanal
+5203,26,Masculino,Scarf,Accesorios,85,Villavicencio,XXL,Primavera,3.5,Si,Recogida en tienda,0,Efectivo,Semanal
+5204,52,Masculino,Handbag,Accesorios,114,Villavicencio,XL,Primavera,4.0,Si,Recogida en tienda,97,Nequi,Quincenal
+5205,29,Femenino,Jeans,Ropa,37,Manizales,M,Primavera,3.6,No,Express,47,Transferencia bancaria,Cada 3 meses
+5206,61,Femenino,Shoes,Calzado,118,Cucuta,XS,Otono,3.2,No,Envio gratuito,27,Transferencia bancaria,Semanal
+5207,58,Masculino,Gloves,Accesorios,59,Villavicencio,XL,Primavera,4.8,No,Envio en 2 dias,45,Transferencia bancaria,Trimestral
+5208,47,Masculino,Hoodie,Ropa,65,Medellin,XS,Otono,4.7,Si,Entrega al dia siguiente,45,Transferencia bancaria,Anualmente
+5209,45,Masculino,Gloves,Accesorios,30,Manizales,XL,Verano,3.5,No,Envio en 2 dias,19,Tarjeta de debito,Quincenal
+5210,48,Masculino,Jeans,Ropa,58,Bucaramanga,L,Verano,3.8,No,Envio en 2 dias,56,Efectivo,Quincenal
+5211,26,Masculino,Sweater,Ropa,75,Bogota,M,Verano,2.8,No,Envio en 2 dias,17,Efectivo,Mensual
+5212,65,Masculino,Belt,Accesorios,40,Villavicencio,S,Invierno,4.9,No,Envio en 2 dias,53,Efectivo,Trimestral
+5213,49,Femenino,Jacket,Abrigos,116,Neiva,L,Invierno,2.8,Si,Envio en 2 dias,16,Tarjeta de credito,Cada 3 meses
+5214,50,Femenino,T-shirt,Ropa,107,Barranquilla,XS,Otono,3.6,Si,Entrega al dia siguiente,61,Tarjeta de debito,Cada 3 meses
+5215,49,Femenino,T-shirt,Ropa,74,Barranquilla,XL,Verano,4.3,Si,Express,35,Transferencia bancaria,Cada 3 meses
+5216,62,Femenino,Socks,Accesorios,74,Barranquilla,L,Primavera,4.3,Si,Express,75,Tarjeta de credito,Quincenal
+5217,25,Femenino,Jewelry,Accesorios,24,Cartagena,S,Verano,3.6,Si,Envio en 2 dias,6,Efectivo,Mensual
+5218,51,Masculino,Sunglasses,Accesorios,101,Barranquilla,S,Otono,3.6,Si,Envio estandar,54,Transferencia bancaria,Cada 3 meses
+5219,25,Masculino,Jeans,Ropa,55,Bucaramanga,XXL,Invierno,3.1,Si,Express,5,Transferencia bancaria,Anualmente
+5220,60,Masculino,Gloves,Accesorios,56,Santa Marta,M,Primavera,3.6,No,Entrega al dia siguiente,46,Tarjeta de debito,Cada 3 meses
+5221,25,Femenino,Socks,Accesorios,21,Villavicencio,XL,Verano,3.3,No,Recogida en tienda,99,Nequi,Trimestral
+5222,56,Masculino,Handbag,Accesorios,103,Cartagena,S,Invierno,2.7,Si,Express,80,Nequi,Anualmente
+5223,20,Femenino,Gloves,Accesorios,110,Santa Marta,XS,Primavera,4.9,No,Envio gratuito,92,Efectivo,Quincenal
+5224,52,Femenino,Belt,Accesorios,36,Barranquilla,L,Otono,4.7,No,Envio gratuito,57,Transferencia bancaria,Mensual
+5225,22,Masculino,Pants,Ropa,87,Manizales,XS,Verano,4.0,Si,Envio gratuito,5,Nequi,Anualmente
+5226,68,Femenino,Sweater,Ropa,70,Santa Marta,XXL,Primavera,2.9,No,Envio estandar,99,Efectivo,Mensual
+5227,56,Masculino,Gloves,Accesorios,43,Bogota,S,Verano,4.0,Si,Envio estandar,58,Nequi,Semanal
+5228,64,Masculino,Hoodie,Ropa,48,Cartagena,XXL,Otono,3.9,Si,Express,5,Nequi,Quincenal
+5229,36,Femenino,Sneakers,Calzado,38,Cartagena,S,Otono,4.7,Si,Recogida en tienda,31,Tarjeta de credito,Trimestral
+5230,25,Femenino,Sneakers,Calzado,64,Villavicencio,XL,Otono,3.3,No,Recogida en tienda,17,Efectivo,Trimestral
+5231,36,Masculino,Belt,Accesorios,100,Cucuta,XS,Otono,3.0,No,Express,32,Transferencia bancaria,Trimestral
+5232,60,Femenino,Sweater,Ropa,115,Armenia,L,Otono,4.7,Si,Entrega al dia siguiente,28,Tarjeta de debito,Cada 3 meses
+5233,31,Masculino,Coat,Abrigos,77,Barranquilla,XXL,Invierno,3.4,No,Envio en 2 dias,63,Tarjeta de credito,Mensual
+5234,29,Femenino,Gloves,Accesorios,92,Santa Marta,XXL,Verano,4.1,Si,Envio gratuito,20,Tarjeta de credito,Mensual
+5235,61,Femenino,Blouse,Ropa,38,Medellin,L,Verano,3.6,No,Envio en 2 dias,92,Nequi,Quincenal
+5236,64,Femenino,Skirt,Ropa,32,Pereira,L,Primavera,2.8,Si,Recogida en tienda,5,Tarjeta de credito,Quincenal
+5237,67,Femenino,Hat,Accesorios,38,Villavicencio,XL,Primavera,4.5,Si,Envio en 2 dias,69,Tarjeta de debito,Semanal
+5238,23,Femenino,Coat,Abrigos,81,Neiva,XL,Invierno,4.5,No,Envio gratuito,61,Tarjeta de credito,Quincenal
+5239,21,Masculino,Sneakers,Calzado,89,Medellin,XS,Primavera,2.8,No,Envio en 2 dias,65,Efectivo,Quincenal
+5240,18,Femenino,Backpack,Accesorios,49,Pereira,L,Verano,3.4,No,Express,87,Efectivo,Semanal
+5241,74,Femenino,Scarf,Accesorios,41,Medellin,S,Primavera,4.9,No,Envio gratuito,9,Nequi,Cada 3 meses
+5242,25,Masculino,Blouse,Ropa,25,Ibague,S,Verano,3.6,No,Envio estandar,23,Efectivo,Quincenal
+5243,75,Masculino,Skirt,Ropa,56,Bucaramanga,XS,Otono,4.8,No,Envio gratuito,91,Transferencia bancaria,Anualmente
+5244,73,Femenino,T-shirt,Ropa,103,Cali,M,Verano,3.5,No,Envio en 2 dias,14,Nequi,Mensual
+5245,64,Masculino,Coat,Abrigos,31,Bucaramanga,S,Verano,4.4,No,Envio gratuito,63,Efectivo,Mensual
+5246,62,Masculino,Skirt,Ropa,101,Bucaramanga,S,Verano,3.5,No,Envio estandar,68,Efectivo,Trimestral
+5247,52,Femenino,Jewelry,Accesorios,30,Ibague,XXL,Invierno,3.8,Si,Recogida en tienda,11,Tarjeta de credito,Cada 3 meses
+5248,18,Femenino,Backpack,Accesorios,66,Manizales,L,Verano,4.8,Si,Envio gratuito,46,Tarjeta de credito,Cada 3 meses
+5249,47,Femenino,Shoes,Calzado,73,Barranquilla,S,Verano,2.6,Si,Envio en 2 dias,89,Tarjeta de credito,Mensual
+5250,64,Femenino,Sunglasses,Accesorios,74,Bucaramanga,XS,Primavera,4.2,Si,Entrega al dia siguiente,76,Tarjeta de credito,Anualmente
+5251,27,Masculino,Coat,Abrigos,30,Barranquilla,XS,Primavera,3.9,No,Express,97,Tarjeta de credito,Mensual
+5252,65,Femenino,Sweater,Ropa,87,Armenia,M,Invierno,3.5,No,Entrega al dia siguiente,100,Transferencia bancaria,Cada 3 meses
+5253,25,Femenino,Belt,Accesorios,102,Bogota,XL,Verano,3.8,Si,Entrega al dia siguiente,54,Efectivo,Trimestral
+5254,63,Masculino,Shorts,Ropa,84,Cartagena,XXL,Verano,3.6,Si,Envio gratuito,11,Nequi,Mensual
+5255,26,Femenino,Jewelry,Accesorios,99,Bogota,S,Invierno,3.0,Si,Recogida en tienda,59,Efectivo,Cada 3 meses
+5256,59,Masculino,Jewelry,Accesorios,41,Bogota,M,Invierno,3.0,Si,Envio en 2 dias,9,Tarjeta de debito,Trimestral
+5257,67,Masculino,Backpack,Accesorios,50,Cartagena,S,Primavera,2.7,Si,Envio gratuito,24,Nequi,Quincenal
+5258,58,Femenino,Handbag,Accesorios,54,Medellin,XL,Primavera,3.9,No,Envio en 2 dias,6,Tarjeta de debito,Anualmente
+5259,37,Femenino,Jeans,Ropa,116,Cartagena,L,Verano,3.3,No,Recogida en tienda,45,Tarjeta de credito,Semanal
+5260,61,Femenino,Jacket,Abrigos,72,Armenia,XL,Primavera,3.8,Si,Envio en 2 dias,75,Efectivo,Mensual
+5261,55,Femenino,Hoodie,Ropa,40,Cali,XXL,Invierno,2.7,Si,Recogida en tienda,29,Tarjeta de credito,Semanal
+5262,59,Femenino,T-shirt,Ropa,111,Cali,XL,Otono,3.6,Si,Envio gratuito,37,Tarjeta de debito,Trimestral
+5263,72,Masculino,Belt,Accesorios,111,Neiva,XXL,Invierno,3.1,Si,Express,72,Efectivo,Anualmente
+5264,69,Femenino,Coat,Abrigos,118,Cucuta,M,Primavera,3.7,No,Envio gratuito,21,Tarjeta de debito,Quincenal
+5265,22,Masculino,Shorts,Ropa,66,Bucaramanga,XS,Primavera,2.9,No,Envio gratuito,60,Tarjeta de debito,Mensual
+5266,59,Femenino,Boots,Calzado,92,Santa Marta,XS,Otono,4.6,No,Entrega al dia siguiente,79,Tarjeta de credito,Mensual
+5267,41,Masculino,Jeans,Ropa,30,Villavicencio,L,Invierno,3.2,Si,Envio estandar,82,Transferencia bancaria,Semanal
+5268,68,Femenino,Sunglasses,Accesorios,91,Bogota,S,Primavera,3.2,Si,Envio estandar,51,Transferencia bancaria,Quincenal
+5269,42,Masculino,Socks,Accesorios,31,Bucaramanga,L,Invierno,4.1,No,Envio en 2 dias,10,Tarjeta de credito,Semanal
+5270,24,Masculino,T-shirt,Ropa,75,Barranquilla,L,Otono,2.7,No,Envio estandar,62,Tarjeta de credito,Semanal
+5271,65,Masculino,Boots,Calzado,55,Santa Marta,XS,Verano,4.9,Si,Recogida en tienda,27,Tarjeta de debito,Trimestral
+5272,20,Masculino,Belt,Accesorios,66,Neiva,L,Invierno,3.0,Si,Envio en 2 dias,97,Efectivo,Cada 3 meses
+5273,34,Femenino,Blouse,Ropa,38,Medellin,M,Invierno,2.7,No,Entrega al dia siguiente,67,Tarjeta de credito,Semanal
+5274,75,Masculino,Dress,Ropa,26,Medellin,L,Otono,4.9,No,Express,25,Tarjeta de debito,Mensual
+5275,48,Masculino,Shoes,Calzado,108,Neiva,S,Invierno,3.4,No,Envio en 2 dias,71,Nequi,Quincenal
+5276,22,Femenino,Jacket,Abrigos,105,Cucuta,XXL,Otono,2.5,No,Express,63,Tarjeta de debito,Anualmente
+5277,68,Masculino,Hat,Accesorios,86,Armenia,XS,Invierno,4.9,Si,Recogida en tienda,57,Nequi,Anualmente
+5278,20,Femenino,Sweater,Ropa,44,Pereira,XXL,Verano,4.0,Si,Envio gratuito,26,Tarjeta de credito,Semanal
+5279,54,Femenino,Jeans,Ropa,66,Bogota,M,Otono,3.8,Si,Recogida en tienda,63,Efectivo,Mensual
+5280,44,Masculino,Jeans,Ropa,89,Pereira,XL,Otono,2.8,Si,Entrega al dia siguiente,54,Tarjeta de debito,Quincenal
+5281,53,Femenino,Shoes,Calzado,75,Pereira,M,Invierno,4.1,Si,Envio en 2 dias,13,Transferencia bancaria,Semanal
+5282,19,Masculino,Boots,Calzado,83,Armenia,XL,Primavera,4.1,Si,Recogida en tienda,37,Efectivo,Quincenal
+5283,32,Masculino,Shoes,Calzado,68,Medellin,S,Invierno,4.9,No,Entrega al dia siguiente,52,Efectivo,Anualmente
+5284,41,Femenino,Shirt,Ropa,56,Cartagena,XXL,Otono,3.3,No,Recogida en tienda,30,Transferencia bancaria,Mensual
+5285,20,Femenino,Backpack,Accesorios,39,Neiva,M,Otono,3.3,No,Express,71,Efectivo,Quincenal
+5286,57,Masculino,Belt,Accesorios,93,Pereira,S,Invierno,4.9,Si,Entrega al dia siguiente,40,Nequi,Quincenal
+5287,45,Femenino,Boots,Calzado,110,Neiva,S,Primavera,4.1,No,Recogida en tienda,33,Nequi,Quincenal
+5288,38,Femenino,Blouse,Ropa,31,Bogota,L,Primavera,4.1,Si,Envio en 2 dias,79,Nequi,Anualmente
+5289,54,Masculino,Backpack,Accesorios,115,Armenia,S,Invierno,4.1,No,Express,30,Tarjeta de credito,Cada 3 meses
+5290,30,Femenino,Sweater,Ropa,119,Neiva,L,Otono,4.1,No,Envio en 2 dias,18,Transferencia bancaria,Semanal
+5291,55,Femenino,Boots,Calzado,78,Ibague,XS,Primavera,2.9,No,Express,11,Transferencia bancaria,Mensual
+5292,72,Masculino,Gloves,Accesorios,70,Medellin,L,Primavera,3.5,No,Recogida en tienda,9,Tarjeta de credito,Semanal
+5293,44,Masculino,Jacket,Abrigos,101,Santa Marta,S,Verano,3.2,Si,Recogida en tienda,72,Nequi,Anualmente
+5294,25,Masculino,Jeans,Ropa,81,Ibague,XL,Primavera,2.9,No,Envio en 2 dias,24,Nequi,Anualmente
+5295,52,Femenino,Shirt,Ropa,85,Neiva,S,Verano,4.7,Si,Express,3,Tarjeta de debito,Quincenal
+5296,32,Femenino,Sweater,Ropa,108,Cali,M,Otono,3.7,Si,Envio gratuito,90,Nequi,Semanal
+5297,36,Masculino,Sweater,Ropa,83,Pereira,XL,Invierno,4.8,No,Express,25,Tarjeta de debito,Mensual
+5298,24,Masculino,Dress,Ropa,46,Armenia,L,Invierno,4.7,No,Envio estandar,95,Tarjeta de debito,Cada 3 meses
+5299,57,Femenino,Skirt,Ropa,69,Pereira,S,Otono,3.4,Si,Entrega al dia siguiente,21,Transferencia bancaria,Trimestral
+5300,34,Masculino,Hoodie,Ropa,97,Cucuta,XXL,Otono,3.5,Si,Express,41,Efectivo,Quincenal
+5301,40,Femenino,Blouse,Ropa,47,Villavicencio,M,Otono,2.9,No,Envio en 2 dias,1,Tarjeta de debito,Semanal
+5302,18,Masculino,Gloves,Accesorios,79,Ibague,M,Verano,3.9,No,Envio gratuito,77,Tarjeta de credito,Trimestral
+5303,31,Femenino,Shoes,Calzado,55,Armenia,XL,Primavera,3.9,No,Recogida en tienda,96,Efectivo,Cada 3 meses
+5304,70,Masculino,Gloves,Accesorios,45,Bogota,L,Invierno,2.6,No,Entrega al dia siguiente,15,Transferencia bancaria,Mensual
+5305,28,Masculino,Shorts,Ropa,69,Barranquilla,XL,Primavera,3.2,Si,Entrega al dia siguiente,36,Tarjeta de credito,Mensual
+5306,20,Femenino,Jacket,Abrigos,102,Bogota,XS,Invierno,2.7,No,Recogida en tienda,38,Tarjeta de debito,Cada 3 meses
+5307,66,Masculino,Jewelry,Accesorios,30,Manizales,M,Invierno,4.0,No,Envio gratuito,89,Efectivo,Mensual
+5308,72,Femenino,Jeans,Ropa,99,Medellin,XS,Verano,2.6,Si,Express,13,Tarjeta de debito,Semanal
+5309,64,Masculino,Handbag,Accesorios,41,Medellin,S,Otono,4.5,Si,Recogida en tienda,6,Tarjeta de debito,Anualmente
+5310,25,Femenino,Hoodie,Ropa,29,Cartagena,M,Invierno,3.2,Si,Express,74,Efectivo,Anualmente
+5311,26,Masculino,Coat,Abrigos,116,Ibague,L,Invierno,4.2,Si,Envio estandar,61,Efectivo,Cada 3 meses
+5312,38,Masculino,Handbag,Accesorios,31,Cartagena,M,Primavera,3.4,Si,Recogida en tienda,82,Tarjeta de credito,Semanal
+5313,22,Femenino,Scarf,Accesorios,27,Barranquilla,XS,Verano,3.7,No,Express,62,Transferencia bancaria,Cada 3 meses
+5314,31,Masculino,T-shirt,Ropa,59,Armenia,L,Verano,4.6,Si,Express,28,Tarjeta de debito,Mensual
+5315,46,Femenino,T-shirt,Ropa,71,Barranquilla,XS,Otono,3.6,No,Envio estandar,82,Transferencia bancaria,Quincenal
+5316,47,Femenino,Sweater,Ropa,34,Barranquilla,XS,Invierno,3.0,Si,Entrega al dia siguiente,84,Nequi,Mensual
+5317,40,Masculino,Boots,Calzado,90,Medellin,M,Invierno,3.0,No,Envio estandar,55,Nequi,Cada 3 meses
+5318,21,Masculino,Hat,Accesorios,67,Medellin,XS,Invierno,4.3,No,Express,37,Tarjeta de credito,Mensual
+5319,29,Masculino,Shirt,Ropa,97,Santa Marta,XL,Invierno,2.8,Si,Recogida en tienda,31,Transferencia bancaria,Quincenal
+5320,25,Femenino,Belt,Accesorios,93,Cartagena,S,Primavera,3.8,No,Express,79,Efectivo,Mensual
+5321,43,Femenino,Handbag,Accesorios,113,Cucuta,XXL,Otono,3.7,Si,Express,44,Tarjeta de debito,Semanal
+5322,56,Masculino,Sweater,Ropa,20,Medellin,S,Invierno,4.3,Si,Express,40,Transferencia bancaria,Quincenal
+5323,29,Masculino,Sandals,Calzado,38,Bogota,XXL,Invierno,3.6,Si,Express,33,Transferencia bancaria,Quincenal
+5324,61,Femenino,Skirt,Ropa,65,Santa Marta,XL,Primavera,3.7,Si,Entrega al dia siguiente,14,Transferencia bancaria,Anualmente
+5325,54,Masculino,Handbag,Accesorios,87,Manizales,S,Verano,4.4,Si,Envio gratuito,94,Tarjeta de debito,Mensual
+5326,49,Masculino,Shoes,Calzado,52,Villavicencio,L,Otono,3.4,Si,Envio gratuito,38,Tarjeta de debito,Trimestral
+5327,67,Masculino,Boots,Calzado,54,Villavicencio,XL,Primavera,2.9,No,Express,84,Tarjeta de credito,Cada 3 meses
+5328,49,Femenino,Handbag,Accesorios,93,Armenia,XXL,Invierno,3.4,Si,Express,48,Transferencia bancaria,Cada 3 meses
+5329,74,Masculino,Shirt,Ropa,42,Cartagena,XXL,Otono,4.7,No,Envio estandar,53,Tarjeta de debito,Cada 3 meses
+5330,30,Femenino,Shorts,Ropa,86,Armenia,M,Primavera,3.6,No,Envio estandar,44,Tarjeta de debito,Anualmente
+5331,18,Masculino,Socks,Accesorios,38,Santa Marta,XXL,Verano,3.8,No,Envio estandar,71,Tarjeta de credito,Cada 3 meses
+5332,49,Masculino,Blouse,Ropa,57,Bogota,L,Primavera,3.0,Si,Envio en 2 dias,62,Tarjeta de debito,Anualmente
+5333,45,Masculino,Socks,Accesorios,20,Bogota,M,Verano,3.4,No,Envio estandar,85,Nequi,Quincenal
+5334,23,Masculino,Coat,Abrigos,113,Barranquilla,L,Primavera,3.2,Si,Entrega al dia siguiente,45,Tarjeta de credito,Semanal
+5335,58,Masculino,Pants,Ropa,71,Medellin,M,Otono,4.0,Si,Envio estandar,55,Tarjeta de debito,Trimestral
+5336,26,Femenino,Hat,Accesorios,37,Pereira,XL,Verano,3.3,Si,Envio gratuito,72,Efectivo,Trimestral
+5337,29,Masculino,Pants,Ropa,32,Cali,XL,Invierno,4.2,No,Entrega al dia siguiente,45,Efectivo,Mensual
+5338,44,Masculino,Sandals,Calzado,23,Manizales,XS,Invierno,2.7,Si,Envio estandar,38,Tarjeta de credito,Trimestral
+5339,50,Masculino,Coat,Abrigos,99,Manizales,XL,Otono,2.6,No,Express,51,Transferencia bancaria,Mensual
+5340,69,Masculino,Belt,Accesorios,30,Bogota,M,Primavera,3.3,Si,Envio gratuito,72,Efectivo,Semanal
+5341,39,Femenino,Boots,Calzado,114,Ibague,XXL,Primavera,4.3,Si,Envio estandar,94,Efectivo,Quincenal
+5342,32,Femenino,Hoodie,Ropa,100,Cartagena,XXL,Primavera,4.5,Si,Envio en 2 dias,8,Transferencia bancaria,Quincenal
+5343,56,Femenino,Shirt,Ropa,32,Barranquilla,S,Primavera,3.7,No,Entrega al dia siguiente,7,Transferencia bancaria,Cada 3 meses
+5344,43,Masculino,Dress,Ropa,50,Cucuta,XL,Otono,4.6,No,Recogida en tienda,78,Transferencia bancaria,Mensual
+5345,27,Femenino,Dress,Ropa,38,Cucuta,XXL,Verano,2.9,Si,Entrega al dia siguiente,61,Tarjeta de debito,Cada 3 meses
+5346,60,Femenino,Shorts,Ropa,83,Bucaramanga,XXL,Otono,3.5,Si,Entrega al dia siguiente,53,Efectivo,Quincenal
+5347,19,Masculino,Sandals,Calzado,35,Ibague,L,Primavera,4.0,Si,Recogida en tienda,83,Nequi,Mensual
+5348,20,Masculino,Coat,Abrigos,79,Armenia,L,Otono,2.5,Si,Envio gratuito,64,Nequi,Quincenal
+5349,40,Masculino,Shirt,Ropa,28,Cali,XXL,Verano,3.4,No,Entrega al dia siguiente,91,Tarjeta de credito,Cada 3 meses
+5350,68,Masculino,Jewelry,Accesorios,28,Cucuta,XXL,Invierno,3.4,No,Envio estandar,84,Tarjeta de credito,Trimestral
+5351,63,Masculino,Coat,Abrigos,109,Bucaramanga,XL,Otono,4.0,No,Envio en 2 dias,5,Transferencia bancaria,Semanal
+5352,28,Femenino,Boots,Calzado,105,Medellin,L,Invierno,3.3,Si,Recogida en tienda,30,Transferencia bancaria,Quincenal
+5353,64,Masculino,T-shirt,Ropa,73,Medellin,XS,Otono,2.8,Si,Entrega al dia siguiente,97,Tarjeta de debito,Trimestral
+5354,58,Femenino,Dress,Ropa,61,Medellin,XXL,Invierno,3.4,Si,Express,32,Efectivo,Mensual
+5355,61,Masculino,Handbag,Accesorios,45,Armenia,S,Invierno,4.5,Si,Envio en 2 dias,74,Transferencia bancaria,Semanal
+5356,60,Femenino,Gloves,Accesorios,24,Neiva,S,Primavera,3.4,No,Envio estandar,69,Transferencia bancaria,Cada 3 meses
+5357,29,Masculino,Gloves,Accesorios,46,Ibague,L,Otono,3.4,Si,Envio en 2 dias,56,Efectivo,Semanal
+5358,42,Femenino,Shorts,Ropa,30,Cali,XL,Otono,2.8,No,Express,6,Nequi,Trimestral
+5359,39,Femenino,Handbag,Accesorios,57,Cucuta,M,Invierno,4.3,Si,Express,36,Transferencia bancaria,Trimestral
+5360,54,Femenino,Shirt,Ropa,98,Manizales,M,Invierno,4.0,Si,Envio estandar,60,Tarjeta de debito,Semanal
+5361,19,Femenino,Jacket,Abrigos,73,Cartagena,S,Otono,4.7,Si,Express,26,Nequi,Semanal
+5362,39,Femenino,Handbag,Accesorios,83,Medellin,XL,Primavera,3.4,Si,Entrega al dia siguiente,76,Nequi,Anualmente
+5363,74,Masculino,Coat,Abrigos,54,Armenia,XS,Primavera,2.6,Si,Recogida en tienda,44,Efectivo,Mensual
+5364,37,Femenino,Backpack,Accesorios,27,Bogota,S,Invierno,4.2,Si,Envio estandar,61,Transferencia bancaria,Mensual
+5365,67,Masculino,Sunglasses,Accesorios,36,Pereira,XXL,Invierno,3.9,Si,Entrega al dia siguiente,15,Nequi,Cada 3 meses
+5366,40,Femenino,Jacket,Abrigos,75,Bogota,S,Verano,2.7,Si,Express,52,Nequi,Trimestral
+5367,20,Femenino,Sweater,Ropa,51,Cucuta,XS,Primavera,2.6,No,Express,36,Transferencia bancaria,Cada 3 meses
+5368,40,Femenino,Hoodie,Ropa,36,Ibague,L,Invierno,4.1,Si,Envio en 2 dias,32,Nequi,Quincenal
+5369,49,Masculino,Handbag,Accesorios,76,Armenia,M,Otono,4.5,No,Recogida en tienda,31,Nequi,Cada 3 meses
+5370,38,Femenino,Belt,Accesorios,64,Pereira,XXL,Invierno,3.2,Si,Express,66,Tarjeta de credito,Cada 3 meses
+5371,65,Femenino,Boots,Calzado,67,Armenia,S,Primavera,4.9,No,Recogida en tienda,97,Efectivo,Anualmente
+5372,19,Masculino,Belt,Accesorios,54,Cartagena,XL,Invierno,3.3,Si,Envio en 2 dias,35,Nequi,Mensual
+5373,49,Femenino,Jewelry,Accesorios,69,Santa Marta,XS,Verano,3.0,Si,Recogida en tienda,55,Nequi,Anualmente
+5374,60,Masculino,Belt,Accesorios,89,Neiva,M,Primavera,4.8,No,Envio gratuito,96,Nequi,Quincenal
+5375,66,Femenino,Jacket,Abrigos,112,Cucuta,XL,Invierno,4.7,Si,Envio en 2 dias,70,Efectivo,Semanal
+5376,61,Masculino,Shoes,Calzado,79,Pereira,XL,Otono,2.9,No,Entrega al dia siguiente,95,Tarjeta de credito,Quincenal
+5377,18,Masculino,Socks,Accesorios,55,Medellin,S,Otono,3.3,No,Envio en 2 dias,78,Tarjeta de debito,Cada 3 meses
+5378,35,Masculino,Sneakers,Calzado,118,Ibague,XS,Primavera,3.3,No,Envio gratuito,22,Efectivo,Mensual
+5379,19,Masculino,Backpack,Accesorios,79,Bogota,M,Invierno,4.1,Si,Entrega al dia siguiente,7,Nequi,Anualmente
+5380,35,Masculino,Blouse,Ropa,76,Cali,M,Otono,3.1,No,Express,29,Tarjeta de credito,Quincenal
+5381,73,Femenino,Handbag,Accesorios,34,Villavicencio,XS,Verano,4.2,No,Envio estandar,40,Transferencia bancaria,Trimestral
+5382,63,Femenino,Belt,Accesorios,111,Cartagena,M,Primavera,4.2,No,Envio estandar,91,Transferencia bancaria,Trimestral
+5383,33,Masculino,Boots,Calzado,29,Manizales,L,Primavera,3.8,Si,Express,41,Nequi,Cada 3 meses
+5384,71,Masculino,Blouse,Ropa,102,Pereira,M,Verano,2.6,No,Envio gratuito,52,Tarjeta de debito,Mensual
+5385,36,Femenino,Dress,Ropa,67,Bogota,M,Verano,4.8,Si,Envio en 2 dias,77,Tarjeta de credito,Cada 3 meses
+5386,50,Masculino,Gloves,Accesorios,68,Cucuta,XL,Primavera,4.1,Si,Entrega al dia siguiente,97,Transferencia bancaria,Anualmente
+5387,32,Masculino,Shoes,Calzado,113,Medellin,XL,Primavera,4.0,No,Envio gratuito,34,Tarjeta de credito,Trimestral
+5388,36,Femenino,Jacket,Abrigos,51,Neiva,M,Verano,3.6,Si,Recogida en tienda,30,Efectivo,Semanal
+5389,74,Masculino,Jeans,Ropa,30,Bucaramanga,XL,Primavera,4.8,No,Envio estandar,29,Efectivo,Mensual
+5390,32,Femenino,Shoes,Calzado,51,Neiva,L,Verano,4.0,No,Envio gratuito,40,Transferencia bancaria,Anualmente
+5391,44,Masculino,Shirt,Ropa,38,Ibague,L,Verano,4.7,No,Envio en 2 dias,21,Transferencia bancaria,Mensual
+5392,34,Masculino,Sweater,Ropa,32,Cali,XS,Invierno,2.6,Si,Envio en 2 dias,16,Nequi,Trimestral
+5393,42,Masculino,Jeans,Ropa,36,Pereira,XXL,Verano,4.3,Si,Envio gratuito,43,Nequi,Trimestral
+5394,57,Femenino,Sweater,Ropa,25,Medellin,XXL,Otono,4.9,No,Recogida en tienda,57,Efectivo,Cada 3 meses
+5395,66,Masculino,Sunglasses,Accesorios,37,Armenia,S,Primavera,2.9,Si,Envio estandar,75,Tarjeta de debito,Semanal
+5396,59,Masculino,Jewelry,Accesorios,61,Santa Marta,S,Otono,4.9,Si,Express,38,Efectivo,Cada 3 meses
+5397,21,Masculino,Hoodie,Ropa,61,Pereira,M,Verano,4.9,Si,Recogida en tienda,93,Tarjeta de credito,Mensual
+5398,51,Masculino,Shorts,Ropa,98,Bucaramanga,XS,Otono,3.2,Si,Envio gratuito,35,Efectivo,Mensual
+5399,32,Femenino,Hoodie,Ropa,53,Ibague,XS,Verano,4.2,Si,Envio en 2 dias,26,Nequi,Trimestral
+5400,66,Femenino,Backpack,Accesorios,96,Bogota,XL,Verano,2.5,Si,Envio gratuito,26,Tarjeta de debito,Trimestral
+5401,45,Masculino,Shirt,Ropa,36,Cucuta,L,Otono,4.8,Si,Entrega al dia siguiente,55,Efectivo,Cada 3 meses
+5402,23,Femenino,Hat,Accesorios,113,Villavicencio,XS,Otono,4.5,Si,Recogida en tienda,9,Tarjeta de debito,Quincenal
+5403,50,Masculino,Hat,Accesorios,78,Villavicencio,XXL,Primavera,4.3,No,Envio en 2 dias,55,Transferencia bancaria,Semanal
+5404,68,Masculino,Gloves,Accesorios,91,Villavicencio,XXL,Primavera,4.9,Si,Express,17,Nequi,Mensual
+5405,73,Femenino,Socks,Accesorios,45,Cartagena,L,Verano,3.7,Si,Recogida en tienda,63,Tarjeta de debito,Quincenal
+5406,30,Femenino,Shirt,Ropa,112,Armenia,S,Primavera,3.6,No,Envio estandar,78,Tarjeta de credito,Semanal
+5407,29,Femenino,Pants,Ropa,108,Cartagena,XL,Invierno,4.1,Si,Recogida en tienda,44,Efectivo,Trimestral
+5408,60,Femenino,Hoodie,Ropa,49,Cartagena,XXL,Invierno,3.7,No,Envio estandar,45,Nequi,Mensual
+5409,36,Femenino,Handbag,Accesorios,34,Neiva,M,Invierno,4.9,No,Express,84,Efectivo,Anualmente
+5410,29,Masculino,Jacket,Abrigos,104,Medellin,M,Invierno,4.3,No,Entrega al dia siguiente,76,Efectivo,Semanal
+5411,33,Femenino,Hoodie,Ropa,54,Manizales,S,Invierno,2.7,No,Envio gratuito,86,Tarjeta de debito,Mensual
+5412,43,Masculino,Pants,Ropa,71,Cartagena,XS,Otono,3.7,Si,Envio gratuito,81,Transferencia bancaria,Cada 3 meses
+5413,46,Masculino,Handbag,Accesorios,93,Cali,XL,Verano,4.4,Si,Envio estandar,78,Tarjeta de debito,Quincenal
+5414,56,Femenino,Sweater,Ropa,22,Neiva,L,Primavera,4.5,No,Envio gratuito,98,Nequi,Anualmente
+5415,59,Femenino,Shirt,Ropa,46,Bucaramanga,XL,Verano,5.0,No,Recogida en tienda,29,Tarjeta de debito,Quincenal
+5416,41,Masculino,Pants,Ropa,47,Manizales,XXL,Verano,4.9,Si,Envio en 2 dias,96,Nequi,Anualmente
+5417,50,Masculino,Scarf,Accesorios,25,Cali,M,Otono,2.6,Si,Envio en 2 dias,34,Transferencia bancaria,Mensual
+5418,59,Masculino,Coat,Abrigos,114,Cartagena,XS,Primavera,2.7,No,Envio en 2 dias,1,Nequi,Trimestral
+5419,27,Femenino,Sweater,Ropa,95,Neiva,L,Verano,4.6,No,Envio gratuito,54,Nequi,Semanal
+5420,19,Masculino,Hat,Accesorios,78,Barranquilla,XS,Otono,4.9,No,Entrega al dia siguiente,37,Efectivo,Anualmente
+5421,32,Masculino,Shoes,Calzado,55,Santa Marta,M,Verano,3.5,No,Recogida en tienda,50,Tarjeta de debito,Trimestral
+5422,63,Femenino,Sandals,Calzado,48,Ibague,XS,Invierno,4.4,No,Envio gratuito,61,Nequi,Anualmente
+5423,59,Masculino,Jacket,Abrigos,38,Neiva,XXL,Primavera,2.7,Si,Express,62,Nequi,Quincenal
+5424,23,Femenino,Jewelry,Accesorios,98,Cucuta,L,Verano,2.6,No,Envio gratuito,52,Tarjeta de debito,Semanal
+5425,39,Femenino,Belt,Accesorios,61,Armenia,XL,Invierno,4.7,No,Recogida en tienda,26,Nequi,Mensual
+5426,52,Masculino,Jacket,Abrigos,103,Barranquilla,M,Invierno,4.3,Si,Envio en 2 dias,54,Transferencia bancaria,Mensual
+5427,26,Femenino,Dress,Ropa,86,Armenia,XS,Verano,3.0,Si,Envio en 2 dias,54,Efectivo,Quincenal
+5428,58,Masculino,Coat,Abrigos,115,Cucuta,XL,Invierno,3.5,No,Envio en 2 dias,55,Tarjeta de debito,Semanal
+5429,74,Masculino,Shirt,Ropa,61,Ibague,M,Verano,2.9,Si,Envio estandar,91,Tarjeta de debito,Trimestral
+5430,56,Masculino,Scarf,Accesorios,79,Barranquilla,M,Verano,2.9,No,Envio en 2 dias,40,Efectivo,Quincenal
+5431,27,Masculino,Blouse,Ropa,20,Cartagena,XXL,Verano,3.0,Si,Envio estandar,58,Tarjeta de debito,Anualmente
+5432,21,Masculino,Skirt,Ropa,40,Medellin,M,Verano,3.4,Si,Express,35,Tarjeta de debito,Mensual
+5433,55,Masculino,Jeans,Ropa,99,Neiva,L,Otono,3.9,Si,Envio en 2 dias,75,Tarjeta de credito,Anualmente
+5434,64,Femenino,Hat,Accesorios,42,Cartagena,XL,Primavera,2.8,No,Envio gratuito,73,Nequi,Trimestral
+5435,35,Masculino,Gloves,Accesorios,41,Bogota,S,Verano,2.7,Si,Express,21,Efectivo,Anualmente
+5436,38,Femenino,Belt,Accesorios,37,Manizales,L,Invierno,4.2,No,Envio gratuito,64,Transferencia bancaria,Quincenal
+5437,53,Masculino,Jewelry,Accesorios,119,Pereira,XXL,Invierno,3.4,No,Envio estandar,10,Nequi,Quincenal
+5438,28,Masculino,Sunglasses,Accesorios,38,Cucuta,L,Invierno,3.7,No,Recogida en tienda,15,Nequi,Mensual
+5439,59,Masculino,Dress,Ropa,23,Cucuta,M,Invierno,4.4,No,Recogida en tienda,54,Tarjeta de credito,Trimestral
+5440,53,Femenino,Jewelry,Accesorios,67,Cali,XXL,Primavera,3.0,No,Envio estandar,24,Transferencia bancaria,Trimestral
+5441,37,Masculino,Boots,Calzado,67,Cartagena,XL,Primavera,4.0,Si,Recogida en tienda,35,Efectivo,Mensual
+5442,20,Masculino,Hat,Accesorios,100,Bogota,XL,Primavera,4.7,No,Envio estandar,80,Efectivo,Mensual
+5443,29,Masculino,Sweater,Ropa,102,Neiva,XL,Primavera,2.6,Si,Envio estandar,91,Tarjeta de credito,Semanal
+5444,65,Femenino,Coat,Abrigos,30,Pereira,XS,Primavera,3.6,Si,Envio gratuito,12,Nequi,Cada 3 meses
+5445,72,Femenino,Sneakers,Calzado,98,Armenia,XS,Otono,4.6,No,Recogida en tienda,21,Nequi,Semanal
+5446,41,Femenino,Socks,Accesorios,71,Pereira,XXL,Primavera,2.7,Si,Recogida en tienda,34,Transferencia bancaria,Quincenal
+5447,46,Femenino,Hat,Accesorios,97,Barranquilla,XXL,Invierno,2.9,Si,Envio gratuito,35,Nequi,Cada 3 meses
+5448,25,Masculino,Sandals,Calzado,92,Cucuta,XXL,Primavera,3.9,No,Envio en 2 dias,14,Transferencia bancaria,Quincenal
+5449,64,Femenino,Dress,Ropa,60,Ibague,XXL,Primavera,4.4,Si,Express,81,Tarjeta de debito,Mensual
+5450,23,Femenino,Hoodie,Ropa,107,Villavicencio,S,Verano,3.3,No,Recogida en tienda,36,Tarjeta de credito,Cada 3 meses
+5451,26,Masculino,Pants,Ropa,48,Cucuta,S,Otono,4.7,Si,Envio gratuito,33,Efectivo,Cada 3 meses
+5452,23,Masculino,Jeans,Ropa,94,Bucaramanga,M,Invierno,4.6,Si,Envio en 2 dias,74,Efectivo,Quincenal
+5453,52,Femenino,Sunglasses,Accesorios,75,Bucaramanga,XXL,Otono,3.0,No,Envio en 2 dias,65,Tarjeta de credito,Cada 3 meses
+5454,31,Masculino,Hat,Accesorios,24,Medellin,XL,Verano,3.7,No,Envio estandar,41,Tarjeta de debito,Trimestral
+5455,42,Femenino,Jacket,Abrigos,109,Medellin,XXL,Otono,4.7,Si,Express,53,Efectivo,Cada 3 meses
+5456,39,Femenino,Dress,Ropa,65,Cartagena,S,Invierno,3.9,Si,Entrega al dia siguiente,78,Efectivo,Trimestral
+5457,54,Masculino,Sweater,Ropa,71,Santa Marta,S,Otono,4.3,No,Entrega al dia siguiente,86,Efectivo,Cada 3 meses
+5458,20,Femenino,T-shirt,Ropa,84,Medellin,L,Invierno,4.4,No,Envio estandar,3,Tarjeta de credito,Trimestral
+5459,28,Masculino,Skirt,Ropa,109,Manizales,S,Verano,2.8,No,Envio en 2 dias,11,Tarjeta de debito,Quincenal
+5460,69,Masculino,Sandals,Calzado,70,Cali,L,Primavera,4.1,Si,Express,38,Tarjeta de debito,Anualmente
+5461,29,Femenino,Gloves,Accesorios,75,Medellin,XXL,Verano,2.9,No,Envio en 2 dias,61,Tarjeta de credito,Cada 3 meses
+5462,24,Masculino,Shoes,Calzado,107,Pereira,XXL,Verano,4.8,No,Entrega al dia siguiente,90,Tarjeta de credito,Anualmente
+5463,42,Femenino,Jacket,Abrigos,117,Cali,L,Otono,4.7,No,Envio estandar,50,Nequi,Anualmente
+5464,40,Masculino,Socks,Accesorios,114,Ibague,XS,Verano,4.7,Si,Express,47,Tarjeta de debito,Cada 3 meses
+5465,50,Femenino,Skirt,Ropa,96,Neiva,L,Primavera,4.1,Si,Entrega al dia siguiente,24,Transferencia bancaria,Quincenal
+5466,37,Masculino,Blouse,Ropa,63,Pereira,XXL,Verano,3.6,No,Envio gratuito,49,Efectivo,Anualmente
+5467,34,Masculino,Dress,Ropa,40,Pereira,XXL,Primavera,3.7,Si,Envio gratuito,87,Transferencia bancaria,Semanal
+5468,73,Masculino,Backpack,Accesorios,40,Bucaramanga,S,Invierno,4.2,Si,Entrega al dia siguiente,83,Efectivo,Mensual
+5469,67,Femenino,Hoodie,Ropa,74,Cartagena,XXL,Primavera,4.0,No,Envio estandar,47,Efectivo,Semanal
+5470,39,Masculino,Boots,Calzado,120,Cali,L,Invierno,4.7,Si,Express,0,Tarjeta de debito,Semanal
+5471,55,Masculino,Gloves,Accesorios,85,Cucuta,XL,Invierno,3.6,No,Envio gratuito,5,Transferencia bancaria,Mensual
+5472,47,Masculino,Belt,Accesorios,96,Villavicencio,M,Otono,3.6,No,Envio en 2 dias,69,Tarjeta de debito,Quincenal
+5473,36,Masculino,Pants,Ropa,22,Santa Marta,M,Otono,4.1,Si,Envio gratuito,93,Transferencia bancaria,Trimestral
+5474,65,Masculino,Handbag,Accesorios,42,Medellin,XL,Primavera,2.8,Si,Recogida en tienda,63,Efectivo,Cada 3 meses
+5475,40,Masculino,Sunglasses,Accesorios,99,Barranquilla,XXL,Invierno,2.6,No,Envio gratuito,4,Tarjeta de credito,Trimestral
+5476,64,Femenino,Jewelry,Accesorios,85,Armenia,XS,Otono,4.8,No,Entrega al dia siguiente,51,Transferencia bancaria,Quincenal
+5477,65,Masculino,Sweater,Ropa,103,Armenia,XS,Invierno,4.9,Si,Envio estandar,33,Tarjeta de debito,Trimestral
+5478,50,Femenino,Sunglasses,Accesorios,26,Bucaramanga,XL,Invierno,3.0,No,Envio gratuito,95,Tarjeta de credito,Cada 3 meses
+5479,50,Femenino,Skirt,Ropa,71,Cali,XXL,Otono,3.2,No,Express,2,Efectivo,Semanal
+5480,26,Masculino,Hat,Accesorios,79,Ibague,XXL,Otono,2.7,Si,Envio en 2 dias,90,Tarjeta de debito,Quincenal
+5481,22,Masculino,Sweater,Ropa,111,Ibague,L,Invierno,4.1,No,Envio estandar,49,Efectivo,Trimestral
+5482,18,Masculino,Jacket,Abrigos,60,Bucaramanga,L,Verano,3.7,No,Express,68,Tarjeta de credito,Semanal
+5483,42,Masculino,Jewelry,Accesorios,24,Villavicencio,XL,Primavera,4.1,No,Envio en 2 dias,26,Nequi,Cada 3 meses
+5484,37,Masculino,T-shirt,Ropa,60,Santa Marta,XXL,Invierno,2.6,Si,Envio estandar,45,Nequi,Mensual
+5485,44,Femenino,T-shirt,Ropa,56,Manizales,XXL,Invierno,5.0,No,Envio estandar,16,Efectivo,Trimestral
+5486,72,Femenino,Boots,Calzado,70,Barranquilla,S,Primavera,3.9,Si,Express,98,Efectivo,Trimestral
+5487,44,Masculino,T-shirt,Ropa,47,Pereira,XL,Otono,3.3,No,Recogida en tienda,13,Tarjeta de debito,Trimestral
+5488,52,Masculino,Handbag,Accesorios,71,Santa Marta,L,Otono,4.6,No,Express,22,Efectivo,Cada 3 meses
+5489,18,Masculino,T-shirt,Ropa,79,Villavicencio,S,Primavera,3.5,No,Entrega al dia siguiente,52,Tarjeta de credito,Semanal
+5490,19,Femenino,Coat,Abrigos,98,Ibague,XL,Primavera,4.0,No,Envio en 2 dias,41,Nequi,Quincenal
+5491,28,Masculino,Socks,Accesorios,31,Bucaramanga,XS,Invierno,3.9,Si,Express,58,Tarjeta de debito,Semanal
+5492,73,Femenino,Dress,Ropa,80,Armenia,S,Otono,2.8,Si,Envio en 2 dias,26,Nequi,Mensual
+5493,47,Femenino,Socks,Accesorios,97,Santa Marta,S,Verano,4.9,Si,Envio estandar,42,Tarjeta de credito,Quincenal
+5494,47,Femenino,Backpack,Accesorios,115,Bogota,XXL,Invierno,4.7,No,Entrega al dia siguiente,9,Efectivo,Cada 3 meses
+5495,74,Femenino,Sunglasses,Accesorios,119,Ibague,XXL,Primavera,3.6,Si,Envio gratuito,50,Transferencia bancaria,Cada 3 meses
+5496,43,Masculino,Pants,Ropa,120,Medellin,XS,Verano,4.6,Si,Recogida en tienda,21,Tarjeta de debito,Mensual
+5497,60,Masculino,Coat,Abrigos,51,Neiva,L,Verano,3.2,No,Recogida en tienda,88,Transferencia bancaria,Mensual
+5498,75,Masculino,T-shirt,Ropa,51,Neiva,M,Otono,3.2,No,Envio gratuito,100,Efectivo,Semanal
+5499,34,Masculino,Skirt,Ropa,24,Neiva,S,Verano,3.8,Si,Express,47,Nequi,Cada 3 meses
+5500,63,Masculino,Hoodie,Ropa,111,Cali,XL,Otono,3.7,No,Recogida en tienda,37,Tarjeta de credito,Semanal
+5501,69,Femenino,Coat,Abrigos,97,Cartagena,L,Otono,4.1,Si,Express,74,Tarjeta de debito,Quincenal
+5502,55,Femenino,Hat,Accesorios,66,Armenia,XL,Invierno,3.7,Si,Envio gratuito,82,Tarjeta de credito,Trimestral
+5503,72,Masculino,Shirt,Ropa,67,Pereira,L,Verano,4.7,No,Express,61,Efectivo,Anualmente
+5504,60,Femenino,Jacket,Abrigos,48,Cartagena,S,Verano,2.9,Si,Recogida en tienda,25,Tarjeta de debito,Mensual
+5505,47,Femenino,Sweater,Ropa,120,Neiva,XL,Verano,4.4,No,Recogida en tienda,4,Efectivo,Semanal
+5506,24,Masculino,Shirt,Ropa,28,Cartagena,XL,Primavera,4.9,Si,Entrega al dia siguiente,72,Nequi,Quincenal
+5507,33,Masculino,Sweater,Ropa,43,Armenia,XXL,Verano,3.1,No,Express,5,Nequi,Cada 3 meses
+5508,53,Masculino,Blouse,Ropa,115,Barranquilla,XXL,Primavera,4.8,Si,Envio estandar,38,Transferencia bancaria,Quincenal
+5509,32,Femenino,Shorts,Ropa,117,Ibague,L,Invierno,2.7,Si,Envio gratuito,81,Transferencia bancaria,Quincenal
+5510,48,Femenino,Sandals,Calzado,30,Santa Marta,S,Primavera,3.9,Si,Envio estandar,62,Tarjeta de debito,Trimestral
+5511,18,Masculino,Boots,Calzado,112,Santa Marta,XXL,Verano,4.0,No,Envio en 2 dias,32,Efectivo,Trimestral
+5512,35,Masculino,Sneakers,Calzado,42,Bucaramanga,XL,Invierno,3.8,No,Envio gratuito,68,Tarjeta de credito,Cada 3 meses
+5513,35,Masculino,Sneakers,Calzado,76,Medellin,S,Invierno,2.5,No,Entrega al dia siguiente,20,Tarjeta de credito,Anualmente
+5514,66,Masculino,Socks,Accesorios,58,Medellin,L,Otono,4.1,Si,Express,99,Transferencia bancaria,Quincenal
+5515,31,Masculino,Shirt,Ropa,59,Bucaramanga,XL,Invierno,2.8,No,Envio estandar,26,Nequi,Semanal
+5516,27,Masculino,Dress,Ropa,44,Neiva,L,Verano,4.6,Si,Envio gratuito,66,Efectivo,Semanal
+5517,56,Masculino,T-shirt,Ropa,112,Cartagena,S,Otono,3.7,No,Envio gratuito,18,Tarjeta de debito,Cada 3 meses
+5518,64,Masculino,Sweater,Ropa,60,Santa Marta,M,Invierno,3.9,No,Envio en 2 dias,97,Efectivo,Anualmente
+5519,44,Masculino,Sneakers,Calzado,37,Santa Marta,M,Primavera,4.5,Si,Express,84,Tarjeta de debito,Cada 3 meses
+5520,71,Masculino,Backpack,Accesorios,61,Pereira,L,Otono,3.9,Si,Express,79,Nequi,Mensual
+5521,72,Masculino,Boots,Calzado,29,Barranquilla,S,Otono,4.3,No,Envio en 2 dias,99,Efectivo,Semanal
+5522,63,Masculino,Handbag,Accesorios,55,Ibague,XL,Invierno,2.6,Si,Recogida en tienda,43,Tarjeta de debito,Trimestral
+5523,41,Masculino,Hoodie,Ropa,34,Santa Marta,S,Primavera,3.3,No,Express,19,Nequi,Cada 3 meses
+5524,54,Femenino,Shoes,Calzado,31,Santa Marta,S,Otono,3.9,No,Envio estandar,67,Tarjeta de debito,Semanal
+5525,19,Femenino,T-shirt,Ropa,118,Medellin,XXL,Otono,4.9,No,Entrega al dia siguiente,95,Tarjeta de credito,Quincenal
+5526,38,Masculino,Handbag,Accesorios,78,Bucaramanga,M,Verano,4.2,No,Envio gratuito,77,Transferencia bancaria,Quincenal
+5527,25,Masculino,Pants,Ropa,70,Neiva,L,Primavera,4.6,Si,Envio estandar,47,Transferencia bancaria,Trimestral
+5528,45,Femenino,Shirt,Ropa,61,Neiva,XL,Invierno,3.2,No,Recogida en tienda,8,Transferencia bancaria,Trimestral
+5529,23,Femenino,Shoes,Calzado,40,Neiva,XL,Primavera,3.9,No,Envio estandar,83,Tarjeta de credito,Anualmente
+5530,67,Masculino,Hat,Accesorios,79,Santa Marta,XXL,Verano,4.1,Si,Express,82,Nequi,Cada 3 meses
+5531,47,Masculino,Backpack,Accesorios,71,Ibague,M,Primavera,4.1,No,Envio en 2 dias,1,Tarjeta de credito,Cada 3 meses
+5532,45,Femenino,Hat,Accesorios,48,Ibague,XXL,Otono,3.8,Si,Envio estandar,45,Nequi,Quincenal
+5533,30,Femenino,Gloves,Accesorios,59,Cali,XS,Primavera,3.8,Si,Express,69,Tarjeta de debito,Anualmente
+5534,38,Masculino,Handbag,Accesorios,104,Barranquilla,S,Otono,2.9,No,Express,27,Tarjeta de debito,Anualmente
+5535,26,Masculino,Boots,Calzado,68,Bogota,L,Verano,3.5,No,Entrega al dia siguiente,51,Tarjeta de credito,Quincenal
+5536,67,Masculino,Shorts,Ropa,35,Medellin,S,Primavera,2.9,Si,Envio en 2 dias,62,Nequi,Cada 3 meses
+5537,65,Masculino,Pants,Ropa,44,Barranquilla,XS,Otono,3.7,Si,Entrega al dia siguiente,2,Transferencia bancaria,Mensual
+5538,69,Masculino,Jewelry,Accesorios,32,Bucaramanga,M,Otono,4.6,No,Recogida en tienda,38,Tarjeta de credito,Semanal
+5539,23,Masculino,Scarf,Accesorios,22,Cartagena,XXL,Otono,2.6,Si,Express,72,Transferencia bancaria,Quincenal
+5540,51,Femenino,Coat,Abrigos,108,Santa Marta,XS,Primavera,4.0,Si,Recogida en tienda,84,Tarjeta de debito,Cada 3 meses
+5541,57,Masculino,Dress,Ropa,73,Cali,S,Verano,4.4,Si,Envio gratuito,14,Tarjeta de credito,Anualmente
+5542,49,Femenino,Hoodie,Ropa,71,Villavicencio,M,Otono,4.1,Si,Envio en 2 dias,42,Transferencia bancaria,Mensual
+5543,20,Femenino,Pants,Ropa,25,Manizales,L,Verano,2.9,Si,Envio gratuito,28,Transferencia bancaria,Mensual
+5544,22,Femenino,Scarf,Accesorios,79,Pereira,XL,Invierno,2.8,Si,Envio gratuito,60,Efectivo,Cada 3 meses
+5545,26,Masculino,Socks,Accesorios,89,Bucaramanga,XL,Primavera,3.7,Si,Express,28,Nequi,Quincenal
+5546,69,Femenino,Handbag,Accesorios,104,Medellin,XXL,Primavera,4.3,No,Envio estandar,13,Tarjeta de credito,Quincenal
+5547,34,Femenino,Sweater,Ropa,104,Cartagena,M,Invierno,4.2,No,Express,41,Efectivo,Cada 3 meses
+5548,60,Femenino,Shorts,Ropa,114,Cucuta,XS,Invierno,4.1,Si,Express,1,Tarjeta de credito,Semanal
+5549,20,Femenino,Dress,Ropa,70,Bucaramanga,XS,Invierno,3.7,No,Express,80,Nequi,Mensual
+5550,46,Femenino,Sandals,Calzado,99,Cartagena,XL,Invierno,2.8,No,Recogida en tienda,98,Nequi,Cada 3 meses
+5551,39,Femenino,Hat,Accesorios,63,Neiva,L,Invierno,4.2,No,Envio estandar,33,Transferencia bancaria,Cada 3 meses
+5552,45,Femenino,Shoes,Calzado,36,Medellin,S,Invierno,4.6,Si,Envio estandar,91,Tarjeta de debito,Quincenal
+5553,73,Masculino,Hoodie,Ropa,77,Pereira,XL,Primavera,4.9,Si,Entrega al dia siguiente,65,Tarjeta de credito,Quincenal
+5554,71,Femenino,T-shirt,Ropa,22,Barranquilla,XXL,Otono,3.8,Si,Envio estandar,67,Nequi,Anualmente
+5555,69,Masculino,Shoes,Calzado,49,Armenia,XL,Verano,3.4,Si,Recogida en tienda,21,Nequi,Quincenal
+5556,71,Femenino,Shoes,Calzado,98,Pereira,S,Otono,2.6,No,Envio gratuito,49,Nequi,Mensual
+5557,75,Masculino,Sandals,Calzado,61,Cali,XXL,Otono,2.5,No,Recogida en tienda,71,Tarjeta de debito,Quincenal
+5558,64,Femenino,Belt,Accesorios,116,Pereira,S,Verano,3.7,Si,Express,50,Tarjeta de credito,Semanal
+5559,44,Masculino,Shorts,Ropa,44,Barranquilla,M,Primavera,3.1,No,Express,51,Transferencia bancaria,Semanal
+5560,65,Femenino,Gloves,Accesorios,76,Cali,XXL,Otono,4.4,Si,Recogida en tienda,15,Nequi,Cada 3 meses
+5561,51,Femenino,T-shirt,Ropa,100,Ibague,L,Verano,4.2,No,Envio en 2 dias,69,Nequi,Mensual
+5562,27,Femenino,T-shirt,Ropa,112,Bucaramanga,M,Primavera,3.5,No,Envio en 2 dias,80,Efectivo,Mensual
+5563,55,Femenino,Sunglasses,Accesorios,108,Cucuta,L,Otono,3.1,Si,Envio en 2 dias,93,Nequi,Trimestral
+5564,73,Masculino,Handbag,Accesorios,105,Santa Marta,XXL,Invierno,3.6,Si,Envio gratuito,92,Tarjeta de debito,Cada 3 meses
+5565,58,Masculino,Pants,Ropa,105,Cucuta,M,Otono,2.7,Si,Recogida en tienda,62,Tarjeta de credito,Trimestral
+5566,49,Femenino,Shorts,Ropa,75,Villavicencio,M,Primavera,5.0,No,Envio estandar,77,Nequi,Mensual
+5567,56,Masculino,Belt,Accesorios,97,Medellin,XL,Primavera,3.9,Si,Express,46,Nequi,Semanal
+5568,63,Masculino,Jewelry,Accesorios,111,Armenia,XS,Otono,4.1,No,Entrega al dia siguiente,73,Nequi,Anualmente
+5569,43,Masculino,Socks,Accesorios,23,Barranquilla,XL,Verano,2.6,No,Envio en 2 dias,37,Efectivo,Anualmente
+5570,64,Masculino,Hat,Accesorios,65,Cucuta,XXL,Otono,3.4,Si,Envio gratuito,57,Transferencia bancaria,Cada 3 meses
+5571,47,Masculino,T-shirt,Ropa,40,Barranquilla,XL,Otono,4.4,No,Express,63,Transferencia bancaria,Cada 3 meses
+5572,40,Femenino,Jacket,Abrigos,59,Medellin,XXL,Primavera,4.1,No,Envio estandar,63,Tarjeta de credito,Mensual
+5573,30,Masculino,Sunglasses,Accesorios,82,Bucaramanga,M,Invierno,4.7,Si,Express,41,Transferencia bancaria,Anualmente
+5574,30,Masculino,Shirt,Ropa,109,Villavicencio,XL,Otono,4.4,Si,Entrega al dia siguiente,79,Transferencia bancaria,Quincenal
+5575,23,Femenino,Sunglasses,Accesorios,96,Villavicencio,L,Otono,2.9,No,Envio estandar,45,Efectivo,Quincenal
+5576,42,Femenino,Sweater,Ropa,57,Ibague,XL,Primavera,3.3,Si,Entrega al dia siguiente,5,Tarjeta de credito,Trimestral
+5577,27,Masculino,Backpack,Accesorios,83,Barranquilla,XXL,Verano,3.1,Si,Entrega al dia siguiente,82,Tarjeta de credito,Quincenal
+5578,18,Masculino,Handbag,Accesorios,22,Cucuta,XL,Invierno,4.6,No,Envio estandar,70,Nequi,Quincenal
+5579,44,Femenino,Shirt,Ropa,94,Pereira,XXL,Invierno,4.4,No,Envio gratuito,55,Tarjeta de debito,Cada 3 meses
+5580,75,Femenino,Jacket,Abrigos,89,Bucaramanga,XS,Verano,3.3,Si,Envio estandar,74,Tarjeta de credito,Anualmente
+5581,68,Masculino,Shoes,Calzado,60,Medellin,XL,Verano,4.3,Si,Entrega al dia siguiente,34,Nequi,Anualmente
+5582,47,Masculino,Scarf,Accesorios,95,Pereira,XS,Verano,2.6,No,Envio estandar,83,Transferencia bancaria,Cada 3 meses
+5583,48,Femenino,Blouse,Ropa,107,Bucaramanga,XS,Otono,3.9,Si,Recogida en tienda,76,Efectivo,Mensual
+5584,63,Femenino,Jewelry,Accesorios,47,Villavicencio,L,Otono,3.8,No,Envio gratuito,29,Nequi,Trimestral
+5585,44,Femenino,T-shirt,Ropa,89,Villavicencio,XL,Otono,4.7,Si,Recogida en tienda,96,Tarjeta de debito,Trimestral
+5586,25,Femenino,Skirt,Ropa,28,Manizales,L,Verano,4.3,Si,Envio estandar,99,Tarjeta de credito,Quincenal
+5587,19,Masculino,Sweater,Ropa,35,Bucaramanga,XS,Primavera,4.9,No,Entrega al dia siguiente,48,Efectivo,Quincenal
+5588,72,Masculino,Dress,Ropa,32,Cartagena,M,Verano,4.3,No,Entrega al dia siguiente,11,Tarjeta de credito,Cada 3 meses
+5589,43,Femenino,Handbag,Accesorios,64,Villavicencio,XXL,Primavera,3.3,Si,Envio estandar,32,Transferencia bancaria,Trimestral
+5590,21,Femenino,Socks,Accesorios,67,Medellin,S,Primavera,4.9,Si,Envio en 2 dias,41,Efectivo,Cada 3 meses
+5591,19,Masculino,Blouse,Ropa,42,Barranquilla,XXL,Invierno,3.0,Si,Envio gratuito,12,Tarjeta de credito,Trimestral
+5592,41,Femenino,Sandals,Calzado,110,Cucuta,S,Verano,4.5,No,Envio en 2 dias,79,Transferencia bancaria,Trimestral
+5593,74,Femenino,Hoodie,Ropa,57,Medellin,M,Verano,4.0,Si,Envio en 2 dias,63,Tarjeta de credito,Trimestral
+5594,27,Masculino,Sandals,Calzado,104,Manizales,L,Invierno,4.9,Si,Envio gratuito,31,Tarjeta de debito,Quincenal
+5595,33,Masculino,Gloves,Accesorios,71,Bogota,M,Primavera,4.8,No,Recogida en tienda,90,Nequi,Anualmente
+5596,72,Femenino,Socks,Accesorios,103,Bucaramanga,XL,Invierno,4.4,Si,Envio gratuito,41,Tarjeta de credito,Mensual
+5597,66,Femenino,Hoodie,Ropa,100,Pereira,L,Invierno,3.4,No,Envio en 2 dias,62,Transferencia bancaria,Cada 3 meses
+5598,53,Masculino,Skirt,Ropa,69,Cartagena,L,Otono,4.4,Si,Envio estandar,5,Tarjeta de credito,Anualmente
+5599,37,Femenino,Sneakers,Calzado,60,Armenia,XS,Primavera,2.6,No,Entrega al dia siguiente,24,Tarjeta de debito,Trimestral
+5600,21,Masculino,Sweater,Ropa,85,Manizales,S,Otono,4.2,Si,Express,12,Efectivo,Quincenal
+5601,75,Femenino,Sunglasses,Accesorios,60,Medellin,XXL,Verano,3.7,Si,Envio en 2 dias,48,Tarjeta de credito,Semanal
+5602,25,Masculino,Backpack,Accesorios,50,Villavicencio,M,Verano,5.0,Si,Envio gratuito,51,Transferencia bancaria,Quincenal
+5603,27,Femenino,Skirt,Ropa,105,Cartagena,L,Otono,3.0,No,Entrega al dia siguiente,88,Transferencia bancaria,Mensual
+5604,70,Masculino,Jewelry,Accesorios,55,Cucuta,S,Invierno,3.1,Si,Recogida en tienda,88,Efectivo,Anualmente
+5605,62,Masculino,Coat,Abrigos,104,Armenia,S,Primavera,4.1,Si,Express,62,Transferencia bancaria,Quincenal
+5606,52,Masculino,Dress,Ropa,114,Cartagena,XXL,Invierno,3.2,No,Envio gratuito,72,Tarjeta de debito,Anualmente
+5607,66,Femenino,Jewelry,Accesorios,45,Medellin,XL,Invierno,3.0,Si,Entrega al dia siguiente,61,Transferencia bancaria,Anualmente
+5608,32,Femenino,Jewelry,Accesorios,43,Medellin,XXL,Primavera,3.1,No,Entrega al dia siguiente,94,Tarjeta de credito,Mensual
+5609,56,Femenino,Socks,Accesorios,84,Neiva,S,Verano,4.3,Si,Envio estandar,1,Tarjeta de credito,Cada 3 meses
+5610,73,Masculino,Dress,Ropa,64,Santa Marta,S,Primavera,3.5,Si,Envio gratuito,64,Transferencia bancaria,Quincenal
+5611,29,Femenino,Jacket,Abrigos,104,Armenia,L,Primavera,4.7,Si,Express,77,Nequi,Cada 3 meses
+5612,53,Femenino,Coat,Abrigos,90,Bucaramanga,XS,Primavera,4.2,No,Envio estandar,68,Transferencia bancaria,Trimestral
+5613,64,Femenino,Sweater,Ropa,61,Bucaramanga,XS,Verano,4.8,Si,Envio en 2 dias,48,Transferencia bancaria,Trimestral
+5614,21,Masculino,T-shirt,Ropa,92,Medellin,S,Primavera,3.9,Si,Envio en 2 dias,83,Efectivo,Trimestral
+5615,59,Masculino,Hoodie,Ropa,107,Ibague,L,Invierno,4.8,Si,Recogida en tienda,62,Nequi,Cada 3 meses
+5616,40,Masculino,Scarf,Accesorios,39,Santa Marta,XL,Otono,3.1,No,Recogida en tienda,93,Tarjeta de credito,Mensual
+5617,34,Femenino,Jeans,Ropa,114,Bogota,L,Otono,2.9,No,Entrega al dia siguiente,90,Nequi,Quincenal
+5618,43,Femenino,Sneakers,Calzado,65,Barranquilla,L,Invierno,4.7,No,Recogida en tienda,57,Efectivo,Mensual
+5619,47,Masculino,Jacket,Abrigos,61,Villavicencio,L,Verano,4.3,Si,Express,27,Tarjeta de credito,Trimestral
+5620,30,Masculino,Sandals,Calzado,90,Cucuta,L,Otono,4.1,Si,Entrega al dia siguiente,18,Efectivo,Anualmente
+5621,52,Masculino,Hoodie,Ropa,119,Cucuta,XL,Invierno,2.6,Si,Envio gratuito,70,Tarjeta de credito,Semanal
+5622,42,Masculino,Dress,Ropa,76,Bogota,XXL,Verano,3.5,Si,Envio gratuito,95,Nequi,Quincenal
+5623,59,Masculino,Shorts,Ropa,120,Neiva,S,Verano,3.5,No,Express,94,Tarjeta de credito,Mensual
+5624,38,Femenino,Socks,Accesorios,32,Neiva,XS,Primavera,2.6,Si,Envio gratuito,11,Tarjeta de debito,Cada 3 meses
+5625,30,Femenino,Gloves,Accesorios,59,Cucuta,XS,Otono,4.1,No,Envio estandar,57,Efectivo,Cada 3 meses
+5626,63,Femenino,Hoodie,Ropa,58,Medellin,XL,Verano,4.8,Si,Express,53,Transferencia bancaria,Trimestral
+5627,57,Masculino,Dress,Ropa,91,Manizales,XXL,Invierno,4.2,No,Recogida en tienda,31,Transferencia bancaria,Semanal
+5628,27,Masculino,Boots,Calzado,116,Bogota,S,Invierno,3.7,No,Express,98,Transferencia bancaria,Trimestral
+5629,62,Masculino,Sandals,Calzado,94,Ibague,S,Invierno,4.7,No,Recogida en tienda,72,Tarjeta de debito,Cada 3 meses
+5630,23,Masculino,Blouse,Ropa,42,Cali,XL,Otono,4.2,Si,Envio en 2 dias,85,Tarjeta de credito,Semanal
+5631,38,Masculino,Sunglasses,Accesorios,120,Medellin,M,Invierno,2.5,No,Express,46,Tarjeta de debito,Quincenal
+5632,50,Masculino,Shirt,Ropa,23,Santa Marta,M,Verano,2.6,Si,Recogida en tienda,39,Tarjeta de debito,Mensual
+5633,45,Masculino,Belt,Accesorios,54,Armenia,XXL,Invierno,4.1,No,Envio estandar,4,Tarjeta de credito,Trimestral
+5634,18,Femenino,Hoodie,Ropa,68,Barranquilla,L,Invierno,3.5,No,Recogida en tienda,48,Tarjeta de debito,Cada 3 meses
+5635,69,Masculino,Pants,Ropa,110,Bucaramanga,S,Otono,4.3,Si,Entrega al dia siguiente,36,Tarjeta de debito,Anualmente
+5636,46,Femenino,Socks,Accesorios,60,Cucuta,XL,Primavera,2.6,Si,Envio en 2 dias,31,Transferencia bancaria,Quincenal
+5637,41,Femenino,Coat,Abrigos,93,Neiva,S,Primavera,4.7,Si,Recogida en tienda,1,Tarjeta de debito,Trimestral
+5638,22,Femenino,Shorts,Ropa,100,Cucuta,L,Otono,4.5,Si,Envio estandar,15,Transferencia bancaria,Semanal
+5639,26,Femenino,Sweater,Ropa,30,Cali,XS,Primavera,2.5,Si,Express,6,Transferencia bancaria,Mensual
+5640,38,Femenino,Scarf,Accesorios,45,Armenia,L,Verano,3.7,Si,Entrega al dia siguiente,23,Nequi,Anualmente
+5641,23,Femenino,Gloves,Accesorios,53,Cali,XL,Verano,4.2,Si,Express,23,Tarjeta de debito,Quincenal
+5642,28,Masculino,Sneakers,Calzado,95,Cartagena,XL,Invierno,3.8,No,Express,54,Tarjeta de debito,Cada 3 meses
+5643,65,Femenino,Shirt,Ropa,20,Villavicencio,XXL,Otono,3.2,Si,Envio en 2 dias,7,Transferencia bancaria,Mensual
+5644,40,Femenino,Skirt,Ropa,116,Cucuta,L,Primavera,4.2,No,Envio en 2 dias,95,Transferencia bancaria,Cada 3 meses
+5645,55,Masculino,Sunglasses,Accesorios,107,Ibague,XXL,Primavera,3.9,No,Entrega al dia siguiente,45,Efectivo,Cada 3 meses
+5646,49,Masculino,T-shirt,Ropa,82,Bucaramanga,XL,Verano,3.1,Si,Envio en 2 dias,88,Tarjeta de debito,Mensual
+5647,47,Masculino,Jacket,Abrigos,71,Santa Marta,L,Invierno,2.9,No,Entrega al dia siguiente,3,Tarjeta de credito,Cada 3 meses
+5648,42,Femenino,Jewelry,Accesorios,66,Bogota,L,Verano,2.9,Si,Express,12,Transferencia bancaria,Mensual
+5649,48,Femenino,Hat,Accesorios,63,Barranquilla,XS,Invierno,3.5,No,Envio estandar,35,Tarjeta de credito,Quincenal
+5650,49,Masculino,Pants,Ropa,75,Cucuta,S,Invierno,4.9,Si,Envio gratuito,13,Transferencia bancaria,Cada 3 meses
+5651,63,Masculino,Skirt,Ropa,57,Cali,S,Invierno,4.5,No,Entrega al dia siguiente,1,Tarjeta de debito,Semanal
+5652,28,Masculino,Sneakers,Calzado,59,Villavicencio,XL,Invierno,4.0,Si,Envio estandar,36,Tarjeta de debito,Semanal
+5653,41,Femenino,Jeans,Ropa,92,Santa Marta,XS,Primavera,3.6,No,Express,26,Tarjeta de debito,Semanal
+5654,32,Masculino,Sneakers,Calzado,80,Neiva,M,Otono,3.9,No,Recogida en tienda,24,Tarjeta de credito,Cada 3 meses
+5655,68,Femenino,Sunglasses,Accesorios,95,Ibague,S,Verano,3.7,No,Envio en 2 dias,40,Nequi,Anualmente
+5656,42,Femenino,Skirt,Ropa,61,Medellin,XL,Invierno,3.7,No,Envio en 2 dias,57,Efectivo,Quincenal
+5657,68,Masculino,Sunglasses,Accesorios,38,Bucaramanga,XS,Invierno,3.1,Si,Envio gratuito,45,Nequi,Mensual
+5658,53,Femenino,Hat,Accesorios,60,Santa Marta,M,Verano,4.6,Si,Envio estandar,77,Transferencia bancaria,Cada 3 meses
+5659,64,Femenino,Sweater,Ropa,44,Manizales,XL,Otono,3.1,No,Entrega al dia siguiente,89,Transferencia bancaria,Cada 3 meses
+5660,34,Femenino,Coat,Abrigos,57,Bogota,XS,Invierno,2.7,No,Express,57,Efectivo,Trimestral
+5661,28,Masculino,T-shirt,Ropa,60,Medellin,M,Invierno,3.2,No,Envio gratuito,20,Nequi,Quincenal
+5662,38,Femenino,Boots,Calzado,26,Cucuta,M,Invierno,3.4,No,Recogida en tienda,48,Nequi,Anualmente
+5663,58,Masculino,Sneakers,Calzado,61,Pereira,S,Otono,4.0,Si,Recogida en tienda,36,Tarjeta de debito,Trimestral
+5664,66,Femenino,Shirt,Ropa,27,Armenia,XXL,Verano,3.7,Si,Express,19,Transferencia bancaria,Trimestral
+5665,28,Femenino,Blouse,Ropa,116,Bucaramanga,M,Otono,2.7,No,Envio en 2 dias,63,Efectivo,Trimestral
+5666,21,Masculino,Sneakers,Calzado,70,Armenia,S,Primavera,4.5,No,Express,14,Tarjeta de debito,Quincenal
+5667,33,Femenino,Sneakers,Calzado,107,Manizales,XS,Primavera,4.1,Si,Entrega al dia siguiente,5,Transferencia bancaria,Quincenal
+5668,66,Femenino,Coat,Abrigos,37,Manizales,M,Otono,3.5,No,Envio en 2 dias,65,Tarjeta de debito,Mensual
+5669,19,Masculino,Shoes,Calzado,28,Bogota,S,Primavera,3.0,No,Envio en 2 dias,44,Transferencia bancaria,Trimestral
+5670,74,Masculino,Shirt,Ropa,41,Pereira,S,Verano,3.8,No,Envio gratuito,71,Tarjeta de debito,Trimestral
+5671,42,Femenino,Gloves,Accesorios,116,Ibague,M,Otono,3.0,No,Entrega al dia siguiente,15,Tarjeta de debito,Mensual
+5672,19,Masculino,Skirt,Ropa,103,Villavicencio,XL,Invierno,3.0,Si,Envio en 2 dias,49,Transferencia bancaria,Semanal
+5673,73,Femenino,Gloves,Accesorios,117,Ibague,XXL,Otono,4.6,Si,Envio estandar,38,Tarjeta de debito,Mensual
+5674,21,Femenino,Shorts,Ropa,52,Barranquilla,XL,Primavera,3.3,Si,Express,42,Tarjeta de credito,Mensual
+5675,64,Masculino,Sweater,Ropa,61,Santa Marta,L,Verano,4.8,No,Envio estandar,76,Tarjeta de debito,Semanal
+5676,72,Femenino,Blouse,Ropa,98,Medellin,XS,Primavera,4.0,Si,Envio gratuito,0,Tarjeta de debito,Mensual
+5677,42,Femenino,Boots,Calzado,26,Bucaramanga,S,Verano,4.9,No,Envio en 2 dias,35,Efectivo,Semanal
+5678,19,Masculino,T-shirt,Ropa,24,Medellin,M,Verano,3.2,Si,Envio en 2 dias,81,Transferencia bancaria,Mensual
+5679,29,Femenino,Boots,Calzado,31,Armenia,S,Invierno,4.7,No,Envio gratuito,2,Nequi,Mensual
+5680,22,Femenino,Gloves,Accesorios,28,Pereira,XXL,Invierno,2.6,No,Entrega al dia siguiente,59,Efectivo,Quincenal
+5681,18,Femenino,Socks,Accesorios,28,Neiva,M,Otono,4.3,Si,Envio gratuito,3,Tarjeta de debito,Quincenal
+5682,33,Masculino,Backpack,Accesorios,103,Bogota,XL,Invierno,3.9,No,Express,91,Transferencia bancaria,Cada 3 meses
+5683,41,Femenino,Skirt,Ropa,67,Santa Marta,L,Verano,3.4,No,Recogida en tienda,70,Nequi,Quincenal
+5684,38,Masculino,Pants,Ropa,42,Ibague,L,Otono,3.7,No,Envio gratuito,18,Efectivo,Semanal
+5685,52,Masculino,Jeans,Ropa,75,Medellin,XL,Otono,4.7,No,Envio gratuito,82,Efectivo,Mensual
+5686,66,Femenino,Belt,Accesorios,63,Manizales,XXL,Verano,4.0,Si,Envio estandar,17,Tarjeta de credito,Semanal
+5687,43,Femenino,Pants,Ropa,34,Manizales,XL,Primavera,3.8,Si,Envio gratuito,70,Tarjeta de credito,Semanal
+5688,32,Masculino,Scarf,Accesorios,34,Bucaramanga,XXL,Otono,3.9,No,Envio estandar,84,Efectivo,Quincenal
+5689,54,Masculino,Sweater,Ropa,72,Armenia,XS,Verano,4.1,No,Express,88,Tarjeta de credito,Semanal
+5690,18,Femenino,Scarf,Accesorios,38,Medellin,XXL,Otono,3.1,No,Envio gratuito,26,Nequi,Semanal
+5691,24,Femenino,Backpack,Accesorios,22,Bogota,M,Primavera,3.0,Si,Envio en 2 dias,32,Efectivo,Anualmente
+5692,45,Masculino,Socks,Accesorios,71,Bogota,XXL,Otono,3.4,No,Express,38,Efectivo,Trimestral
+5693,55,Masculino,Sneakers,Calzado,98,Ibague,XS,Invierno,4.9,No,Envio gratuito,44,Transferencia bancaria,Cada 3 meses
+5694,62,Masculino,Jewelry,Accesorios,116,Manizales,XS,Invierno,4.2,No,Recogida en tienda,62,Transferencia bancaria,Mensual
+5695,20,Masculino,T-shirt,Ropa,31,Santa Marta,M,Primavera,2.7,Si,Entrega al dia siguiente,48,Tarjeta de debito,Quincenal
+5696,56,Masculino,Belt,Accesorios,61,Cartagena,XL,Invierno,3.0,No,Envio en 2 dias,1,Tarjeta de credito,Trimestral
+5697,73,Femenino,Shirt,Ropa,76,Medellin,XL,Verano,3.7,No,Envio estandar,83,Transferencia bancaria,Cada 3 meses
+5698,55,Femenino,Sunglasses,Accesorios,86,Santa Marta,S,Invierno,3.2,Si,Envio en 2 dias,37,Nequi,Cada 3 meses
+5699,45,Femenino,Socks,Accesorios,39,Cucuta,XS,Verano,3.7,Si,Envio en 2 dias,49,Tarjeta de credito,Mensual
+5700,20,Masculino,Dress,Ropa,48,Bucaramanga,XXL,Invierno,3.1,No,Recogida en tienda,14,Transferencia bancaria,Quincenal
+5701,26,Femenino,Sweater,Ropa,97,Ibague,XS,Invierno,3.7,No,Envio en 2 dias,90,Nequi,Semanal
+5702,41,Femenino,Pants,Ropa,80,Bogota,M,Invierno,3.9,No,Envio en 2 dias,8,Transferencia bancaria,Cada 3 meses
+5703,74,Masculino,Scarf,Accesorios,71,Manizales,S,Verano,2.8,Si,Envio en 2 dias,73,Tarjeta de credito,Semanal
+5704,30,Masculino,Socks,Accesorios,89,Bucaramanga,XL,Otono,3.7,Si,Envio estandar,52,Transferencia bancaria,Trimestral
+5705,20,Femenino,Gloves,Accesorios,38,Cartagena,S,Invierno,2.5,Si,Envio estandar,100,Transferencia bancaria,Anualmente
+5706,51,Masculino,Shorts,Ropa,87,Bogota,M,Verano,3.3,Si,Entrega al dia siguiente,27,Tarjeta de credito,Semanal
+5707,48,Masculino,Scarf,Accesorios,47,Medellin,S,Invierno,3.9,Si,Express,85,Tarjeta de credito,Trimestral
+5708,27,Femenino,Scarf,Accesorios,85,Medellin,XL,Verano,3.1,No,Recogida en tienda,46,Tarjeta de credito,Cada 3 meses
+5709,44,Femenino,T-shirt,Ropa,75,Bogota,M,Invierno,2.6,No,Entrega al dia siguiente,57,Nequi,Quincenal
+5710,65,Femenino,Scarf,Accesorios,98,Neiva,XL,Invierno,4.1,Si,Express,76,Nequi,Cada 3 meses
+5711,49,Femenino,Pants,Ropa,96,Bogota,L,Primavera,3.9,Si,Recogida en tienda,5,Tarjeta de debito,Cada 3 meses
+5712,43,Masculino,Sandals,Calzado,103,Neiva,M,Otono,4.6,No,Envio gratuito,60,Nequi,Mensual
+5713,42,Femenino,Scarf,Accesorios,63,Medellin,XXL,Invierno,4.9,Si,Envio gratuito,80,Tarjeta de debito,Cada 3 meses
+5714,73,Masculino,Skirt,Ropa,85,Barranquilla,M,Otono,4.8,Si,Envio gratuito,39,Tarjeta de credito,Cada 3 meses
+5715,51,Masculino,Hat,Accesorios,53,Ibague,L,Verano,4.4,Si,Recogida en tienda,37,Tarjeta de credito,Semanal
+5716,61,Masculino,Sunglasses,Accesorios,89,Manizales,M,Verano,4.5,Si,Envio en 2 dias,92,Tarjeta de debito,Semanal
+5717,33,Femenino,Skirt,Ropa,101,Cucuta,M,Verano,4.7,No,Envio gratuito,31,Efectivo,Mensual
+5718,63,Masculino,Shorts,Ropa,78,Manizales,M,Verano,3.1,Si,Envio gratuito,15,Efectivo,Trimestral
+5719,43,Femenino,Blouse,Ropa,44,Neiva,M,Invierno,3.6,No,Envio estandar,72,Efectivo,Quincenal
+5720,35,Femenino,Pants,Ropa,100,Santa Marta,XL,Primavera,3.7,No,Envio gratuito,15,Tarjeta de credito,Quincenal
+5721,25,Masculino,T-shirt,Ropa,26,Bogota,XS,Otono,2.8,No,Express,100,Transferencia bancaria,Semanal
+5722,61,Masculino,Gloves,Accesorios,25,Villavicencio,XL,Primavera,2.5,No,Envio estandar,92,Tarjeta de debito,Cada 3 meses
+5723,45,Femenino,Handbag,Accesorios,48,Ibague,XL,Otono,4.8,No,Express,19,Transferencia bancaria,Trimestral
+5724,55,Masculino,T-shirt,Ropa,48,Cali,L,Verano,3.9,Si,Express,11,Nequi,Semanal
+5725,57,Masculino,Scarf,Accesorios,35,Medellin,S,Invierno,3.1,No,Envio estandar,21,Tarjeta de credito,Quincenal
+5726,35,Femenino,Backpack,Accesorios,50,Villavicencio,M,Invierno,3.9,No,Entrega al dia siguiente,27,Tarjeta de credito,Anualmente
+5727,72,Femenino,Pants,Ropa,111,Santa Marta,L,Verano,4.3,No,Envio estandar,96,Efectivo,Anualmente
+5728,52,Masculino,Gloves,Accesorios,106,Santa Marta,L,Otono,3.3,No,Envio estandar,78,Efectivo,Mensual
+5729,56,Femenino,Jeans,Ropa,38,Armenia,XS,Invierno,2.9,No,Express,27,Tarjeta de debito,Cada 3 meses
+5730,43,Masculino,Handbag,Accesorios,111,Cartagena,S,Invierno,4.0,No,Envio en 2 dias,87,Nequi,Quincenal
+5731,59,Femenino,Sandals,Calzado,111,Neiva,XS,Invierno,3.9,No,Entrega al dia siguiente,2,Efectivo,Mensual
+5732,64,Masculino,Pants,Ropa,31,Pereira,M,Otono,3.1,No,Envio gratuito,61,Tarjeta de credito,Quincenal
+5733,32,Femenino,Belt,Accesorios,68,Bucaramanga,XS,Verano,2.7,Si,Envio en 2 dias,78,Nequi,Anualmente
+5734,34,Femenino,Shirt,Ropa,52,Santa Marta,S,Otono,2.9,No,Envio gratuito,23,Tarjeta de credito,Mensual
+5735,37,Femenino,Shirt,Ropa,28,Barranquilla,XS,Primavera,3.9,Si,Envio gratuito,70,Efectivo,Mensual
+5736,75,Femenino,Handbag,Accesorios,22,Neiva,S,Primavera,2.7,Si,Envio gratuito,100,Tarjeta de credito,Trimestral
+5737,25,Masculino,Shoes,Calzado,117,Bucaramanga,XXL,Verano,2.9,Si,Express,100,Transferencia bancaria,Cada 3 meses
+5738,72,Femenino,T-shirt,Ropa,54,Manizales,XS,Primavera,3.5,Si,Envio en 2 dias,60,Tarjeta de credito,Quincenal
+5739,33,Masculino,Shorts,Ropa,120,Cartagena,L,Verano,3.6,Si,Recogida en tienda,31,Tarjeta de credito,Semanal
+5740,56,Femenino,Blouse,Ropa,68,Cali,XS,Otono,3.7,No,Recogida en tienda,96,Efectivo,Trimestral
+5741,52,Masculino,Shirt,Ropa,79,Villavicencio,XL,Otono,4.5,No,Envio gratuito,67,Efectivo,Quincenal
+5742,50,Masculino,Coat,Abrigos,24,Barranquilla,XS,Otono,4.6,Si,Envio estandar,52,Efectivo,Mensual
+5743,37,Masculino,Backpack,Accesorios,60,Santa Marta,S,Primavera,3.0,Si,Entrega al dia siguiente,75,Tarjeta de credito,Semanal
+5744,68,Masculino,Jewelry,Accesorios,51,Cali,XS,Verano,4.8,No,Entrega al dia siguiente,51,Efectivo,Semanal
+5745,47,Masculino,Gloves,Accesorios,79,Cali,L,Primavera,3.1,Si,Recogida en tienda,12,Tarjeta de debito,Cada 3 meses
+5746,21,Masculino,Sandals,Calzado,69,Villavicencio,L,Primavera,4.0,No,Envio estandar,70,Efectivo,Anualmente
+5747,73,Masculino,Blouse,Ropa,65,Bucaramanga,S,Otono,4.8,Si,Envio en 2 dias,12,Tarjeta de credito,Semanal
+5748,63,Masculino,Belt,Accesorios,23,Manizales,S,Otono,2.6,No,Envio gratuito,78,Efectivo,Cada 3 meses
+5749,57,Masculino,Hoodie,Ropa,67,Bogota,XL,Primavera,4.7,No,Entrega al dia siguiente,97,Nequi,Anualmente
+5750,60,Femenino,Coat,Abrigos,68,Bucaramanga,XXL,Invierno,4.3,No,Express,18,Tarjeta de credito,Anualmente
+5751,57,Masculino,Hat,Accesorios,70,Barranquilla,XS,Primavera,3.3,Si,Express,53,Nequi,Quincenal
+5752,44,Femenino,Pants,Ropa,90,Ibague,M,Verano,2.5,Si,Express,4,Tarjeta de debito,Semanal
+5753,48,Femenino,Handbag,Accesorios,79,Cali,XXL,Invierno,2.8,No,Envio gratuito,78,Tarjeta de debito,Mensual
+5754,34,Masculino,Sneakers,Calzado,105,Bucaramanga,XL,Verano,4.2,No,Envio estandar,99,Tarjeta de credito,Quincenal
+5755,70,Femenino,Pants,Ropa,81,Cartagena,M,Otono,3.7,No,Envio en 2 dias,75,Tarjeta de debito,Cada 3 meses
+5756,24,Femenino,Shoes,Calzado,48,Cucuta,S,Verano,3.7,Si,Envio en 2 dias,89,Nequi,Trimestral
+5757,41,Masculino,Sweater,Ropa,71,Pereira,XL,Otono,3.2,Si,Express,79,Efectivo,Semanal
+5758,22,Masculino,Belt,Accesorios,75,Pereira,L,Verano,3.5,Si,Envio gratuito,47,Transferencia bancaria,Cada 3 meses
+5759,33,Masculino,Scarf,Accesorios,70,Ibague,S,Invierno,3.6,Si,Envio gratuito,31,Nequi,Quincenal
+5760,39,Femenino,Skirt,Ropa,61,Ibague,L,Primavera,2.8,Si,Recogida en tienda,1,Tarjeta de credito,Trimestral
+5761,45,Masculino,Blouse,Ropa,109,Villavicencio,S,Primavera,2.5,Si,Envio en 2 dias,17,Tarjeta de debito,Cada 3 meses
+5762,61,Masculino,Socks,Accesorios,93,Medellin,XS,Verano,4.7,No,Envio en 2 dias,4,Nequi,Anualmente
+5763,20,Femenino,Gloves,Accesorios,41,Pereira,L,Primavera,3.2,No,Envio estandar,67,Transferencia bancaria,Trimestral
+5764,36,Femenino,Blouse,Ropa,79,Ibague,M,Verano,4.1,Si,Entrega al dia siguiente,77,Tarjeta de credito,Semanal
+5765,36,Femenino,Jewelry,Accesorios,63,Villavicencio,S,Invierno,4.5,No,Envio estandar,39,Tarjeta de debito,Semanal
+5766,63,Masculino,Pants,Ropa,50,Neiva,M,Otono,3.0,No,Express,90,Tarjeta de credito,Anualmente
+5767,23,Femenino,Shorts,Ropa,35,Cali,XS,Invierno,2.8,Si,Envio gratuito,98,Tarjeta de debito,Semanal
+5768,38,Femenino,Sunglasses,Accesorios,81,Pereira,L,Primavera,4.8,No,Recogida en tienda,26,Efectivo,Semanal
+5769,20,Masculino,Dress,Ropa,70,Barranquilla,M,Primavera,2.6,No,Entrega al dia siguiente,23,Efectivo,Mensual
+5770,60,Masculino,Sunglasses,Accesorios,61,Santa Marta,S,Otono,4.4,No,Recogida en tienda,40,Nequi,Semanal
+5771,29,Femenino,Dress,Ropa,52,Pereira,XS,Invierno,4.7,No,Express,5,Tarjeta de credito,Quincenal
+5772,50,Masculino,Hat,Accesorios,45,Armenia,S,Invierno,2.6,Si,Recogida en tienda,46,Tarjeta de debito,Trimestral
+5773,41,Masculino,Backpack,Accesorios,33,Santa Marta,XL,Verano,3.0,No,Recogida en tienda,84,Nequi,Cada 3 meses
+5774,51,Masculino,Shirt,Ropa,95,Ibague,XL,Verano,3.6,Si,Entrega al dia siguiente,92,Nequi,Trimestral
+5775,36,Masculino,Belt,Accesorios,56,Bucaramanga,XS,Invierno,4.0,Si,Entrega al dia siguiente,53,Efectivo,Trimestral
+5776,54,Femenino,Jacket,Abrigos,95,Barranquilla,L,Otono,3.3,Si,Express,85,Nequi,Cada 3 meses
+5777,43,Masculino,Backpack,Accesorios,87,Barranquilla,XS,Verano,4.9,No,Express,50,Transferencia bancaria,Mensual
+5778,21,Femenino,Hat,Accesorios,88,Cucuta,XL,Invierno,2.5,No,Envio estandar,84,Transferencia bancaria,Mensual
+5779,55,Femenino,Shoes,Calzado,104,Manizales,M,Primavera,4.6,No,Envio estandar,92,Tarjeta de debito,Quincenal
+5780,52,Femenino,Backpack,Accesorios,107,Pereira,XS,Otono,4.1,No,Envio en 2 dias,12,Tarjeta de credito,Semanal
+5781,64,Masculino,Dress,Ropa,104,Cartagena,XXL,Otono,3.5,No,Express,93,Tarjeta de credito,Cada 3 meses
+5782,24,Masculino,Hoodie,Ropa,89,Armenia,XL,Primavera,2.7,Si,Envio en 2 dias,0,Tarjeta de credito,Anualmente
+5783,67,Masculino,Dress,Ropa,34,Neiva,L,Otono,2.8,No,Envio estandar,15,Efectivo,Semanal
+5784,57,Masculino,Blouse,Ropa,65,Neiva,XS,Otono,2.9,Si,Envio estandar,32,Transferencia bancaria,Trimestral
+5785,69,Femenino,Blouse,Ropa,40,Cali,M,Verano,3.8,Si,Entrega al dia siguiente,96,Tarjeta de debito,Anualmente
+5786,39,Masculino,T-shirt,Ropa,75,Medellin,XL,Invierno,3.0,Si,Envio estandar,81,Efectivo,Trimestral
+5787,65,Femenino,Sweater,Ropa,49,Cucuta,XXL,Invierno,3.9,No,Entrega al dia siguiente,41,Tarjeta de debito,Quincenal
+5788,75,Femenino,Belt,Accesorios,77,Barranquilla,XS,Otono,2.5,No,Recogida en tienda,43,Efectivo,Semanal
+5789,71,Femenino,Jacket,Abrigos,79,Medellin,S,Primavera,4.0,Si,Envio estandar,17,Efectivo,Mensual
+5790,53,Masculino,Boots,Calzado,99,Neiva,XS,Otono,3.1,No,Envio gratuito,4,Transferencia bancaria,Anualmente
+5791,37,Femenino,Sunglasses,Accesorios,53,Cucuta,L,Verano,3.2,No,Envio en 2 dias,67,Tarjeta de debito,Anualmente
+5792,49,Masculino,Sweater,Ropa,58,Pereira,XS,Primavera,5.0,No,Express,91,Transferencia bancaria,Quincenal
+5793,51,Femenino,Jeans,Ropa,34,Medellin,M,Otono,3.3,Si,Express,73,Tarjeta de credito,Trimestral
+5794,69,Femenino,Handbag,Accesorios,26,Cartagena,M,Primavera,4.5,No,Envio estandar,84,Tarjeta de debito,Anualmente
+5795,75,Masculino,T-shirt,Ropa,25,Cartagena,L,Primavera,4.1,No,Recogida en tienda,6,Tarjeta de credito,Anualmente
+5796,24,Femenino,Boots,Calzado,81,Bogota,L,Otono,3.5,Si,Envio gratuito,20,Nequi,Trimestral
+5797,75,Femenino,Blouse,Ropa,62,Cali,S,Primavera,4.1,Si,Entrega al dia siguiente,27,Tarjeta de credito,Quincenal
+5798,65,Femenino,Pants,Ropa,20,Villavicencio,XL,Otono,3.9,Si,Entrega al dia siguiente,70,Tarjeta de credito,Anualmente
+5799,45,Femenino,Skirt,Ropa,105,Pereira,S,Otono,3.4,No,Envio estandar,52,Nequi,Cada 3 meses
+5800,35,Femenino,Skirt,Ropa,35,Armenia,L,Otono,4.1,No,Envio en 2 dias,14,Efectivo,Trimestral
+5801,30,Masculino,Sunglasses,Accesorios,36,Ibague,S,Primavera,4.9,Si,Express,91,Transferencia bancaria,Quincenal
+5802,33,Femenino,Sweater,Ropa,29,Villavicencio,L,Verano,4.9,No,Envio en 2 dias,73,Transferencia bancaria,Semanal
+5803,31,Femenino,Sunglasses,Accesorios,21,Pereira,XS,Otono,3.0,Si,Express,92,Transferencia bancaria,Cada 3 meses
+5804,38,Masculino,Jewelry,Accesorios,104,Manizales,XXL,Otono,3.6,Si,Recogida en tienda,18,Tarjeta de credito,Mensual
+5805,40,Femenino,Socks,Accesorios,104,Barranquilla,L,Invierno,4.9,No,Envio en 2 dias,32,Transferencia bancaria,Mensual
+5806,47,Femenino,Belt,Accesorios,120,Cucuta,XS,Invierno,3.8,Si,Entrega al dia siguiente,14,Tarjeta de debito,Quincenal
+5807,36,Masculino,Dress,Ropa,74,Neiva,XS,Invierno,4.5,Si,Envio estandar,58,Tarjeta de debito,Cada 3 meses
+5808,59,Femenino,Sandals,Calzado,45,Armenia,M,Invierno,4.9,No,Express,61,Tarjeta de credito,Mensual
+5809,75,Femenino,Backpack,Accesorios,119,Barranquilla,XXL,Invierno,3.5,Si,Envio en 2 dias,34,Tarjeta de debito,Trimestral
+5810,34,Femenino,Hat,Accesorios,104,Manizales,M,Invierno,2.6,Si,Express,36,Tarjeta de debito,Quincenal
+5811,66,Femenino,Sneakers,Calzado,83,Manizales,XS,Verano,4.9,No,Recogida en tienda,98,Nequi,Mensual
+5812,54,Masculino,Backpack,Accesorios,81,Barranquilla,S,Primavera,4.3,No,Envio gratuito,89,Tarjeta de debito,Trimestral
+5813,30,Masculino,Socks,Accesorios,97,Ibague,XL,Otono,2.7,No,Envio estandar,25,Tarjeta de credito,Cada 3 meses
+5814,20,Masculino,Jeans,Ropa,80,Neiva,S,Otono,3.7,No,Envio estandar,2,Transferencia bancaria,Anualmente
+5815,54,Femenino,Handbag,Accesorios,72,Cucuta,XS,Verano,3.7,Si,Envio en 2 dias,87,Nequi,Mensual
+5816,63,Femenino,Handbag,Accesorios,114,Barranquilla,S,Otono,2.7,No,Envio en 2 dias,75,Efectivo,Anualmente
+5817,35,Masculino,Gloves,Accesorios,31,Bucaramanga,S,Primavera,2.7,No,Envio estandar,68,Tarjeta de credito,Anualmente
+5818,48,Masculino,Shoes,Calzado,41,Villavicencio,XXL,Primavera,4.8,No,Express,52,Tarjeta de debito,Anualmente
+5819,23,Femenino,Shorts,Ropa,55,Bogota,L,Otono,4.8,No,Envio estandar,89,Tarjeta de credito,Anualmente
+5820,65,Femenino,Sneakers,Calzado,93,Bogota,XXL,Otono,3.0,Si,Express,94,Transferencia bancaria,Semanal
+5821,29,Femenino,Gloves,Accesorios,45,Cali,M,Invierno,2.7,No,Express,79,Tarjeta de credito,Anualmente
+5822,25,Femenino,Jeans,Ropa,100,Neiva,M,Invierno,2.9,Si,Express,60,Efectivo,Anualmente
+5823,28,Masculino,Belt,Accesorios,88,Cali,XXL,Invierno,2.8,Si,Express,9,Tarjeta de credito,Mensual
+5824,24,Masculino,Handbag,Accesorios,109,Cucuta,S,Otono,4.3,No,Entrega al dia siguiente,20,Nequi,Trimestral
+5825,60,Femenino,Sandals,Calzado,74,Cali,XL,Invierno,3.2,No,Envio estandar,27,Transferencia bancaria,Quincenal
+5826,43,Masculino,Jewelry,Accesorios,118,Manizales,L,Primavera,4.7,Si,Recogida en tienda,16,Transferencia bancaria,Quincenal
+5827,65,Femenino,Shoes,Calzado,81,Pereira,XXL,Verano,2.6,Si,Envio estandar,29,Tarjeta de credito,Quincenal
+5828,21,Femenino,Handbag,Accesorios,88,Manizales,XS,Otono,3.8,Si,Envio gratuito,33,Tarjeta de debito,Trimestral
+5829,26,Femenino,Belt,Accesorios,74,Santa Marta,S,Verano,4.5,Si,Recogida en tienda,81,Transferencia bancaria,Trimestral
+5830,27,Masculino,Blouse,Ropa,74,Armenia,XXL,Primavera,4.3,No,Entrega al dia siguiente,21,Tarjeta de debito,Cada 3 meses
+5831,19,Femenino,T-shirt,Ropa,21,Neiva,XS,Primavera,4.7,Si,Envio en 2 dias,41,Tarjeta de credito,Semanal
+5832,69,Femenino,Blouse,Ropa,108,Barranquilla,L,Primavera,3.6,No,Envio en 2 dias,100,Nequi,Anualmente
+5833,64,Femenino,Jeans,Ropa,60,Pereira,XXL,Primavera,4.5,No,Envio gratuito,33,Tarjeta de credito,Anualmente
+5834,52,Femenino,Skirt,Ropa,105,Ibague,XL,Invierno,3.2,Si,Express,22,Tarjeta de debito,Trimestral
+5835,57,Femenino,Jacket,Abrigos,68,Santa Marta,XS,Invierno,3.7,Si,Envio estandar,6,Transferencia bancaria,Semanal
+5836,34,Femenino,Jewelry,Accesorios,64,Villavicencio,M,Primavera,3.4,No,Envio estandar,19,Efectivo,Mensual
+5837,54,Femenino,Handbag,Accesorios,72,Cali,M,Verano,5.0,No,Recogida en tienda,6,Tarjeta de debito,Cada 3 meses
+5838,70,Femenino,Shorts,Ropa,68,Armenia,XS,Primavera,4.1,Si,Entrega al dia siguiente,26,Tarjeta de credito,Mensual
+5839,56,Masculino,Skirt,Ropa,65,Neiva,XS,Verano,2.8,Si,Envio gratuito,6,Transferencia bancaria,Mensual
+5840,34,Femenino,Shoes,Calzado,87,Armenia,XS,Otono,4.1,No,Recogida en tienda,22,Nequi,Mensual
+5841,49,Femenino,Shirt,Ropa,44,Pereira,XXL,Verano,3.8,Si,Entrega al dia siguiente,34,Tarjeta de credito,Quincenal
+5842,61,Femenino,Coat,Abrigos,109,Pereira,XL,Otono,4.3,No,Entrega al dia siguiente,38,Tarjeta de credito,Anualmente
+5843,33,Masculino,T-shirt,Ropa,111,Cali,M,Invierno,3.0,No,Envio gratuito,10,Efectivo,Anualmente
+5844,70,Masculino,Hoodie,Ropa,100,Pereira,S,Otono,4.9,No,Envio gratuito,5,Tarjeta de credito,Mensual
+5845,68,Femenino,Sweater,Ropa,106,Bucaramanga,M,Verano,3.2,Si,Recogida en tienda,10,Efectivo,Mensual
+5846,37,Masculino,Hat,Accesorios,57,Manizales,XL,Primavera,4.4,Si,Envio gratuito,30,Nequi,Semanal
+5847,50,Femenino,Hat,Accesorios,62,Armenia,S,Invierno,4.0,Si,Recogida en tienda,88,Tarjeta de debito,Anualmente
+5848,36,Femenino,Hoodie,Ropa,50,Barranquilla,S,Verano,4.9,No,Express,67,Tarjeta de debito,Trimestral
+5849,38,Femenino,Jewelry,Accesorios,113,Barranquilla,S,Primavera,2.7,No,Envio estandar,59,Transferencia bancaria,Trimestral
+5850,21,Femenino,Handbag,Accesorios,95,Medellin,XXL,Verano,3.7,Si,Entrega al dia siguiente,82,Tarjeta de debito,Quincenal
+5851,20,Masculino,Belt,Accesorios,112,Medellin,XS,Invierno,4.4,No,Entrega al dia siguiente,12,Efectivo,Trimestral
+5852,72,Masculino,T-shirt,Ropa,90,Armenia,XL,Primavera,2.5,Si,Express,3,Transferencia bancaria,Trimestral
+5853,24,Masculino,T-shirt,Ropa,73,Medellin,XL,Verano,4.6,Si,Express,88,Efectivo,Cada 3 meses
+5854,48,Masculino,Hat,Accesorios,113,Cartagena,XL,Primavera,4.9,No,Envio en 2 dias,79,Tarjeta de credito,Mensual
+5855,41,Masculino,Coat,Abrigos,27,Medellin,M,Primavera,4.5,No,Envio en 2 dias,69,Tarjeta de debito,Quincenal
+5856,32,Masculino,Shirt,Ropa,81,Bucaramanga,XS,Verano,4.4,No,Express,21,Tarjeta de credito,Quincenal
+5857,56,Femenino,Blouse,Ropa,50,Santa Marta,M,Otono,3.3,Si,Envio en 2 dias,32,Transferencia bancaria,Semanal
+5858,65,Masculino,Coat,Abrigos,86,Manizales,L,Primavera,4.6,Si,Envio gratuito,30,Efectivo,Mensual
+5859,45,Masculino,Sweater,Ropa,25,Manizales,XXL,Primavera,2.8,Si,Entrega al dia siguiente,99,Transferencia bancaria,Anualmente
+5860,30,Femenino,Shirt,Ropa,46,Bucaramanga,L,Invierno,4.7,Si,Envio en 2 dias,49,Tarjeta de credito,Semanal
+5861,47,Femenino,Jacket,Abrigos,115,Barranquilla,XS,Verano,4.4,No,Envio gratuito,45,Transferencia bancaria,Mensual
+5862,50,Femenino,Pants,Ropa,93,Medellin,L,Invierno,3.6,Si,Envio estandar,26,Nequi,Cada 3 meses
+5863,36,Femenino,Boots,Calzado,50,Cartagena,XL,Primavera,4.5,No,Express,43,Tarjeta de debito,Quincenal
+5864,48,Femenino,Pants,Ropa,25,Barranquilla,S,Otono,4.0,Si,Envio en 2 dias,13,Tarjeta de debito,Mensual
+5865,62,Femenino,Skirt,Ropa,26,Manizales,M,Primavera,4.5,No,Envio estandar,23,Transferencia bancaria,Semanal
+5866,46,Masculino,Shorts,Ropa,41,Pereira,XL,Invierno,4.4,No,Recogida en tienda,37,Nequi,Semanal
+5867,56,Masculino,Blouse,Ropa,86,Cartagena,S,Otono,3.9,Si,Express,42,Nequi,Anualmente
+5868,36,Femenino,T-shirt,Ropa,84,Cartagena,XL,Verano,4.9,Si,Envio en 2 dias,23,Tarjeta de credito,Cada 3 meses
+5869,67,Femenino,T-shirt,Ropa,75,Pereira,XL,Primavera,3.5,Si,Envio estandar,60,Tarjeta de credito,Mensual
+5870,58,Femenino,Sandals,Calzado,117,Pereira,XS,Invierno,2.9,Si,Envio gratuito,71,Tarjeta de credito,Trimestral
+5871,56,Femenino,Jacket,Abrigos,105,Villavicencio,XL,Otono,4.1,Si,Recogida en tienda,71,Transferencia bancaria,Cada 3 meses
+5872,70,Femenino,Jeans,Ropa,72,Villavicencio,XS,Verano,4.8,No,Envio gratuito,3,Nequi,Quincenal
+5873,43,Masculino,Shoes,Calzado,106,Cali,L,Otono,2.7,No,Envio estandar,48,Tarjeta de debito,Mensual
+5874,58,Femenino,Gloves,Accesorios,21,Manizales,L,Invierno,2.7,Si,Express,67,Tarjeta de debito,Trimestral
+5875,39,Femenino,Hat,Accesorios,44,Neiva,M,Invierno,3.9,Si,Envio estandar,98,Tarjeta de debito,Trimestral
+5876,35,Femenino,Backpack,Accesorios,41,Santa Marta,S,Primavera,2.5,No,Envio estandar,50,Efectivo,Anualmente
+5877,21,Femenino,T-shirt,Ropa,69,Manizales,S,Primavera,2.7,Si,Envio estandar,42,Transferencia bancaria,Anualmente
+5878,22,Masculino,Shirt,Ropa,27,Ibague,XXL,Otono,2.7,Si,Recogida en tienda,41,Transferencia bancaria,Mensual
+5879,44,Femenino,Sneakers,Calzado,86,Barranquilla,XL,Invierno,4.1,Si,Envio en 2 dias,93,Tarjeta de debito,Quincenal
+5880,58,Masculino,Hat,Accesorios,22,Santa Marta,L,Invierno,4.0,No,Express,7,Efectivo,Quincenal
+5881,64,Masculino,T-shirt,Ropa,72,Villavicencio,S,Verano,3.4,Si,Recogida en tienda,62,Efectivo,Mensual
+5882,21,Femenino,Shorts,Ropa,109,Ibague,XS,Otono,2.6,No,Envio en 2 dias,24,Tarjeta de credito,Quincenal
+5883,47,Femenino,Blouse,Ropa,36,Bucaramanga,M,Verano,3.0,No,Envio en 2 dias,59,Nequi,Anualmente
+5884,47,Femenino,Gloves,Accesorios,41,Villavicencio,XS,Primavera,4.0,Si,Entrega al dia siguiente,14,Tarjeta de credito,Mensual
+5885,33,Masculino,Coat,Abrigos,79,Santa Marta,XL,Otono,3.4,Si,Express,57,Transferencia bancaria,Semanal
+5886,52,Masculino,Hoodie,Ropa,53,Ibague,XS,Verano,4.7,No,Envio en 2 dias,18,Efectivo,Cada 3 meses
+5887,50,Femenino,Boots,Calzado,75,Cartagena,M,Primavera,3.1,Si,Recogida en tienda,32,Transferencia bancaria,Mensual
+5888,48,Femenino,Coat,Abrigos,79,Armenia,L,Verano,4.8,Si,Envio en 2 dias,20,Transferencia bancaria,Mensual
+5889,75,Femenino,Boots,Calzado,100,Barranquilla,M,Invierno,2.9,No,Recogida en tienda,62,Nequi,Mensual
+5890,32,Masculino,Handbag,Accesorios,89,Barranquilla,XS,Verano,3.9,No,Entrega al dia siguiente,3,Tarjeta de debito,Quincenal
+5891,54,Masculino,Sweater,Ropa,22,Santa Marta,XXL,Invierno,3.5,Si,Entrega al dia siguiente,61,Transferencia bancaria,Mensual
+5892,73,Masculino,Handbag,Accesorios,71,Manizales,S,Primavera,3.4,Si,Entrega al dia siguiente,69,Tarjeta de credito,Anualmente
+5893,60,Femenino,Dress,Ropa,48,Villavicencio,M,Otono,4.2,Si,Entrega al dia siguiente,86,Tarjeta de debito,Anualmente
+5894,67,Masculino,Shoes,Calzado,77,Medellin,XXL,Otono,3.5,Si,Recogida en tienda,9,Nequi,Semanal
+5895,67,Femenino,Blouse,Ropa,93,Cali,M,Invierno,4.9,Si,Envio estandar,75,Nequi,Semanal
+5896,35,Femenino,Pants,Ropa,99,Ibague,XL,Otono,4.5,Si,Express,16,Transferencia bancaria,Cada 3 meses
+5897,69,Femenino,Skirt,Ropa,108,Armenia,S,Invierno,4.9,No,Envio estandar,37,Tarjeta de credito,Cada 3 meses
+5898,74,Masculino,Sweater,Ropa,98,Manizales,XL,Primavera,4.1,No,Envio gratuito,57,Nequi,Trimestral
+5899,47,Femenino,Sunglasses,Accesorios,103,Santa Marta,XS,Otono,4.8,Si,Envio estandar,51,Efectivo,Mensual
+5900,48,Femenino,Shoes,Calzado,118,Villavicencio,S,Primavera,4.8,No,Envio gratuito,48,Transferencia bancaria,Trimestral
+5901,22,Masculino,Scarf,Accesorios,98,Manizales,L,Invierno,3.9,No,Envio estandar,63,Tarjeta de credito,Quincenal
+5902,38,Femenino,Scarf,Accesorios,115,Bogota,XXL,Otono,4.2,Si,Entrega al dia siguiente,82,Tarjeta de credito,Semanal
+5903,58,Femenino,Jeans,Ropa,26,Armenia,M,Primavera,4.2,No,Entrega al dia siguiente,48,Nequi,Cada 3 meses
+5904,61,Masculino,Shorts,Ropa,24,Bogota,XXL,Primavera,2.9,Si,Recogida en tienda,43,Tarjeta de debito,Cada 3 meses
+5905,34,Femenino,Shirt,Ropa,70,Santa Marta,XL,Invierno,3.0,No,Envio estandar,37,Tarjeta de credito,Semanal
+5906,33,Femenino,Socks,Accesorios,88,Armenia,XL,Otono,4.5,Si,Express,69,Nequi,Anualmente
+5907,39,Masculino,Dress,Ropa,53,Medellin,XXL,Otono,3.0,No,Recogida en tienda,61,Tarjeta de credito,Cada 3 meses
+5908,42,Femenino,Shorts,Ropa,41,Pereira,XL,Verano,4.7,Si,Envio gratuito,67,Nequi,Semanal
+5909,41,Femenino,Handbag,Accesorios,84,Medellin,XL,Invierno,3.4,Si,Recogida en tienda,62,Nequi,Cada 3 meses
+5910,42,Masculino,Backpack,Accesorios,98,Bucaramanga,L,Otono,4.6,Si,Envio en 2 dias,24,Tarjeta de debito,Semanal
+5911,57,Femenino,Socks,Accesorios,85,Cucuta,XL,Primavera,4.8,Si,Entrega al dia siguiente,76,Efectivo,Quincenal
+5912,21,Femenino,Shirt,Ropa,110,Bucaramanga,XL,Verano,3.2,Si,Envio en 2 dias,46,Tarjeta de credito,Mensual
+5913,37,Femenino,Jacket,Abrigos,57,Santa Marta,XS,Otono,4.6,Si,Envio en 2 dias,27,Tarjeta de credito,Cada 3 meses
+5914,57,Femenino,Pants,Ropa,80,Armenia,XL,Primavera,3.1,No,Entrega al dia siguiente,40,Transferencia bancaria,Anualmente
+5915,57,Masculino,Coat,Abrigos,109,Cucuta,XXL,Primavera,3.2,Si,Envio en 2 dias,99,Tarjeta de debito,Quincenal
+5916,47,Masculino,Skirt,Ropa,87,Medellin,XXL,Invierno,3.9,Si,Entrega al dia siguiente,0,Tarjeta de debito,Cada 3 meses
+5917,26,Femenino,Shirt,Ropa,87,Manizales,M,Invierno,2.9,Si,Envio gratuito,71,Efectivo,Mensual
+5918,21,Masculino,T-shirt,Ropa,94,Manizales,L,Invierno,3.8,No,Envio gratuito,21,Tarjeta de credito,Mensual
+5919,63,Masculino,Shirt,Ropa,63,Armenia,XXL,Otono,3.9,No,Recogida en tienda,75,Efectivo,Cada 3 meses
+5920,68,Masculino,Sunglasses,Accesorios,98,Cartagena,S,Verano,3.3,Si,Envio en 2 dias,88,Efectivo,Cada 3 meses
+5921,19,Femenino,Backpack,Accesorios,25,Bogota,S,Otono,3.4,Si,Envio estandar,82,Tarjeta de credito,Anualmente
+5922,33,Femenino,Sneakers,Calzado,34,Neiva,M,Otono,2.7,Si,Envio gratuito,43,Efectivo,Anualmente
+5923,51,Femenino,Sneakers,Calzado,101,Pereira,XL,Verano,4.2,No,Envio gratuito,36,Nequi,Trimestral
+5924,57,Masculino,Jewelry,Accesorios,95,Ibague,XXL,Invierno,2.9,Si,Entrega al dia siguiente,57,Efectivo,Semanal
+5925,36,Masculino,Coat,Abrigos,115,Bogota,S,Otono,4.6,Si,Envio gratuito,36,Tarjeta de credito,Anualmente
+5926,51,Femenino,Dress,Ropa,110,Manizales,XS,Verano,3.0,Si,Express,25,Nequi,Quincenal
+5927,74,Femenino,Sneakers,Calzado,59,Ibague,XS,Primavera,3.4,Si,Envio en 2 dias,66,Tarjeta de credito,Mensual
+5928,34,Masculino,Dress,Ropa,46,Armenia,XL,Invierno,3.4,Si,Entrega al dia siguiente,51,Nequi,Semanal
+5929,23,Masculino,Dress,Ropa,120,Cali,M,Invierno,3.7,No,Recogida en tienda,46,Nequi,Semanal
+5930,35,Masculino,Coat,Abrigos,68,Cali,XL,Primavera,3.3,Si,Envio estandar,99,Efectivo,Mensual
+5931,75,Femenino,Sweater,Ropa,33,Pereira,XS,Verano,4.3,Si,Recogida en tienda,60,Tarjeta de credito,Anualmente
+5932,47,Femenino,Gloves,Accesorios,76,Neiva,XXL,Verano,4.8,Si,Envio en 2 dias,41,Tarjeta de credito,Quincenal
+5933,27,Femenino,Sweater,Ropa,72,Cali,XS,Invierno,4.5,Si,Recogida en tienda,38,Tarjeta de credito,Trimestral
+5934,53,Femenino,Handbag,Accesorios,41,Bucaramanga,XXL,Otono,4.3,Si,Envio estandar,69,Tarjeta de credito,Cada 3 meses
+5935,53,Masculino,Hat,Accesorios,73,Medellin,L,Invierno,4.3,No,Express,20,Efectivo,Cada 3 meses
+5936,33,Femenino,Shorts,Ropa,62,Cartagena,M,Invierno,4.0,Si,Express,57,Nequi,Trimestral
+5937,46,Femenino,Dress,Ropa,93,Cali,L,Primavera,2.9,No,Express,85,Nequi,Mensual
+5938,66,Masculino,Sweater,Ropa,34,Barranquilla,L,Otono,2.8,Si,Express,19,Transferencia bancaria,Semanal
+5939,66,Femenino,Coat,Abrigos,66,Pereira,XXL,Primavera,3.9,Si,Envio en 2 dias,5,Tarjeta de debito,Trimestral
+5940,49,Masculino,Shirt,Ropa,84,Manizales,XL,Invierno,3.4,Si,Recogida en tienda,94,Tarjeta de debito,Semanal
+5941,50,Masculino,Dress,Ropa,50,Villavicencio,XL,Invierno,4.8,Si,Express,2,Tarjeta de debito,Cada 3 meses
+5942,33,Masculino,Sneakers,Calzado,30,Cucuta,XL,Otono,2.8,Si,Envio gratuito,20,Tarjeta de credito,Semanal
+5943,54,Femenino,Backpack,Accesorios,119,Cali,XXL,Verano,4.4,No,Recogida en tienda,3,Transferencia bancaria,Cada 3 meses
+5944,30,Masculino,Hat,Accesorios,103,Cucuta,XXL,Verano,2.6,Si,Envio en 2 dias,73,Efectivo,Mensual
+5945,23,Femenino,Socks,Accesorios,95,Santa Marta,XS,Primavera,2.9,Si,Recogida en tienda,19,Tarjeta de credito,Anualmente
+5946,31,Femenino,Boots,Calzado,107,Armenia,L,Invierno,3.7,Si,Envio en 2 dias,14,Nequi,Semanal
+5947,61,Femenino,Boots,Calzado,34,Pereira,L,Primavera,2.8,Si,Envio en 2 dias,15,Nequi,Semanal
+5948,20,Masculino,Coat,Abrigos,112,Bucaramanga,XXL,Invierno,4.8,Si,Envio estandar,95,Tarjeta de credito,Anualmente
+5949,36,Femenino,Pants,Ropa,68,Bucaramanga,S,Primavera,4.2,No,Recogida en tienda,85,Tarjeta de debito,Trimestral
+5950,24,Femenino,T-shirt,Ropa,120,Cartagena,S,Primavera,2.7,Si,Envio estandar,87,Efectivo,Semanal
+5951,51,Femenino,Jacket,Abrigos,21,Ibague,XXL,Otono,5.0,Si,Envio estandar,36,Efectivo,Quincenal
+5952,19,Femenino,Sunglasses,Accesorios,66,Bucaramanga,XXL,Invierno,4.6,Si,Recogida en tienda,94,Transferencia bancaria,Quincenal
+5953,63,Masculino,Coat,Abrigos,119,Armenia,XL,Invierno,4.6,Si,Express,58,Transferencia bancaria,Quincenal
+5954,35,Femenino,Pants,Ropa,65,Manizales,M,Otono,3.5,Si,Express,3,Tarjeta de debito,Anualmente
+5955,74,Femenino,Backpack,Accesorios,38,Santa Marta,XS,Invierno,2.8,Si,Entrega al dia siguiente,29,Nequi,Mensual
+5956,35,Femenino,Dress,Ropa,96,Ibague,XS,Invierno,4.3,Si,Entrega al dia siguiente,54,Nequi,Anualmente
+5957,44,Femenino,Coat,Abrigos,36,Cucuta,M,Primavera,3.4,No,Express,87,Transferencia bancaria,Quincenal
+5958,62,Masculino,Belt,Accesorios,51,Bogota,XS,Primavera,4.0,No,Entrega al dia siguiente,72,Efectivo,Cada 3 meses
+5959,45,Masculino,Skirt,Ropa,28,Bucaramanga,L,Otono,3.4,No,Express,31,Tarjeta de debito,Mensual
+5960,71,Femenino,Coat,Abrigos,52,Santa Marta,L,Primavera,2.8,Si,Envio en 2 dias,100,Nequi,Anualmente
+5961,20,Femenino,Backpack,Accesorios,114,Neiva,L,Verano,2.8,No,Envio gratuito,97,Transferencia bancaria,Mensual
+5962,28,Masculino,Shirt,Ropa,25,Manizales,XS,Primavera,4.5,No,Entrega al dia siguiente,13,Tarjeta de credito,Trimestral
+5963,19,Femenino,Jacket,Abrigos,110,Bogota,L,Primavera,3.0,Si,Entrega al dia siguiente,57,Transferencia bancaria,Quincenal
+5964,21,Masculino,Sunglasses,Accesorios,49,Bucaramanga,XS,Primavera,4.5,No,Envio gratuito,67,Tarjeta de debito,Mensual
+5965,37,Femenino,Jewelry,Accesorios,42,Medellin,XXL,Verano,2.6,No,Express,44,Nequi,Trimestral
+5966,61,Masculino,Sandals,Calzado,74,Armenia,L,Otono,3.7,Si,Envio en 2 dias,71,Transferencia bancaria,Cada 3 meses
+5967,30,Femenino,Skirt,Ropa,71,Cali,L,Otono,4.6,No,Entrega al dia siguiente,19,Transferencia bancaria,Cada 3 meses
+5968,55,Femenino,Shirt,Ropa,50,Cucuta,S,Invierno,2.5,Si,Envio gratuito,51,Efectivo,Mensual
+5969,24,Masculino,Jacket,Abrigos,100,Ibague,XS,Primavera,4.5,Si,Entrega al dia siguiente,75,Efectivo,Semanal
+5970,47,Femenino,Hat,Accesorios,24,Bogota,XXL,Otono,4.0,Si,Recogida en tienda,72,Tarjeta de debito,Trimestral
+5971,18,Masculino,Handbag,Accesorios,105,Armenia,XS,Otono,4.5,Si,Envio gratuito,78,Nequi,Trimestral
+5972,20,Masculino,Sneakers,Calzado,96,Cucuta,L,Invierno,4.5,No,Recogida en tienda,28,Transferencia bancaria,Quincenal
+5973,47,Masculino,Socks,Accesorios,35,Cucuta,L,Invierno,4.0,No,Envio en 2 dias,52,Efectivo,Anualmente
+5974,27,Femenino,Scarf,Accesorios,56,Bogota,L,Invierno,3.9,Si,Express,22,Tarjeta de debito,Mensual
+5975,29,Femenino,Sweater,Ropa,108,Manizales,XXL,Otono,4.0,Si,Envio estandar,57,Transferencia bancaria,Anualmente
+5976,63,Masculino,Dress,Ropa,75,Cucuta,XXL,Verano,2.6,No,Envio en 2 dias,65,Efectivo,Trimestral
+5977,72,Femenino,Boots,Calzado,31,Pereira,XS,Verano,4.2,Si,Recogida en tienda,84,Tarjeta de debito,Anualmente
+5978,72,Femenino,Handbag,Accesorios,67,Villavicencio,XXL,Invierno,4.8,Si,Envio en 2 dias,56,Transferencia bancaria,Semanal
+5979,71,Masculino,Socks,Accesorios,85,Bogota,XS,Invierno,4.7,No,Envio estandar,17,Tarjeta de credito,Anualmente
+5980,46,Masculino,Shirt,Ropa,85,Armenia,S,Invierno,4.9,No,Entrega al dia siguiente,1,Nequi,Quincenal
+5981,21,Femenino,Hat,Accesorios,89,Bogota,L,Invierno,3.3,Si,Express,24,Efectivo,Trimestral
+5982,23,Masculino,Skirt,Ropa,71,Medellin,XXL,Primavera,4.8,No,Recogida en tienda,75,Tarjeta de debito,Quincenal
+5983,56,Masculino,Shoes,Calzado,84,Cali,L,Invierno,3.9,No,Recogida en tienda,81,Transferencia bancaria,Cada 3 meses
+5984,20,Masculino,Handbag,Accesorios,111,Medellin,M,Primavera,4.5,No,Envio en 2 dias,45,Efectivo,Anualmente
+5985,49,Femenino,Dress,Ropa,82,Cartagena,XXL,Verano,3.3,No,Envio gratuito,13,Efectivo,Trimestral
+5986,69,Masculino,Dress,Ropa,57,Villavicencio,XS,Invierno,4.3,No,Envio estandar,48,Efectivo,Trimestral
+5987,33,Masculino,Skirt,Ropa,74,Bogota,M,Invierno,3.8,Si,Envio en 2 dias,56,Transferencia bancaria,Quincenal
+5988,53,Masculino,Boots,Calzado,69,Cali,S,Otono,3.9,Si,Recogida en tienda,52,Tarjeta de debito,Trimestral
+5989,52,Femenino,Backpack,Accesorios,84,Ibague,S,Otono,3.8,Si,Envio estandar,5,Efectivo,Quincenal
+5990,34,Masculino,Scarf,Accesorios,39,Neiva,XL,Invierno,4.0,Si,Entrega al dia siguiente,2,Nequi,Anualmente
+5991,23,Masculino,Blouse,Ropa,47,Cucuta,XS,Verano,3.4,Si,Express,91,Efectivo,Anualmente
+5992,32,Femenino,Scarf,Accesorios,112,Pereira,XS,Otono,3.0,Si,Envio en 2 dias,32,Tarjeta de debito,Trimestral
+5993,50,Femenino,Jewelry,Accesorios,62,Neiva,XXL,Primavera,4.8,No,Envio gratuito,96,Tarjeta de debito,Mensual
+5994,27,Masculino,Boots,Calzado,98,Medellin,L,Otono,4.1,Si,Recogida en tienda,37,Tarjeta de debito,Anualmente
+5995,68,Masculino,Jewelry,Accesorios,28,Santa Marta,XXL,Invierno,4.7,Si,Envio estandar,16,Tarjeta de debito,Trimestral
+5996,52,Femenino,Shoes,Calzado,89,Armenia,XS,Invierno,3.7,Si,Envio en 2 dias,34,Transferencia bancaria,Mensual
+5997,35,Masculino,Shirt,Ropa,33,Neiva,S,Otono,4.1,No,Recogida en tienda,48,Tarjeta de debito,Trimestral
+5998,45,Femenino,Sunglasses,Accesorios,94,Pereira,XXL,Invierno,3.3,No,Envio estandar,39,Transferencia bancaria,Cada 3 meses
+5999,39,Masculino,Jacket,Abrigos,104,Bogota,XS,Primavera,4.0,Si,Envio en 2 dias,87,Efectivo,Cada 3 meses
+6000,33,Masculino,Sunglasses,Accesorios,25,Bucaramanga,XS,Primavera,3.7,No,Recogida en tienda,93,Transferencia bancaria,Quincenal
+6001,71,Masculino,Gloves,Accesorios,73,Bucaramanga,S,Invierno,4.9,Si,Envio en 2 dias,65,Nequi,Cada 3 meses
+6002,38,Masculino,Skirt,Ropa,27,Pereira,L,Primavera,2.6,No,Express,38,Nequi,Trimestral
+6003,34,Femenino,Belt,Accesorios,57,Pereira,L,Otono,4.5,No,Entrega al dia siguiente,63,Efectivo,Anualmente
+6004,38,Masculino,Hat,Accesorios,40,Bogota,M,Otono,3.6,No,Entrega al dia siguiente,96,Efectivo,Cada 3 meses
+6005,52,Femenino,Shorts,Ropa,77,Neiva,M,Otono,4.9,Si,Envio estandar,77,Transferencia bancaria,Mensual
+6006,26,Femenino,Jeans,Ropa,53,Neiva,L,Invierno,4.5,Si,Entrega al dia siguiente,43,Tarjeta de debito,Anualmente
+6007,24,Masculino,Sneakers,Calzado,62,Ibague,XL,Otono,3.1,Si,Envio en 2 dias,88,Efectivo,Quincenal
+6008,72,Femenino,Boots,Calzado,42,Cali,M,Verano,4.9,No,Entrega al dia siguiente,61,Efectivo,Cada 3 meses
+6009,43,Femenino,T-shirt,Ropa,60,Ibague,XS,Invierno,2.6,Si,Express,35,Transferencia bancaria,Anualmente
+6010,41,Masculino,Shoes,Calzado,86,Villavicencio,L,Primavera,2.5,Si,Envio en 2 dias,60,Nequi,Trimestral
+6011,43,Masculino,Sunglasses,Accesorios,83,Manizales,S,Verano,4.7,Si,Envio estandar,76,Tarjeta de debito,Mensual
+6012,68,Femenino,Hat,Accesorios,77,Cali,XXL,Invierno,4.5,Si,Recogida en tienda,54,Transferencia bancaria,Quincenal
+6013,64,Femenino,Dress,Ropa,26,Barranquilla,XL,Otono,3.1,No,Envio gratuito,29,Efectivo,Cada 3 meses
+6014,62,Masculino,T-shirt,Ropa,88,Bogota,L,Otono,4.9,Si,Envio gratuito,33,Nequi,Quincenal
+6015,37,Femenino,Boots,Calzado,105,Manizales,XXL,Verano,3.8,No,Envio gratuito,96,Tarjeta de debito,Anualmente
+6016,20,Masculino,Hat,Accesorios,59,Villavicencio,M,Otono,4.1,No,Recogida en tienda,18,Tarjeta de credito,Anualmente
+6017,25,Femenino,Gloves,Accesorios,39,Armenia,L,Otono,4.4,No,Recogida en tienda,79,Transferencia bancaria,Mensual
+6018,46,Masculino,T-shirt,Ropa,46,Barranquilla,XXL,Otono,4.1,Si,Entrega al dia siguiente,21,Transferencia bancaria,Quincenal
+6019,73,Masculino,Socks,Accesorios,41,Cucuta,XS,Invierno,3.4,Si,Recogida en tienda,69,Transferencia bancaria,Anualmente
+6020,56,Masculino,Handbag,Accesorios,25,Cartagena,M,Verano,2.6,Si,Envio gratuito,92,Nequi,Trimestral
+6021,71,Femenino,Hat,Accesorios,99,Barranquilla,M,Verano,4.7,Si,Envio en 2 dias,89,Transferencia bancaria,Trimestral
+6022,22,Masculino,Sandals,Calzado,80,Manizales,M,Primavera,4.6,No,Express,35,Tarjeta de debito,Cada 3 meses
+6023,60,Masculino,Hat,Accesorios,53,Pereira,XS,Verano,4.5,No,Recogida en tienda,8,Efectivo,Trimestral
+6024,57,Femenino,Sandals,Calzado,110,Neiva,XL,Primavera,2.5,No,Express,82,Nequi,Anualmente
+6025,27,Masculino,Shirt,Ropa,85,Villavicencio,M,Invierno,4.5,No,Envio estandar,67,Nequi,Quincenal
+6026,74,Femenino,Hoodie,Ropa,60,Santa Marta,XL,Verano,4.6,Si,Envio gratuito,57,Tarjeta de credito,Cada 3 meses
+6027,42,Femenino,Belt,Accesorios,31,Cucuta,XXL,Invierno,4.3,Si,Envio gratuito,16,Tarjeta de credito,Trimestral
+6028,59,Femenino,Shorts,Ropa,77,Cali,XL,Verano,3.1,Si,Express,14,Nequi,Mensual
+6029,19,Masculino,Dress,Ropa,92,Barranquilla,S,Primavera,4.3,Si,Express,18,Transferencia bancaria,Anualmente
+6030,70,Femenino,Backpack,Accesorios,43,Barranquilla,S,Primavera,2.5,No,Entrega al dia siguiente,55,Efectivo,Anualmente
+6031,20,Femenino,Shirt,Ropa,100,Ibague,XXL,Invierno,4.3,Si,Envio en 2 dias,70,Transferencia bancaria,Cada 3 meses
+6032,30,Masculino,Jewelry,Accesorios,31,Cartagena,XS,Verano,4.7,No,Envio gratuito,83,Tarjeta de credito,Semanal
+6033,23,Femenino,Scarf,Accesorios,55,Pereira,XL,Verano,3.0,No,Entrega al dia siguiente,75,Tarjeta de debito,Semanal
+6034,68,Femenino,Belt,Accesorios,20,Barranquilla,XXL,Primavera,3.6,No,Express,0,Tarjeta de debito,Cada 3 meses
+6035,39,Masculino,Sandals,Calzado,29,Bucaramanga,XS,Primavera,3.6,No,Entrega al dia siguiente,34,Transferencia bancaria,Anualmente
+6036,18,Masculino,Jeans,Ropa,58,Cucuta,XS,Primavera,4.3,Si,Envio gratuito,0,Efectivo,Trimestral
+6037,38,Femenino,Jewelry,Accesorios,98,Cucuta,XL,Otono,4.4,No,Envio en 2 dias,66,Nequi,Anualmente
+6038,41,Femenino,Pants,Ropa,73,Manizales,S,Otono,3.9,No,Envio estandar,92,Nequi,Trimestral
+6039,57,Masculino,Dress,Ropa,69,Ibague,L,Primavera,3.8,No,Envio estandar,71,Nequi,Semanal
+6040,54,Femenino,Scarf,Accesorios,87,Villavicencio,XXL,Invierno,4.5,Si,Envio gratuito,3,Tarjeta de debito,Trimestral
+6041,45,Femenino,Jeans,Ropa,78,Cucuta,XS,Invierno,4.7,Si,Recogida en tienda,76,Tarjeta de credito,Quincenal
+6042,19,Femenino,Coat,Abrigos,75,Armenia,M,Invierno,4.6,Si,Entrega al dia siguiente,1,Tarjeta de debito,Anualmente
+6043,53,Femenino,T-shirt,Ropa,93,Bucaramanga,S,Primavera,4.5,No,Envio gratuito,65,Tarjeta de debito,Anualmente
+6044,47,Masculino,Sandals,Calzado,57,Armenia,XS,Verano,3.7,No,Envio estandar,23,Transferencia bancaria,Anualmente
+6045,52,Femenino,Hat,Accesorios,31,Ibague,XXL,Invierno,4.8,No,Envio gratuito,22,Tarjeta de credito,Quincenal
+6046,56,Masculino,Jacket,Abrigos,85,Ibague,XS,Invierno,2.6,No,Recogida en tienda,93,Tarjeta de debito,Cada 3 meses
+6047,26,Femenino,Shoes,Calzado,64,Villavicencio,M,Otono,3.7,Si,Envio gratuito,55,Nequi,Quincenal
+6048,18,Femenino,Coat,Abrigos,66,Santa Marta,XS,Primavera,4.8,Si,Envio en 2 dias,80,Efectivo,Quincenal
+6049,63,Masculino,Pants,Ropa,55,Bogota,L,Verano,3.0,Si,Envio gratuito,60,Tarjeta de credito,Trimestral
+6050,28,Masculino,Sweater,Ropa,120,Cartagena,XS,Primavera,2.7,Si,Express,88,Tarjeta de debito,Semanal
+6051,46,Femenino,Blouse,Ropa,37,Pereira,XS,Invierno,4.9,No,Envio en 2 dias,61,Transferencia bancaria,Anualmente
+6052,68,Masculino,Shoes,Calzado,102,Armenia,XS,Primavera,2.8,No,Envio en 2 dias,78,Tarjeta de credito,Mensual
+6053,74,Femenino,Socks,Accesorios,31,Bucaramanga,S,Invierno,2.7,Si,Recogida en tienda,46,Tarjeta de credito,Mensual
+6054,21,Femenino,Gloves,Accesorios,25,Bogota,L,Primavera,4.5,No,Recogida en tienda,1,Transferencia bancaria,Mensual
+6055,34,Femenino,Shirt,Ropa,93,Neiva,M,Otono,4.2,Si,Recogida en tienda,18,Nequi,Trimestral
+6056,47,Masculino,Shorts,Ropa,91,Ibague,S,Invierno,3.4,No,Envio gratuito,60,Transferencia bancaria,Mensual
+6057,71,Femenino,Skirt,Ropa,112,Manizales,S,Invierno,3.0,No,Envio estandar,10,Tarjeta de credito,Semanal
+6058,67,Femenino,Belt,Accesorios,53,Bucaramanga,XS,Verano,3.4,No,Express,87,Tarjeta de credito,Anualmente
+6059,47,Masculino,Gloves,Accesorios,120,Neiva,XXL,Otono,3.6,Si,Envio gratuito,19,Efectivo,Trimestral
+6060,21,Masculino,Hat,Accesorios,89,Pereira,XS,Invierno,3.6,Si,Recogida en tienda,32,Tarjeta de debito,Trimestral
+6061,50,Femenino,Shoes,Calzado,58,Cali,M,Verano,3.5,No,Entrega al dia siguiente,17,Nequi,Anualmente
+6062,39,Masculino,Belt,Accesorios,77,Cucuta,L,Otono,4.3,No,Envio gratuito,57,Nequi,Cada 3 meses
+6063,40,Femenino,Jeans,Ropa,70,Cali,S,Verano,4.3,Si,Envio estandar,4,Nequi,Cada 3 meses
+6064,75,Masculino,Boots,Calzado,25,Santa Marta,XXL,Otono,4.3,Si,Express,12,Transferencia bancaria,Anualmente
+6065,47,Masculino,Boots,Calzado,96,Villavicencio,XS,Verano,3.3,No,Recogida en tienda,56,Efectivo,Anualmente
+6066,61,Femenino,Dress,Ropa,101,Bogota,L,Otono,4.8,No,Envio gratuito,89,Transferencia bancaria,Semanal
+6067,29,Femenino,Blouse,Ropa,105,Cali,S,Invierno,4.8,No,Envio en 2 dias,1,Tarjeta de credito,Mensual
+6068,66,Femenino,Blouse,Ropa,60,Medellin,M,Verano,4.7,Si,Envio gratuito,83,Nequi,Cada 3 meses
+6069,46,Masculino,Belt,Accesorios,76,Cartagena,XS,Invierno,2.7,No,Recogida en tienda,24,Tarjeta de credito,Mensual
+6070,56,Femenino,Jeans,Ropa,110,Armenia,XL,Otono,4.1,Si,Recogida en tienda,96,Transferencia bancaria,Anualmente
+6071,18,Masculino,Hoodie,Ropa,106,Ibague,S,Otono,4.4,Si,Express,88,Nequi,Anualmente
+6072,18,Masculino,Jeans,Ropa,36,Bogota,S,Invierno,2.6,No,Envio en 2 dias,9,Nequi,Cada 3 meses
+6073,58,Femenino,Handbag,Accesorios,103,Bucaramanga,XL,Verano,4.9,No,Envio gratuito,97,Tarjeta de credito,Cada 3 meses
+6074,61,Masculino,Coat,Abrigos,25,Bucaramanga,L,Primavera,2.6,No,Entrega al dia siguiente,72,Nequi,Anualmente
+6075,59,Femenino,Jewelry,Accesorios,93,Pereira,XL,Primavera,2.7,No,Recogida en tienda,56,Efectivo,Cada 3 meses
+6076,20,Femenino,Scarf,Accesorios,84,Cartagena,XXL,Verano,4.3,Si,Recogida en tienda,24,Nequi,Cada 3 meses
+6077,37,Masculino,Handbag,Accesorios,22,Bogota,L,Invierno,3.6,Si,Envio gratuito,41,Transferencia bancaria,Quincenal
+6078,28,Masculino,Backpack,Accesorios,29,Santa Marta,S,Invierno,3.3,Si,Entrega al dia siguiente,23,Tarjeta de debito,Anualmente
+6079,47,Masculino,Dress,Ropa,94,Bogota,XXL,Verano,4.2,Si,Express,28,Tarjeta de debito,Cada 3 meses
+6080,72,Femenino,Blouse,Ropa,21,Armenia,XS,Primavera,4.1,No,Recogida en tienda,5,Tarjeta de debito,Quincenal
+6081,18,Masculino,Shirt,Ropa,52,Barranquilla,XS,Verano,4.7,Si,Envio en 2 dias,49,Efectivo,Mensual
+6082,32,Femenino,Skirt,Ropa,20,Cartagena,XXL,Otono,4.9,No,Envio gratuito,96,Nequi,Trimestral
+6083,68,Masculino,Jacket,Abrigos,92,Cucuta,S,Primavera,2.9,No,Envio gratuito,21,Efectivo,Anualmente
+6084,32,Femenino,Pants,Ropa,105,Neiva,S,Primavera,4.7,Si,Entrega al dia siguiente,47,Tarjeta de debito,Trimestral
+6085,29,Femenino,Hat,Accesorios,79,Santa Marta,XS,Verano,2.5,No,Envio en 2 dias,11,Tarjeta de debito,Quincenal
+6086,32,Femenino,Dress,Ropa,44,Pereira,XXL,Verano,2.7,Si,Envio en 2 dias,45,Nequi,Anualmente
+6087,51,Masculino,Sweater,Ropa,20,Villavicencio,M,Primavera,3.6,Si,Envio estandar,55,Tarjeta de credito,Trimestral
+6088,41,Masculino,Shoes,Calzado,90,Medellin,XXL,Otono,3.9,No,Recogida en tienda,60,Tarjeta de credito,Semanal
+6089,62,Femenino,Jewelry,Accesorios,91,Manizales,XS,Primavera,4.4,No,Express,61,Nequi,Semanal
+6090,56,Femenino,Blouse,Ropa,90,Pereira,XL,Verano,3.8,No,Express,65,Tarjeta de debito,Cada 3 meses
+6091,74,Masculino,Belt,Accesorios,104,Medellin,XL,Verano,2.9,No,Express,0,Transferencia bancaria,Quincenal
+6092,53,Femenino,Skirt,Ropa,57,Manizales,S,Verano,2.8,Si,Envio en 2 dias,32,Transferencia bancaria,Cada 3 meses
+6093,35,Masculino,Hat,Accesorios,103,Barranquilla,XXL,Verano,4.8,Si,Envio en 2 dias,53,Tarjeta de debito,Trimestral
+6094,56,Femenino,Sunglasses,Accesorios,21,Villavicencio,S,Primavera,2.8,Si,Envio en 2 dias,35,Tarjeta de credito,Quincenal
+6095,72,Femenino,Coat,Abrigos,111,Santa Marta,L,Otono,4.6,Si,Recogida en tienda,13,Tarjeta de credito,Cada 3 meses
+6096,63,Femenino,Belt,Accesorios,119,Neiva,S,Primavera,3.5,Si,Entrega al dia siguiente,32,Efectivo,Quincenal
+6097,18,Femenino,Jeans,Ropa,111,Neiva,XL,Verano,4.8,No,Entrega al dia siguiente,58,Tarjeta de debito,Mensual
+6098,75,Femenino,Skirt,Ropa,88,Barranquilla,S,Primavera,4.2,Si,Envio estandar,11,Efectivo,Semanal
+6099,74,Femenino,Scarf,Accesorios,58,Pereira,XL,Primavera,4.7,Si,Envio estandar,95,Nequi,Quincenal
+6100,25,Femenino,Hat,Accesorios,51,Cucuta,XXL,Otono,2.7,No,Entrega al dia siguiente,20,Tarjeta de credito,Trimestral
+6101,23,Femenino,Boots,Calzado,73,Santa Marta,XS,Primavera,3.4,No,Entrega al dia siguiente,50,Efectivo,Anualmente
+6102,42,Femenino,Sunglasses,Accesorios,70,Cali,XS,Invierno,3.4,Si,Envio gratuito,74,Tarjeta de debito,Cada 3 meses
+6103,37,Femenino,Sandals,Calzado,75,Pereira,S,Otono,4.0,Si,Recogida en tienda,28,Nequi,Mensual
+6104,40,Femenino,Hoodie,Ropa,102,Ibague,L,Verano,3.6,Si,Express,49,Tarjeta de credito,Mensual
+6105,74,Femenino,Blouse,Ropa,57,Cali,M,Verano,4.5,Si,Recogida en tienda,43,Nequi,Semanal
+6106,38,Masculino,Socks,Accesorios,39,Medellin,XXL,Primavera,3.8,No,Envio estandar,87,Nequi,Anualmente
+6107,65,Masculino,Coat,Abrigos,101,Barranquilla,XXL,Otono,4.8,Si,Recogida en tienda,76,Nequi,Semanal
+6108,42,Masculino,Handbag,Accesorios,45,Manizales,M,Verano,4.7,No,Entrega al dia siguiente,23,Tarjeta de debito,Semanal
+6109,21,Masculino,Shoes,Calzado,50,Barranquilla,S,Otono,4.9,Si,Recogida en tienda,30,Transferencia bancaria,Anualmente
+6110,63,Masculino,Socks,Accesorios,87,Santa Marta,L,Primavera,3.4,No,Envio gratuito,59,Efectivo,Semanal
+6111,54,Masculino,Scarf,Accesorios,62,Neiva,L,Invierno,4.0,No,Recogida en tienda,98,Tarjeta de debito,Quincenal
+6112,41,Femenino,Pants,Ropa,67,Ibague,L,Otono,3.5,No,Envio en 2 dias,55,Tarjeta de credito,Cada 3 meses
+6113,26,Femenino,Dress,Ropa,63,Cartagena,M,Primavera,3.8,Si,Envio estandar,42,Nequi,Cada 3 meses
+6114,50,Femenino,Jacket,Abrigos,43,Neiva,L,Verano,3.3,No,Envio estandar,48,Efectivo,Cada 3 meses
+6115,72,Masculino,Dress,Ropa,34,Cucuta,S,Primavera,3.6,No,Express,30,Tarjeta de debito,Semanal
+6116,55,Femenino,Hat,Accesorios,43,Pereira,XS,Otono,2.6,No,Recogida en tienda,69,Nequi,Quincenal
+6117,33,Femenino,Pants,Ropa,34,Cartagena,M,Otono,3.0,Si,Entrega al dia siguiente,72,Efectivo,Quincenal
+6118,60,Masculino,Handbag,Accesorios,33,Villavicencio,XS,Primavera,3.8,Si,Entrega al dia siguiente,67,Tarjeta de debito,Quincenal
+6119,27,Femenino,Blouse,Ropa,67,Armenia,XL,Invierno,2.7,No,Envio gratuito,20,Tarjeta de credito,Cada 3 meses
+6120,70,Masculino,Sweater,Ropa,42,Pereira,XL,Invierno,3.1,No,Envio en 2 dias,14,Efectivo,Quincenal
+6121,59,Femenino,Sneakers,Calzado,106,Bogota,XXL,Invierno,4.5,Si,Express,56,Efectivo,Mensual
+6122,26,Masculino,Jewelry,Accesorios,107,Bucaramanga,L,Verano,3.0,Si,Envio en 2 dias,35,Transferencia bancaria,Semanal
+6123,70,Femenino,T-shirt,Ropa,100,Armenia,M,Verano,4.5,Si,Envio en 2 dias,47,Tarjeta de debito,Semanal
+6124,51,Femenino,Belt,Accesorios,23,Cali,L,Verano,4.3,Si,Envio gratuito,23,Tarjeta de debito,Mensual
+6125,60,Femenino,Boots,Calzado,74,Bogota,XL,Otono,3.1,Si,Express,97,Efectivo,Trimestral
+6126,69,Femenino,Scarf,Accesorios,41,Bogota,S,Primavera,3.0,No,Envio gratuito,90,Tarjeta de credito,Trimestral
+6127,67,Masculino,Dress,Ropa,112,Bogota,XL,Verano,3.9,No,Express,44,Tarjeta de credito,Semanal
+6128,41,Masculino,Socks,Accesorios,107,Barranquilla,S,Verano,2.9,No,Express,89,Nequi,Quincenal
+6129,75,Femenino,Backpack,Accesorios,56,Bucaramanga,L,Verano,4.5,Si,Express,29,Efectivo,Mensual
+6130,23,Masculino,Belt,Accesorios,80,Pereira,XS,Primavera,3.9,No,Envio en 2 dias,65,Tarjeta de credito,Mensual
+6131,56,Masculino,Boots,Calzado,117,Manizales,S,Verano,3.5,Si,Envio en 2 dias,62,Transferencia bancaria,Quincenal
+6132,43,Femenino,Jeans,Ropa,102,Cucuta,XL,Verano,4.7,Si,Recogida en tienda,11,Efectivo,Semanal
+6133,68,Masculino,Sunglasses,Accesorios,117,Cartagena,XL,Otono,4.4,No,Express,41,Efectivo,Cada 3 meses
+6134,26,Femenino,Gloves,Accesorios,47,Armenia,S,Verano,4.9,Si,Recogida en tienda,13,Nequi,Cada 3 meses
+6135,34,Femenino,Jeans,Ropa,91,Villavicencio,XXL,Verano,4.3,Si,Express,93,Tarjeta de debito,Mensual
+6136,21,Masculino,Dress,Ropa,99,Bucaramanga,S,Otono,4.1,No,Express,81,Efectivo,Quincenal
+6137,22,Femenino,Shoes,Calzado,27,Cartagena,L,Invierno,3.2,Si,Envio en 2 dias,62,Tarjeta de debito,Quincenal
+6138,72,Masculino,T-shirt,Ropa,35,Villavicencio,XL,Otono,2.9,Si,Express,99,Efectivo,Quincenal
+6139,43,Femenino,Shirt,Ropa,120,Cartagena,XXL,Invierno,3.1,No,Recogida en tienda,46,Efectivo,Anualmente
+6140,38,Masculino,Scarf,Accesorios,25,Bucaramanga,M,Otono,3.9,Si,Recogida en tienda,84,Transferencia bancaria,Cada 3 meses
+6141,23,Masculino,Sweater,Ropa,54,Medellin,XS,Otono,3.3,No,Envio en 2 dias,72,Transferencia bancaria,Trimestral
+6142,64,Masculino,Shorts,Ropa,47,Ibague,M,Invierno,3.9,No,Express,7,Efectivo,Anualmente
+6143,69,Femenino,Backpack,Accesorios,52,Cali,L,Verano,4.2,Si,Envio estandar,83,Efectivo,Anualmente
+6144,26,Femenino,Coat,Abrigos,59,Medellin,S,Verano,4.4,No,Envio estandar,51,Efectivo,Trimestral
+6145,54,Masculino,Jewelry,Accesorios,24,Ibague,XL,Invierno,3.0,Si,Entrega al dia siguiente,62,Efectivo,Quincenal
+6146,23,Femenino,Coat,Abrigos,76,Villavicencio,L,Primavera,3.7,No,Recogida en tienda,73,Nequi,Trimestral
+6147,57,Masculino,Sneakers,Calzado,89,Pereira,M,Verano,4.6,Si,Recogida en tienda,87,Nequi,Semanal
+6148,62,Masculino,Gloves,Accesorios,34,Ibague,XS,Invierno,3.3,Si,Envio en 2 dias,65,Nequi,Semanal
+6149,39,Femenino,Handbag,Accesorios,35,Cali,XS,Verano,2.8,Si,Envio gratuito,3,Tarjeta de debito,Mensual
+6150,69,Masculino,Hat,Accesorios,56,Ibague,XXL,Invierno,4.5,No,Entrega al dia siguiente,0,Transferencia bancaria,Anualmente
+6151,26,Masculino,Shoes,Calzado,79,Pereira,M,Otono,3.9,No,Entrega al dia siguiente,51,Tarjeta de debito,Trimestral
+6152,46,Masculino,Hoodie,Ropa,31,Pereira,S,Invierno,4.7,No,Recogida en tienda,4,Tarjeta de debito,Cada 3 meses
+6153,20,Femenino,Pants,Ropa,51,Bucaramanga,M,Verano,3.7,Si,Envio estandar,94,Efectivo,Cada 3 meses
+6154,54,Masculino,Skirt,Ropa,43,Santa Marta,L,Primavera,2.8,No,Express,72,Efectivo,Quincenal
+6155,38,Femenino,Belt,Accesorios,108,Bucaramanga,XL,Invierno,4.3,Si,Envio gratuito,44,Transferencia bancaria,Quincenal
+6156,51,Femenino,Sandals,Calzado,72,Villavicencio,S,Invierno,3.2,Si,Envio gratuito,78,Tarjeta de debito,Trimestral
+6157,57,Masculino,Skirt,Ropa,70,Bucaramanga,M,Invierno,4.1,Si,Envio gratuito,42,Tarjeta de debito,Cada 3 meses
+6158,65,Femenino,Hoodie,Ropa,110,Cartagena,XS,Otono,4.0,No,Envio estandar,77,Nequi,Quincenal
+6159,66,Femenino,Sunglasses,Accesorios,53,Cartagena,XL,Invierno,3.2,No,Entrega al dia siguiente,33,Transferencia bancaria,Trimestral
+6160,66,Femenino,Coat,Abrigos,48,Bogota,XL,Otono,3.8,Si,Envio estandar,92,Efectivo,Semanal
+6161,31,Masculino,Boots,Calzado,51,Cali,XS,Primavera,5.0,No,Express,7,Tarjeta de credito,Anualmente
+6162,73,Masculino,T-shirt,Ropa,25,Santa Marta,M,Otono,4.7,No,Express,36,Efectivo,Cada 3 meses
+6163,39,Masculino,Shorts,Ropa,36,Cucuta,S,Primavera,3.1,Si,Envio gratuito,35,Nequi,Mensual
+6164,72,Masculino,Jewelry,Accesorios,28,Cali,XXL,Verano,3.9,Si,Express,94,Tarjeta de debito,Anualmente
+6165,26,Femenino,Gloves,Accesorios,113,Cucuta,L,Otono,4.6,No,Envio estandar,90,Nequi,Mensual
+6166,30,Masculino,Shorts,Ropa,63,Villavicencio,XXL,Invierno,4.9,No,Envio en 2 dias,73,Nequi,Quincenal
+6167,22,Masculino,Sunglasses,Accesorios,66,Manizales,M,Verano,3.1,No,Entrega al dia siguiente,49,Tarjeta de credito,Anualmente
+6168,22,Femenino,Shoes,Calzado,90,Bucaramanga,XS,Verano,3.2,Si,Express,52,Tarjeta de credito,Semanal
+6169,65,Femenino,Belt,Accesorios,51,Barranquilla,M,Invierno,3.2,No,Entrega al dia siguiente,26,Transferencia bancaria,Anualmente
+6170,37,Femenino,Socks,Accesorios,77,Armenia,XL,Invierno,3.8,No,Envio estandar,3,Transferencia bancaria,Trimestral
+6171,68,Masculino,Sunglasses,Accesorios,110,Cali,XL,Otono,3.5,Si,Express,83,Transferencia bancaria,Semanal
+6172,60,Masculino,Sandals,Calzado,56,Medellin,L,Otono,3.0,Si,Envio gratuito,26,Tarjeta de debito,Anualmente
+6173,27,Femenino,Shoes,Calzado,66,Bogota,S,Verano,4.5,No,Entrega al dia siguiente,50,Tarjeta de debito,Quincenal
+6174,46,Masculino,Sweater,Ropa,116,Neiva,S,Verano,3.0,Si,Envio estandar,29,Transferencia bancaria,Quincenal
+6175,19,Femenino,Jacket,Abrigos,71,Ibague,XS,Verano,3.0,Si,Express,2,Tarjeta de credito,Quincenal
+6176,34,Masculino,Sandals,Calzado,76,Medellin,XXL,Primavera,4.2,No,Entrega al dia siguiente,46,Transferencia bancaria,Mensual
+6177,72,Masculino,Coat,Abrigos,119,Santa Marta,XL,Otono,4.4,No,Express,95,Transferencia bancaria,Quincenal
+6178,35,Masculino,Gloves,Accesorios,27,Medellin,S,Verano,4.3,No,Entrega al dia siguiente,21,Tarjeta de credito,Anualmente
+6179,31,Masculino,Sunglasses,Accesorios,36,Bogota,S,Otono,3.6,Si,Envio en 2 dias,58,Tarjeta de credito,Quincenal
+6180,60,Femenino,Hoodie,Ropa,26,Bucaramanga,XS,Invierno,4.5,No,Envio gratuito,84,Nequi,Mensual
+6181,64,Femenino,Scarf,Accesorios,102,Villavicencio,XXL,Invierno,3.3,No,Entrega al dia siguiente,13,Nequi,Trimestral
+6182,73,Femenino,Hat,Accesorios,26,Pereira,M,Verano,3.8,No,Express,100,Efectivo,Semanal
+6183,27,Masculino,Shirt,Ropa,28,Cali,S,Otono,4.0,No,Entrega al dia siguiente,50,Nequi,Cada 3 meses
+6184,63,Masculino,Shirt,Ropa,112,Armenia,S,Verano,3.7,Si,Entrega al dia siguiente,73,Transferencia bancaria,Quincenal
+6185,24,Femenino,Blouse,Ropa,31,Bogota,XS,Invierno,4.9,Si,Express,89,Tarjeta de debito,Semanal
+6186,53,Masculino,Sweater,Ropa,98,Bogota,XXL,Primavera,3.6,Si,Entrega al dia siguiente,37,Transferencia bancaria,Semanal
+6187,32,Femenino,Jeans,Ropa,33,Ibague,XL,Otono,4.2,Si,Envio estandar,40,Transferencia bancaria,Mensual
+6188,24,Femenino,Dress,Ropa,38,Santa Marta,L,Otono,3.1,No,Express,20,Transferencia bancaria,Cada 3 meses
+6189,72,Masculino,Coat,Abrigos,38,Medellin,L,Verano,3.4,No,Recogida en tienda,33,Nequi,Semanal
+6190,42,Femenino,Gloves,Accesorios,114,Armenia,XS,Verano,3.0,No,Envio gratuito,38,Efectivo,Anualmente
+6191,37,Masculino,Shirt,Ropa,96,Ibague,M,Primavera,3.2,Si,Express,1,Tarjeta de debito,Trimestral
+6192,61,Masculino,T-shirt,Ropa,84,Villavicencio,M,Primavera,4.0,No,Express,100,Efectivo,Mensual
+6193,34,Femenino,Jewelry,Accesorios,74,Villavicencio,XXL,Verano,2.9,No,Entrega al dia siguiente,29,Tarjeta de debito,Quincenal
+6194,46,Masculino,Scarf,Accesorios,60,Neiva,S,Verano,4.8,Si,Envio en 2 dias,53,Transferencia bancaria,Mensual
+6195,40,Femenino,Coat,Abrigos,97,Cali,XS,Otono,3.9,Si,Express,75,Tarjeta de debito,Anualmente
+6196,22,Masculino,T-shirt,Ropa,72,Barranquilla,XS,Verano,4.0,No,Recogida en tienda,89,Nequi,Mensual
+6197,32,Masculino,Handbag,Accesorios,79,Villavicencio,XXL,Verano,4.1,Si,Envio estandar,92,Tarjeta de debito,Semanal
+6198,66,Femenino,Belt,Accesorios,75,Pereira,XS,Otono,4.2,Si,Recogida en tienda,85,Nequi,Cada 3 meses
+6199,24,Femenino,Gloves,Accesorios,112,Medellin,S,Primavera,2.6,Si,Recogida en tienda,20,Transferencia bancaria,Semanal
+6200,23,Femenino,Coat,Abrigos,32,Cucuta,S,Primavera,3.4,No,Envio estandar,84,Transferencia bancaria,Semanal
+6201,41,Femenino,Pants,Ropa,89,Pereira,XL,Invierno,5.0,No,Envio en 2 dias,13,Nequi,Anualmente
+6202,51,Masculino,Hat,Accesorios,91,Manizales,XS,Invierno,3.3,No,Express,86,Transferencia bancaria,Anualmente
+6203,68,Masculino,Dress,Ropa,92,Manizales,L,Invierno,4.1,No,Express,40,Nequi,Cada 3 meses
+6204,67,Masculino,Sneakers,Calzado,71,Cartagena,L,Otono,4.4,Si,Envio estandar,55,Tarjeta de credito,Quincenal
+6205,36,Femenino,Boots,Calzado,98,Cali,XXL,Invierno,4.5,Si,Envio en 2 dias,24,Tarjeta de credito,Anualmente
+6206,37,Femenino,Belt,Accesorios,56,Cali,XL,Otono,3.8,Si,Envio gratuito,93,Efectivo,Trimestral
+6207,74,Femenino,Blouse,Ropa,80,Cucuta,XL,Invierno,2.9,No,Envio estandar,78,Nequi,Trimestral
+6208,35,Femenino,Sneakers,Calzado,40,Manizales,XXL,Verano,2.8,Si,Envio en 2 dias,28,Efectivo,Mensual
+6209,44,Femenino,Sweater,Ropa,108,Armenia,S,Primavera,2.7,No,Express,95,Tarjeta de credito,Trimestral
+6210,39,Femenino,Shoes,Calzado,70,Barranquilla,XS,Primavera,3.3,Si,Envio gratuito,22,Tarjeta de debito,Quincenal
+6211,74,Femenino,Shoes,Calzado,110,Bogota,M,Verano,4.8,Si,Recogida en tienda,99,Nequi,Trimestral
+6212,21,Femenino,Sandals,Calzado,70,Manizales,XXL,Invierno,2.9,No,Entrega al dia siguiente,31,Tarjeta de credito,Quincenal
+6213,72,Femenino,Shirt,Ropa,98,Pereira,XXL,Verano,3.0,No,Entrega al dia siguiente,95,Transferencia bancaria,Trimestral
+6214,39,Femenino,Sneakers,Calzado,89,Neiva,L,Verano,3.5,Si,Express,55,Nequi,Cada 3 meses
+6215,67,Femenino,Backpack,Accesorios,29,Barranquilla,S,Verano,3.0,Si,Recogida en tienda,77,Tarjeta de credito,Anualmente
+6216,61,Femenino,Jeans,Ropa,43,Santa Marta,XXL,Primavera,3.8,No,Recogida en tienda,97,Transferencia bancaria,Mensual
+6217,75,Masculino,Scarf,Accesorios,69,Medellin,XXL,Primavera,3.6,No,Envio estandar,21,Transferencia bancaria,Semanal
+6218,75,Femenino,Sneakers,Calzado,54,Barranquilla,XS,Verano,3.7,No,Entrega al dia siguiente,14,Efectivo,Trimestral
+6219,62,Femenino,Jeans,Ropa,95,Pereira,XL,Verano,3.9,No,Envio gratuito,84,Efectivo,Quincenal
+6220,65,Femenino,Sunglasses,Accesorios,113,Cali,XXL,Invierno,3.4,No,Envio estandar,49,Tarjeta de credito,Trimestral
+6221,73,Masculino,Shorts,Ropa,32,Cali,M,Invierno,3.0,Si,Envio gratuito,41,Tarjeta de credito,Trimestral
+6222,35,Masculino,Sneakers,Calzado,101,Bogota,L,Otono,4.7,Si,Entrega al dia siguiente,34,Efectivo,Quincenal
+6223,66,Masculino,Pants,Ropa,95,Cartagena,XS,Invierno,3.9,No,Entrega al dia siguiente,2,Nequi,Anualmente
+6224,53,Masculino,Hoodie,Ropa,107,Villavicencio,L,Otono,3.9,No,Entrega al dia siguiente,35,Transferencia bancaria,Trimestral
+6225,30,Masculino,Boots,Calzado,72,Santa Marta,S,Otono,4.6,No,Express,51,Nequi,Trimestral
+6226,69,Femenino,Jewelry,Accesorios,57,Neiva,XL,Primavera,3.2,No,Envio en 2 dias,77,Tarjeta de credito,Semanal
+6227,58,Masculino,Backpack,Accesorios,61,Cali,XS,Primavera,2.9,Si,Entrega al dia siguiente,5,Efectivo,Mensual
+6228,36,Femenino,Backpack,Accesorios,89,Cali,M,Otono,3.4,Si,Express,0,Nequi,Trimestral
+6229,54,Femenino,Socks,Accesorios,25,Bucaramanga,L,Otono,4.2,Si,Envio estandar,76,Efectivo,Cada 3 meses
+6230,71,Femenino,Shoes,Calzado,64,Pereira,S,Primavera,2.9,No,Envio gratuito,1,Transferencia bancaria,Anualmente
+6231,31,Femenino,Socks,Accesorios,64,Armenia,L,Invierno,2.8,No,Recogida en tienda,26,Transferencia bancaria,Cada 3 meses
+6232,42,Masculino,Boots,Calzado,91,Cartagena,XL,Verano,4.6,No,Entrega al dia siguiente,57,Nequi,Anualmente
+6233,50,Masculino,Sweater,Ropa,22,Villavicencio,XS,Invierno,2.9,Si,Envio en 2 dias,14,Tarjeta de credito,Mensual
+6234,41,Femenino,Belt,Accesorios,49,Cartagena,M,Otono,4.9,No,Express,76,Nequi,Anualmente
+6235,43,Masculino,Hat,Accesorios,105,Bucaramanga,L,Invierno,4.5,No,Express,38,Transferencia bancaria,Mensual
+6236,27,Femenino,Boots,Calzado,61,Bucaramanga,XL,Invierno,4.7,Si,Envio gratuito,54,Tarjeta de credito,Quincenal
+6237,72,Femenino,Boots,Calzado,97,Bogota,M,Verano,3.0,No,Entrega al dia siguiente,3,Tarjeta de debito,Mensual
+6238,37,Masculino,Jewelry,Accesorios,58,Manizales,M,Otono,3.4,Si,Envio estandar,55,Tarjeta de debito,Quincenal
+6239,24,Femenino,Shoes,Calzado,48,Bucaramanga,XS,Invierno,4.6,Si,Envio gratuito,42,Tarjeta de debito,Quincenal
+6240,24,Femenino,Sunglasses,Accesorios,96,Bogota,XS,Verano,3.5,Si,Envio en 2 dias,8,Efectivo,Quincenal
+6241,67,Femenino,Sneakers,Calzado,79,Santa Marta,S,Invierno,4.4,Si,Envio estandar,44,Nequi,Cada 3 meses
+6242,63,Masculino,Shoes,Calzado,61,Cali,S,Otono,2.9,No,Express,91,Tarjeta de debito,Anualmente
+6243,43,Femenino,Shirt,Ropa,61,Santa Marta,M,Primavera,3.6,Si,Envio gratuito,6,Nequi,Semanal
+6244,21,Masculino,Hoodie,Ropa,96,Medellin,M,Invierno,3.6,No,Entrega al dia siguiente,29,Tarjeta de debito,Semanal
+6245,31,Masculino,T-shirt,Ropa,38,Cartagena,L,Otono,2.8,No,Envio en 2 dias,45,Nequi,Cada 3 meses
+6246,62,Masculino,Gloves,Accesorios,53,Cartagena,XL,Verano,2.6,Si,Entrega al dia siguiente,65,Nequi,Anualmente
+6247,32,Femenino,Boots,Calzado,87,Barranquilla,L,Primavera,4.7,Si,Recogida en tienda,25,Tarjeta de credito,Semanal
+6248,51,Femenino,Pants,Ropa,24,Manizales,L,Verano,4.5,Si,Envio gratuito,22,Efectivo,Trimestral
+6249,48,Femenino,Backpack,Accesorios,56,Cucuta,XL,Invierno,3.0,Si,Envio gratuito,23,Transferencia bancaria,Mensual
+6250,62,Masculino,Pants,Ropa,61,Cucuta,XXL,Verano,4.8,Si,Entrega al dia siguiente,100,Nequi,Anualmente
+6251,24,Femenino,Jeans,Ropa,74,Villavicencio,L,Verano,3.2,No,Entrega al dia siguiente,11,Efectivo,Mensual
+6252,65,Masculino,Dress,Ropa,95,Neiva,L,Primavera,5.0,Si,Express,50,Tarjeta de credito,Trimestral
+6253,56,Masculino,Jewelry,Accesorios,100,Neiva,L,Otono,4.9,No,Envio en 2 dias,78,Nequi,Trimestral
+6254,55,Femenino,Sunglasses,Accesorios,24,Medellin,XS,Otono,3.7,Si,Envio estandar,29,Tarjeta de debito,Quincenal
+6255,24,Femenino,Shoes,Calzado,96,Pereira,XXL,Otono,4.8,Si,Recogida en tienda,37,Efectivo,Cada 3 meses
+6256,65,Masculino,Skirt,Ropa,116,Cucuta,XXL,Invierno,4.0,No,Express,71,Tarjeta de debito,Mensual
+6257,39,Masculino,T-shirt,Ropa,86,Cali,XL,Primavera,4.6,Si,Express,18,Transferencia bancaria,Mensual
+6258,65,Masculino,Sweater,Ropa,88,Ibague,XXL,Primavera,4.6,No,Envio estandar,69,Tarjeta de credito,Semanal
+6259,56,Masculino,Blouse,Ropa,79,Bogota,M,Otono,4.8,No,Envio gratuito,12,Tarjeta de debito,Quincenal
+6260,45,Masculino,T-shirt,Ropa,40,Manizales,L,Primavera,2.7,Si,Recogida en tienda,3,Tarjeta de credito,Trimestral
+6261,50,Masculino,T-shirt,Ropa,75,Cucuta,XL,Primavera,4.4,Si,Envio estandar,62,Nequi,Anualmente
+6262,35,Masculino,Shorts,Ropa,21,Cucuta,XS,Verano,4.6,No,Entrega al dia siguiente,73,Transferencia bancaria,Cada 3 meses
+6263,38,Femenino,Shoes,Calzado,74,Pereira,XL,Verano,3.1,No,Envio en 2 dias,80,Tarjeta de debito,Semanal
+6264,50,Femenino,T-shirt,Ropa,112,Santa Marta,XXL,Primavera,4.4,No,Express,16,Efectivo,Anualmente
+6265,65,Femenino,Boots,Calzado,93,Barranquilla,XL,Primavera,2.5,Si,Envio estandar,60,Tarjeta de debito,Quincenal
+6266,59,Masculino,Jeans,Ropa,35,Barranquilla,XXL,Invierno,2.6,Si,Recogida en tienda,67,Tarjeta de debito,Trimestral
+6267,69,Femenino,Shirt,Ropa,111,Medellin,XS,Otono,3.3,Si,Envio gratuito,27,Efectivo,Quincenal
+6268,43,Femenino,Jacket,Abrigos,109,Neiva,XL,Invierno,3.0,No,Express,56,Transferencia bancaria,Quincenal
+6269,62,Masculino,Shirt,Ropa,112,Ibague,L,Verano,3.0,Si,Envio estandar,7,Transferencia bancaria,Semanal
+6270,39,Masculino,T-shirt,Ropa,75,Medellin,M,Otono,3.6,Si,Envio en 2 dias,83,Tarjeta de debito,Mensual
+6271,70,Masculino,Handbag,Accesorios,94,Santa Marta,XL,Verano,3.4,Si,Envio en 2 dias,48,Tarjeta de debito,Quincenal
+6272,43,Femenino,Socks,Accesorios,37,Cucuta,XL,Verano,3.7,Si,Entrega al dia siguiente,3,Tarjeta de credito,Trimestral
+6273,56,Masculino,T-shirt,Ropa,103,Pereira,L,Primavera,3.4,Si,Envio gratuito,22,Nequi,Anualmente
+6274,42,Masculino,Hat,Accesorios,28,Cucuta,XXL,Invierno,2.7,Si,Envio estandar,89,Efectivo,Cada 3 meses
+6275,58,Femenino,Jacket,Abrigos,88,Cucuta,XXL,Otono,3.5,No,Envio en 2 dias,47,Transferencia bancaria,Anualmente
+6276,30,Femenino,Coat,Abrigos,82,Barranquilla,XS,Otono,2.9,No,Express,54,Tarjeta de credito,Trimestral
+6277,73,Femenino,Hat,Accesorios,101,Cartagena,XXL,Otono,3.6,Si,Envio estandar,40,Tarjeta de credito,Anualmente
+6278,54,Masculino,Shorts,Ropa,25,Pereira,L,Invierno,3.2,Si,Envio estandar,22,Tarjeta de credito,Trimestral
+6279,52,Masculino,Skirt,Ropa,85,Santa Marta,M,Otono,4.4,No,Envio en 2 dias,90,Tarjeta de credito,Cada 3 meses
+6280,52,Masculino,Coat,Abrigos,82,Medellin,L,Otono,4.7,Si,Recogida en tienda,54,Nequi,Trimestral
+6281,25,Femenino,T-shirt,Ropa,69,Cucuta,M,Primavera,3.0,Si,Envio estandar,64,Nequi,Anualmente
+6282,50,Masculino,Gloves,Accesorios,90,Santa Marta,L,Otono,4.9,Si,Recogida en tienda,29,Tarjeta de credito,Mensual
+6283,36,Masculino,Sandals,Calzado,21,Cucuta,M,Primavera,3.1,Si,Envio estandar,1,Nequi,Anualmente
+6284,40,Femenino,Shirt,Ropa,101,Cucuta,L,Primavera,3.0,Si,Entrega al dia siguiente,17,Tarjeta de debito,Cada 3 meses
+6285,68,Femenino,Belt,Accesorios,53,Medellin,XXL,Verano,4.7,Si,Envio en 2 dias,78,Transferencia bancaria,Semanal
+6286,59,Masculino,Sandals,Calzado,79,Cali,XS,Otono,4.4,Si,Envio en 2 dias,7,Efectivo,Semanal
+6287,55,Masculino,Boots,Calzado,92,Barranquilla,S,Otono,3.4,Si,Envio estandar,82,Transferencia bancaria,Anualmente
+6288,57,Masculino,Sunglasses,Accesorios,98,Cartagena,XS,Verano,2.9,No,Envio estandar,59,Transferencia bancaria,Trimestral
+6289,64,Masculino,Coat,Abrigos,115,Pereira,M,Invierno,3.0,Si,Envio gratuito,10,Efectivo,Cada 3 meses
+6290,68,Femenino,Dress,Ropa,57,Bogota,M,Verano,2.9,Si,Envio en 2 dias,68,Nequi,Anualmente
+6291,20,Femenino,Hoodie,Ropa,68,Manizales,L,Primavera,4.2,Si,Envio en 2 dias,60,Transferencia bancaria,Quincenal
+6292,52,Masculino,Sandals,Calzado,108,Villavicencio,S,Primavera,4.8,Si,Envio en 2 dias,4,Nequi,Cada 3 meses
+6293,67,Femenino,Jewelry,Accesorios,73,Armenia,S,Primavera,3.9,Si,Entrega al dia siguiente,69,Nequi,Anualmente
+6294,18,Masculino,Sandals,Calzado,80,Ibague,M,Primavera,2.6,No,Express,17,Tarjeta de debito,Trimestral
+6295,18,Femenino,Sandals,Calzado,47,Ibague,L,Primavera,3.0,Si,Recogida en tienda,57,Tarjeta de credito,Quincenal
+6296,23,Femenino,Gloves,Accesorios,89,Cucuta,L,Primavera,4.4,No,Envio en 2 dias,83,Efectivo,Mensual
+6297,27,Femenino,Boots,Calzado,23,Neiva,M,Otono,4.7,No,Recogida en tienda,52,Transferencia bancaria,Mensual
+6298,25,Femenino,Shoes,Calzado,28,Santa Marta,XS,Invierno,3.1,Si,Entrega al dia siguiente,6,Tarjeta de credito,Quincenal
+6299,66,Masculino,Hoodie,Ropa,120,Cali,S,Otono,2.9,No,Envio en 2 dias,18,Tarjeta de debito,Quincenal
+6300,31,Masculino,T-shirt,Ropa,30,Cali,XXL,Primavera,4.0,No,Recogida en tienda,57,Efectivo,Quincenal
+6301,42,Femenino,Gloves,Accesorios,106,Cali,L,Otono,3.3,Si,Express,60,Efectivo,Anualmente
+6302,59,Masculino,Skirt,Ropa,58,Armenia,XL,Primavera,4.9,Si,Envio gratuito,44,Tarjeta de debito,Trimestral
+6303,52,Masculino,Boots,Calzado,68,Bogota,S,Primavera,2.8,Si,Envio gratuito,68,Nequi,Anualmente
+6304,28,Masculino,Shoes,Calzado,71,Neiva,XXL,Otono,4.3,No,Envio gratuito,61,Nequi,Mensual
+6305,68,Masculino,Coat,Abrigos,47,Santa Marta,L,Primavera,4.8,No,Envio gratuito,58,Tarjeta de debito,Anualmente
+6306,50,Femenino,Sandals,Calzado,104,Manizales,XS,Primavera,3.9,No,Envio gratuito,79,Nequi,Quincenal
+6307,23,Masculino,Hoodie,Ropa,25,Bogota,L,Verano,3.5,Si,Express,100,Tarjeta de debito,Quincenal
+6308,35,Masculino,Shirt,Ropa,75,Cartagena,L,Primavera,3.8,Si,Express,73,Nequi,Mensual
+6309,38,Masculino,Pants,Ropa,43,Cali,XXL,Primavera,2.9,Si,Express,95,Efectivo,Semanal
+6310,65,Femenino,Backpack,Accesorios,65,Bucaramanga,XS,Verano,4.4,Si,Envio en 2 dias,2,Transferencia bancaria,Trimestral
+6311,51,Masculino,Handbag,Accesorios,57,Armenia,XXL,Invierno,3.6,Si,Envio estandar,0,Transferencia bancaria,Trimestral
+6312,51,Femenino,Boots,Calzado,52,Medellin,L,Primavera,2.6,Si,Entrega al dia siguiente,72,Tarjeta de credito,Quincenal
+6313,26,Masculino,Gloves,Accesorios,78,Armenia,XL,Invierno,4.4,Si,Entrega al dia siguiente,1,Nequi,Semanal
+6314,39,Masculino,Shoes,Calzado,30,Cucuta,XL,Invierno,3.7,No,Entrega al dia siguiente,31,Transferencia bancaria,Anualmente
+6315,19,Masculino,Socks,Accesorios,48,Barranquilla,L,Primavera,4.7,Si,Entrega al dia siguiente,10,Transferencia bancaria,Trimestral
+6316,74,Femenino,Jacket,Abrigos,31,Villavicencio,XL,Otono,4.2,No,Envio estandar,18,Nequi,Cada 3 meses
+6317,27,Femenino,Gloves,Accesorios,101,Cartagena,XXL,Primavera,2.7,Si,Envio gratuito,97,Tarjeta de credito,Cada 3 meses
+6318,44,Masculino,Backpack,Accesorios,77,Bucaramanga,L,Otono,3.2,No,Entrega al dia siguiente,55,Efectivo,Quincenal
+6319,63,Femenino,Boots,Calzado,27,Manizales,S,Otono,4.7,Si,Express,90,Nequi,Anualmente
+6320,62,Femenino,Coat,Abrigos,103,Barranquilla,XL,Invierno,4.0,No,Envio en 2 dias,19,Efectivo,Quincenal
+6321,20,Masculino,Shirt,Ropa,28,Santa Marta,M,Otono,4.8,No,Express,45,Tarjeta de credito,Mensual
+6322,37,Femenino,Handbag,Accesorios,64,Santa Marta,XS,Primavera,3.2,Si,Envio estandar,12,Nequi,Quincenal
+6323,53,Masculino,Boots,Calzado,90,Medellin,XXL,Invierno,4.8,Si,Recogida en tienda,41,Tarjeta de debito,Trimestral
+6324,19,Masculino,Socks,Accesorios,70,Medellin,XS,Primavera,3.7,Si,Express,7,Tarjeta de debito,Mensual
+6325,44,Femenino,Belt,Accesorios,30,Cali,XL,Verano,3.8,No,Envio en 2 dias,3,Transferencia bancaria,Semanal
+6326,74,Femenino,Gloves,Accesorios,36,Ibague,XXL,Invierno,2.7,Si,Express,3,Tarjeta de debito,Trimestral
+6327,63,Masculino,Backpack,Accesorios,83,Armenia,L,Invierno,4.4,Si,Recogida en tienda,96,Tarjeta de debito,Cada 3 meses
+6328,42,Femenino,Hoodie,Ropa,103,Cali,S,Invierno,3.5,Si,Recogida en tienda,38,Efectivo,Anualmente
+6329,24,Femenino,Jacket,Abrigos,50,Bogota,M,Invierno,4.3,Si,Recogida en tienda,39,Efectivo,Quincenal
+6330,34,Femenino,Jeans,Ropa,91,Pereira,XS,Invierno,5.0,Si,Express,40,Transferencia bancaria,Semanal
+6331,61,Femenino,Sandals,Calzado,105,Cali,L,Invierno,5.0,No,Entrega al dia siguiente,90,Efectivo,Cada 3 meses
+6332,62,Masculino,Coat,Abrigos,36,Cartagena,XS,Invierno,4.7,No,Envio estandar,56,Nequi,Cada 3 meses
+6333,68,Masculino,Scarf,Accesorios,79,Cucuta,XS,Verano,3.9,Si,Envio gratuito,1,Transferencia bancaria,Mensual
+6334,24,Masculino,Shirt,Ropa,92,Santa Marta,M,Verano,2.8,No,Envio gratuito,26,Tarjeta de debito,Anualmente
+6335,37,Masculino,Sweater,Ropa,116,Pereira,XL,Verano,4.9,Si,Envio en 2 dias,43,Efectivo,Cada 3 meses
+6336,56,Masculino,Dress,Ropa,65,Cartagena,XL,Verano,2.5,No,Recogida en tienda,88,Tarjeta de debito,Cada 3 meses
+6337,59,Femenino,T-shirt,Ropa,35,Medellin,XXL,Invierno,4.4,Si,Envio estandar,18,Efectivo,Quincenal
+6338,18,Masculino,Handbag,Accesorios,59,Barranquilla,M,Otono,3.8,Si,Recogida en tienda,8,Nequi,Trimestral
+6339,35,Masculino,Shoes,Calzado,22,Pereira,L,Otono,4.7,Si,Envio gratuito,12,Transferencia bancaria,Anualmente
+6340,29,Femenino,Dress,Ropa,67,Cartagena,S,Otono,2.7,Si,Express,3,Transferencia bancaria,Semanal
+6341,43,Femenino,Hoodie,Ropa,98,Armenia,XL,Invierno,2.5,Si,Entrega al dia siguiente,18,Transferencia bancaria,Semanal
+6342,64,Masculino,Belt,Accesorios,27,Barranquilla,S,Primavera,5.0,Si,Envio en 2 dias,76,Efectivo,Trimestral
+6343,70,Femenino,Blouse,Ropa,31,Neiva,M,Primavera,4.8,Si,Envio gratuito,60,Transferencia bancaria,Quincenal
+6344,24,Masculino,Sweater,Ropa,32,Ibague,L,Invierno,2.6,Si,Recogida en tienda,96,Efectivo,Quincenal
+6345,66,Masculino,Socks,Accesorios,111,Ibague,XS,Otono,2.7,No,Recogida en tienda,59,Nequi,Cada 3 meses
+6346,73,Masculino,Backpack,Accesorios,100,Medellin,XS,Verano,4.9,No,Express,43,Nequi,Quincenal
+6347,63,Femenino,Backpack,Accesorios,80,Cali,XL,Invierno,3.8,Si,Entrega al dia siguiente,17,Efectivo,Trimestral
+6348,66,Femenino,Sunglasses,Accesorios,49,Santa Marta,XS,Invierno,2.8,Si,Envio estandar,88,Nequi,Anualmente
+6349,67,Masculino,Coat,Abrigos,36,Barranquilla,XXL,Invierno,3.1,No,Envio en 2 dias,68,Tarjeta de credito,Mensual
+6350,39,Femenino,Belt,Accesorios,77,Pereira,XL,Primavera,4.7,Si,Express,36,Nequi,Anualmente
+6351,61,Masculino,Jeans,Ropa,79,Cucuta,XL,Primavera,2.5,No,Recogida en tienda,37,Tarjeta de credito,Quincenal
+6352,31,Masculino,Dress,Ropa,40,Cucuta,XS,Invierno,4.0,No,Envio estandar,85,Efectivo,Trimestral
+6353,40,Masculino,Hat,Accesorios,70,Villavicencio,L,Primavera,3.5,No,Recogida en tienda,87,Tarjeta de debito,Anualmente
+6354,45,Femenino,Handbag,Accesorios,93,Cucuta,M,Verano,2.7,Si,Recogida en tienda,14,Efectivo,Cada 3 meses
+6355,70,Femenino,Jewelry,Accesorios,29,Bogota,L,Primavera,3.0,No,Envio en 2 dias,83,Nequi,Cada 3 meses
+6356,75,Femenino,Hoodie,Ropa,47,Armenia,XXL,Primavera,4.1,Si,Envio estandar,17,Tarjeta de debito,Trimestral
+6357,72,Masculino,Shirt,Ropa,28,Barranquilla,XS,Primavera,3.3,Si,Recogida en tienda,54,Nequi,Anualmente
+6358,70,Femenino,Jacket,Abrigos,49,Bogota,S,Primavera,3.4,Si,Entrega al dia siguiente,60,Tarjeta de debito,Semanal
+6359,53,Masculino,Sunglasses,Accesorios,57,Pereira,XXL,Verano,3.1,No,Express,39,Nequi,Anualmente
+6360,23,Femenino,Jacket,Abrigos,22,Cucuta,XS,Otono,4.8,No,Envio gratuito,98,Tarjeta de credito,Mensual
+6361,50,Masculino,Boots,Calzado,60,Santa Marta,S,Otono,3.3,Si,Express,69,Transferencia bancaria,Mensual
+6362,49,Masculino,Boots,Calzado,37,Barranquilla,XL,Otono,4.4,No,Envio estandar,12,Tarjeta de debito,Cada 3 meses
+6363,34,Femenino,Jewelry,Accesorios,101,Bogota,XXL,Invierno,2.9,No,Envio en 2 dias,19,Tarjeta de debito,Cada 3 meses
+6364,45,Masculino,T-shirt,Ropa,55,Pereira,L,Invierno,2.9,No,Envio en 2 dias,56,Transferencia bancaria,Anualmente
+6365,47,Femenino,Belt,Accesorios,84,Santa Marta,XS,Otono,3.5,No,Recogida en tienda,61,Nequi,Semanal
+6366,66,Femenino,Scarf,Accesorios,105,Armenia,XS,Verano,2.7,No,Envio gratuito,29,Nequi,Anualmente
+6367,67,Femenino,Sandals,Calzado,57,Cucuta,XS,Otono,3.8,No,Recogida en tienda,58,Tarjeta de credito,Mensual
+6368,21,Femenino,Shorts,Ropa,42,Bucaramanga,M,Invierno,4.2,No,Express,57,Tarjeta de credito,Trimestral
+6369,51,Masculino,Belt,Accesorios,77,Pereira,L,Otono,2.8,No,Recogida en tienda,48,Tarjeta de credito,Quincenal
+6370,48,Femenino,Sunglasses,Accesorios,46,Bucaramanga,S,Invierno,3.7,Si,Envio gratuito,77,Tarjeta de credito,Quincenal
+6371,75,Masculino,Sweater,Ropa,84,Cucuta,L,Primavera,3.5,Si,Envio gratuito,66,Nequi,Mensual
+6372,55,Femenino,Dress,Ropa,27,Armenia,M,Otono,4.4,No,Envio en 2 dias,44,Transferencia bancaria,Semanal
+6373,51,Femenino,Scarf,Accesorios,45,Ibague,L,Primavera,4.9,No,Envio estandar,57,Efectivo,Cada 3 meses
+6374,67,Femenino,Jacket,Abrigos,44,Villavicencio,XXL,Otono,3.5,Si,Recogida en tienda,60,Nequi,Trimestral
+6375,74,Masculino,Scarf,Accesorios,110,Bucaramanga,M,Otono,2.9,Si,Envio estandar,90,Transferencia bancaria,Quincenal
+6376,71,Masculino,Coat,Abrigos,43,Santa Marta,S,Invierno,4.4,Si,Entrega al dia siguiente,93,Tarjeta de credito,Quincenal
+6377,21,Femenino,Dress,Ropa,102,Cali,L,Primavera,2.8,Si,Entrega al dia siguiente,47,Efectivo,Mensual
+6378,56,Femenino,Scarf,Accesorios,33,Pereira,S,Primavera,4.4,Si,Envio estandar,69,Tarjeta de debito,Anualmente
+6379,36,Masculino,Shoes,Calzado,71,Ibague,XL,Verano,2.6,Si,Envio en 2 dias,54,Nequi,Anualmente
+6380,31,Femenino,Dress,Ropa,23,Cali,XXL,Invierno,5.0,Si,Envio en 2 dias,34,Tarjeta de credito,Semanal
+6381,43,Masculino,Scarf,Accesorios,29,Bogota,L,Primavera,4.7,No,Entrega al dia siguiente,97,Transferencia bancaria,Quincenal
+6382,69,Femenino,Jewelry,Accesorios,44,Santa Marta,XS,Otono,4.2,Si,Envio gratuito,74,Tarjeta de credito,Quincenal
+6383,29,Masculino,Sandals,Calzado,43,Cartagena,M,Invierno,3.9,Si,Entrega al dia siguiente,20,Nequi,Cada 3 meses
+6384,68,Masculino,Pants,Ropa,50,Manizales,XS,Verano,4.9,Si,Recogida en tienda,50,Tarjeta de debito,Cada 3 meses
+6385,21,Femenino,Jeans,Ropa,98,Armenia,XL,Otono,2.8,Si,Recogida en tienda,77,Tarjeta de credito,Quincenal
+6386,47,Femenino,T-shirt,Ropa,83,Cali,XL,Primavera,2.9,Si,Entrega al dia siguiente,28,Tarjeta de debito,Semanal
+6387,21,Masculino,T-shirt,Ropa,92,Cucuta,L,Primavera,2.8,No,Recogida en tienda,53,Efectivo,Mensual
+6388,59,Masculino,Dress,Ropa,78,Cucuta,S,Otono,3.4,Si,Envio estandar,62,Tarjeta de debito,Trimestral
+6389,65,Masculino,Backpack,Accesorios,77,Armenia,XS,Invierno,3.3,Si,Entrega al dia siguiente,95,Efectivo,Cada 3 meses
+6390,66,Masculino,Backpack,Accesorios,41,Bogota,XL,Primavera,4.2,Si,Envio estandar,21,Nequi,Anualmente
+6391,28,Femenino,T-shirt,Ropa,29,Bucaramanga,M,Verano,4.0,No,Envio gratuito,69,Nequi,Anualmente
+6392,55,Femenino,Dress,Ropa,40,Bucaramanga,S,Verano,3.0,Si,Express,31,Tarjeta de debito,Anualmente
+6393,20,Femenino,Jeans,Ropa,103,Neiva,M,Otono,4.6,Si,Envio en 2 dias,79,Tarjeta de credito,Cada 3 meses
+6394,36,Masculino,Sunglasses,Accesorios,107,Bogota,S,Invierno,4.0,No,Recogida en tienda,100,Tarjeta de credito,Trimestral
+6395,30,Femenino,Gloves,Accesorios,40,Cartagena,S,Invierno,4.8,No,Express,0,Nequi,Anualmente
+6396,40,Femenino,Boots,Calzado,36,Cucuta,M,Otono,2.7,Si,Entrega al dia siguiente,99,Tarjeta de debito,Trimestral
+6397,43,Masculino,Skirt,Ropa,96,Ibague,S,Primavera,2.8,Si,Entrega al dia siguiente,51,Tarjeta de credito,Anualmente
+6398,48,Masculino,Hoodie,Ropa,95,Bucaramanga,M,Verano,2.7,Si,Entrega al dia siguiente,23,Nequi,Cada 3 meses
+6399,59,Femenino,Shorts,Ropa,46,Santa Marta,M,Primavera,4.0,Si,Entrega al dia siguiente,57,Transferencia bancaria,Semanal
+6400,32,Femenino,Scarf,Accesorios,67,Barranquilla,XXL,Invierno,2.8,No,Envio gratuito,60,Tarjeta de debito,Quincenal
+6401,60,Masculino,Hat,Accesorios,69,Medellin,S,Primavera,4.7,No,Envio en 2 dias,57,Tarjeta de credito,Anualmente
+6402,18,Femenino,Socks,Accesorios,114,Manizales,M,Otono,4.7,No,Envio en 2 dias,24,Tarjeta de credito,Semanal
+6403,24,Femenino,Jeans,Ropa,108,Barranquilla,M,Otono,2.5,Si,Envio gratuito,26,Tarjeta de credito,Anualmente
+6404,55,Femenino,Hoodie,Ropa,50,Villavicencio,XS,Invierno,3.7,No,Recogida en tienda,17,Tarjeta de debito,Mensual
+6405,56,Femenino,Jeans,Ropa,108,Armenia,M,Verano,2.9,Si,Envio estandar,69,Tarjeta de credito,Semanal
+6406,70,Masculino,Sneakers,Calzado,106,Bucaramanga,XXL,Primavera,4.0,Si,Envio gratuito,98,Nequi,Mensual
+6407,49,Femenino,Pants,Ropa,83,Villavicencio,L,Verano,4.9,Si,Express,75,Nequi,Trimestral
+6408,45,Masculino,Boots,Calzado,65,Cucuta,XL,Primavera,2.9,No,Recogida en tienda,69,Tarjeta de debito,Mensual
+6409,35,Femenino,Shirt,Ropa,62,Villavicencio,XL,Otono,4.3,Si,Recogida en tienda,69,Tarjeta de credito,Cada 3 meses
+6410,62,Masculino,Sunglasses,Accesorios,81,Cali,L,Verano,2.5,No,Entrega al dia siguiente,61,Tarjeta de credito,Semanal
+6411,55,Femenino,Jeans,Ropa,59,Barranquilla,XXL,Otono,4.3,Si,Envio estandar,50,Tarjeta de credito,Trimestral
+6412,28,Femenino,Dress,Ropa,64,Bogota,XS,Verano,3.4,No,Express,96,Tarjeta de debito,Mensual
+6413,29,Masculino,Gloves,Accesorios,95,Neiva,M,Verano,4.1,Si,Express,20,Tarjeta de credito,Cada 3 meses
+6414,23,Masculino,Shorts,Ropa,93,Cali,XL,Primavera,4.5,No,Entrega al dia siguiente,21,Efectivo,Anualmente
+6415,26,Masculino,Jewelry,Accesorios,20,Cartagena,M,Primavera,4.9,No,Entrega al dia siguiente,24,Tarjeta de credito,Anualmente
+6416,48,Masculino,Sneakers,Calzado,25,Bogota,XXL,Verano,4.0,Si,Recogida en tienda,97,Transferencia bancaria,Trimestral
+6417,32,Femenino,Jeans,Ropa,117,Barranquilla,XL,Verano,2.8,No,Entrega al dia siguiente,11,Transferencia bancaria,Trimestral
+6418,32,Masculino,Backpack,Accesorios,108,Bogota,L,Primavera,4.8,Si,Entrega al dia siguiente,62,Transferencia bancaria,Cada 3 meses
+6419,43,Masculino,Jewelry,Accesorios,34,Villavicencio,XXL,Invierno,4.6,Si,Entrega al dia siguiente,55,Tarjeta de credito,Mensual
+6420,36,Femenino,Sunglasses,Accesorios,87,Armenia,M,Primavera,2.5,No,Express,59,Tarjeta de credito,Quincenal
+6421,35,Masculino,Blouse,Ropa,76,Cucuta,L,Verano,4.6,Si,Express,25,Efectivo,Anualmente
+6422,18,Masculino,Hoodie,Ropa,111,Medellin,L,Otono,2.8,Si,Recogida en tienda,12,Efectivo,Cada 3 meses
+6423,35,Masculino,Boots,Calzado,115,Barranquilla,L,Verano,3.7,No,Envio estandar,46,Efectivo,Mensual
+6424,75,Femenino,Pants,Ropa,108,Barranquilla,M,Otono,3.0,Si,Envio gratuito,54,Transferencia bancaria,Mensual
+6425,38,Masculino,Boots,Calzado,85,Manizales,L,Primavera,5.0,No,Envio estandar,78,Nequi,Quincenal
+6426,29,Masculino,Sunglasses,Accesorios,43,Bogota,S,Otono,3.9,No,Envio gratuito,34,Tarjeta de debito,Anualmente
+6427,67,Masculino,Dress,Ropa,48,Cartagena,M,Invierno,4.5,Si,Envio estandar,49,Nequi,Cada 3 meses
+6428,46,Femenino,Dress,Ropa,65,Cucuta,M,Otono,4.4,No,Express,53,Nequi,Trimestral
+6429,20,Masculino,Sunglasses,Accesorios,79,Cali,S,Invierno,4.3,No,Envio en 2 dias,83,Transferencia bancaria,Anualmente
+6430,56,Masculino,Handbag,Accesorios,84,Cucuta,M,Otono,3.7,No,Express,11,Efectivo,Semanal
+6431,35,Femenino,Jacket,Abrigos,119,Ibague,XL,Primavera,4.6,Si,Envio estandar,99,Tarjeta de credito,Mensual
+6432,52,Femenino,Hat,Accesorios,106,Pereira,XS,Otono,3.7,No,Recogida en tienda,12,Tarjeta de debito,Quincenal
+6433,47,Masculino,Hat,Accesorios,47,Santa Marta,XS,Invierno,4.3,Si,Envio estandar,96,Efectivo,Semanal
+6434,72,Masculino,Pants,Ropa,52,Pereira,L,Verano,4.2,No,Express,51,Nequi,Anualmente
+6435,41,Masculino,Sunglasses,Accesorios,31,Manizales,M,Primavera,4.8,Si,Entrega al dia siguiente,60,Tarjeta de credito,Trimestral
+6436,71,Femenino,Backpack,Accesorios,119,Manizales,M,Otono,2.6,No,Recogida en tienda,71,Efectivo,Anualmente
+6437,36,Femenino,Jeans,Ropa,72,Neiva,L,Primavera,3.3,Si,Express,90,Tarjeta de credito,Mensual
+6438,35,Masculino,Shorts,Ropa,85,Barranquilla,S,Primavera,3.5,No,Recogida en tienda,27,Transferencia bancaria,Mensual
+6439,48,Femenino,Shoes,Calzado,37,Cali,XXL,Verano,3.6,No,Envio estandar,82,Tarjeta de debito,Anualmente
+6440,57,Femenino,T-shirt,Ropa,85,Santa Marta,XL,Invierno,3.3,No,Recogida en tienda,76,Transferencia bancaria,Mensual
+6441,48,Femenino,Shorts,Ropa,73,Barranquilla,M,Verano,4.2,No,Entrega al dia siguiente,3,Tarjeta de debito,Semanal
+6442,38,Femenino,Socks,Accesorios,101,Cartagena,XL,Verano,2.8,Si,Recogida en tienda,58,Transferencia bancaria,Cada 3 meses
+6443,59,Masculino,T-shirt,Ropa,109,Neiva,XS,Invierno,4.2,No,Envio en 2 dias,52,Efectivo,Quincenal
+6444,29,Femenino,T-shirt,Ropa,28,Pereira,S,Primavera,3.7,Si,Envio estandar,78,Transferencia bancaria,Semanal
+6445,54,Femenino,Scarf,Accesorios,35,Manizales,S,Invierno,4.3,Si,Express,59,Transferencia bancaria,Mensual
+6446,65,Femenino,Shoes,Calzado,74,Cucuta,M,Otono,2.9,No,Express,3,Tarjeta de credito,Semanal
+6447,62,Femenino,Blouse,Ropa,106,Neiva,S,Otono,3.3,Si,Envio en 2 dias,36,Tarjeta de debito,Trimestral
+6448,57,Masculino,Sandals,Calzado,23,Pereira,XL,Verano,2.7,No,Envio estandar,56,Tarjeta de credito,Anualmente
+6449,41,Masculino,Skirt,Ropa,87,Cali,M,Verano,3.9,No,Recogida en tienda,100,Tarjeta de credito,Anualmente
+6450,62,Femenino,Sunglasses,Accesorios,106,Cucuta,XXL,Primavera,3.7,Si,Entrega al dia siguiente,60,Nequi,Anualmente
+6451,42,Masculino,Sneakers,Calzado,54,Villavicencio,S,Primavera,3.4,Si,Envio en 2 dias,48,Tarjeta de debito,Trimestral
+6452,64,Femenino,Sneakers,Calzado,85,Medellin,M,Primavera,3.0,No,Envio en 2 dias,14,Efectivo,Anualmente
+6453,56,Femenino,Pants,Ropa,100,Cartagena,XS,Invierno,4.7,Si,Envio en 2 dias,65,Nequi,Anualmente
+6454,51,Femenino,Sandals,Calzado,40,Pereira,S,Verano,4.0,No,Envio estandar,22,Tarjeta de debito,Cada 3 meses
+6455,71,Masculino,T-shirt,Ropa,23,Villavicencio,XS,Invierno,2.9,No,Envio estandar,23,Efectivo,Semanal
+6456,35,Femenino,Blouse,Ropa,73,Manizales,XS,Invierno,4.8,Si,Recogida en tienda,76,Efectivo,Anualmente
+6457,28,Masculino,Jewelry,Accesorios,70,Cali,XS,Primavera,3.8,Si,Express,79,Transferencia bancaria,Mensual
+6458,21,Femenino,Pants,Ropa,44,Villavicencio,M,Otono,3.2,No,Envio estandar,48,Tarjeta de credito,Semanal
+6459,34,Masculino,Shirt,Ropa,107,Cucuta,L,Primavera,2.7,Si,Recogida en tienda,95,Tarjeta de debito,Semanal
+6460,60,Femenino,Hoodie,Ropa,40,Villavicencio,M,Verano,3.5,Si,Envio estandar,11,Tarjeta de credito,Quincenal
+6461,47,Masculino,Handbag,Accesorios,21,Cali,XL,Otono,3.9,No,Recogida en tienda,7,Tarjeta de credito,Trimestral
+6462,42,Masculino,Backpack,Accesorios,36,Neiva,M,Verano,3.4,Si,Recogida en tienda,39,Transferencia bancaria,Cada 3 meses
+6463,40,Femenino,Sunglasses,Accesorios,117,Pereira,M,Primavera,4.2,No,Envio gratuito,99,Tarjeta de debito,Semanal
+6464,19,Femenino,Jewelry,Accesorios,109,Cartagena,XL,Verano,2.8,No,Entrega al dia siguiente,31,Nequi,Cada 3 meses
+6465,35,Masculino,Pants,Ropa,39,Barranquilla,S,Verano,3.6,No,Entrega al dia siguiente,59,Nequi,Trimestral
+6466,51,Masculino,Hoodie,Ropa,94,Medellin,S,Otono,4.0,No,Recogida en tienda,22,Tarjeta de credito,Semanal
+6467,21,Masculino,Dress,Ropa,97,Manizales,L,Verano,2.9,No,Envio estandar,79,Tarjeta de credito,Anualmente
+6468,42,Masculino,Jewelry,Accesorios,29,Santa Marta,XL,Invierno,2.9,No,Entrega al dia siguiente,78,Nequi,Trimestral
+6469,60,Femenino,Shorts,Ropa,114,Ibague,XXL,Verano,3.0,No,Entrega al dia siguiente,71,Nequi,Mensual
+6470,63,Masculino,Sandals,Calzado,98,Cali,M,Invierno,2.5,Si,Express,32,Nequi,Quincenal
+6471,21,Masculino,Skirt,Ropa,51,Medellin,M,Verano,4.0,Si,Envio estandar,10,Tarjeta de credito,Quincenal
+6472,43,Femenino,Backpack,Accesorios,20,Medellin,M,Otono,2.6,No,Entrega al dia siguiente,18,Nequi,Semanal
+6473,65,Femenino,Hoodie,Ropa,114,Villavicencio,XXL,Verano,4.6,No,Recogida en tienda,72,Transferencia bancaria,Quincenal
+6474,37,Femenino,Backpack,Accesorios,46,Manizales,XL,Invierno,3.3,No,Express,4,Nequi,Trimestral
+6475,52,Masculino,Sneakers,Calzado,61,Cucuta,XXL,Invierno,3.2,Si,Envio gratuito,1,Tarjeta de debito,Trimestral
+6476,63,Femenino,Belt,Accesorios,86,Cali,S,Otono,4.6,Si,Envio estandar,62,Efectivo,Mensual
+6477,56,Femenino,Skirt,Ropa,53,Manizales,XL,Invierno,2.8,Si,Recogida en tienda,47,Efectivo,Trimestral
+6478,26,Femenino,Blouse,Ropa,80,Villavicencio,M,Verano,4.1,Si,Entrega al dia siguiente,78,Efectivo,Mensual
+6479,24,Masculino,Shorts,Ropa,62,Santa Marta,S,Otono,4.6,Si,Envio gratuito,31,Tarjeta de debito,Mensual
+6480,34,Femenino,Sunglasses,Accesorios,40,Bucaramanga,S,Primavera,4.1,No,Recogida en tienda,79,Tarjeta de debito,Mensual
+6481,24,Femenino,Belt,Accesorios,83,Santa Marta,L,Verano,4.1,Si,Entrega al dia siguiente,44,Transferencia bancaria,Quincenal
+6482,44,Femenino,T-shirt,Ropa,93,Neiva,XXL,Verano,4.9,Si,Recogida en tienda,42,Nequi,Semanal
+6483,71,Femenino,Shorts,Ropa,45,Manizales,L,Verano,3.0,Si,Express,38,Tarjeta de credito,Cada 3 meses
+6484,72,Masculino,Hat,Accesorios,77,Cartagena,XL,Primavera,4.4,No,Entrega al dia siguiente,3,Efectivo,Semanal
+6485,52,Masculino,Coat,Abrigos,119,Barranquilla,M,Primavera,4.8,Si,Recogida en tienda,60,Efectivo,Cada 3 meses
+6486,22,Femenino,Scarf,Accesorios,100,Bogota,XXL,Otono,2.7,Si,Recogida en tienda,21,Nequi,Trimestral
+6487,40,Femenino,Hat,Accesorios,65,Pereira,S,Otono,2.6,Si,Envio estandar,45,Nequi,Anualmente
+6488,40,Masculino,Shoes,Calzado,114,Medellin,XXL,Primavera,3.3,No,Envio gratuito,34,Nequi,Mensual
+6489,60,Masculino,Handbag,Accesorios,97,Villavicencio,XS,Invierno,2.6,No,Entrega al dia siguiente,0,Transferencia bancaria,Cada 3 meses
+6490,18,Femenino,Backpack,Accesorios,111,Cartagena,M,Otono,2.8,No,Envio en 2 dias,97,Tarjeta de credito,Trimestral
+6491,68,Femenino,Dress,Ropa,30,Neiva,XL,Primavera,4.2,No,Entrega al dia siguiente,98,Tarjeta de credito,Semanal
+6492,64,Femenino,Handbag,Accesorios,85,Bucaramanga,XL,Invierno,4.2,No,Recogida en tienda,88,Transferencia bancaria,Semanal
+6493,46,Femenino,Coat,Abrigos,70,Bucaramanga,S,Otono,2.7,No,Envio gratuito,88,Efectivo,Semanal
+6494,56,Femenino,Gloves,Accesorios,112,Barranquilla,M,Invierno,2.8,Si,Express,77,Efectivo,Cada 3 meses
+6495,34,Femenino,Shirt,Ropa,84,Bogota,L,Invierno,2.6,No,Envio en 2 dias,76,Tarjeta de credito,Anualmente
+6496,61,Femenino,Skirt,Ropa,109,Ibague,XS,Otono,4.7,Si,Envio en 2 dias,25,Tarjeta de credito,Mensual
+6497,42,Femenino,Boots,Calzado,62,Manizales,M,Otono,3.9,No,Express,51,Tarjeta de credito,Quincenal
+6498,60,Femenino,Boots,Calzado,96,Villavicencio,L,Primavera,3.2,No,Recogida en tienda,86,Tarjeta de credito,Quincenal
+6499,19,Masculino,Handbag,Accesorios,96,Santa Marta,XXL,Primavera,3.7,No,Envio gratuito,91,Tarjeta de debito,Cada 3 meses
