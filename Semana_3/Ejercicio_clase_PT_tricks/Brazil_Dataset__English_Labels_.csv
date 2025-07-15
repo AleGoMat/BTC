@@ -1,0 +1,301 @@
+Customer ID,Age,Gender,Item Purchased,Category,Purchase Amount,Location,Size,Season,Review Rating,Subscription Status,Shipping Type,Previous Purchases,Payment Method,Frequency of Purchases
+2000,75,Female,Jacket,Outerwear,67,"('RS', 'Rio Grande do Sul')",GG,Fall,4.9,Yes,Next Day Air,5,Debit Card,Bi-Weekly
+2001,75,Female,Coat,Outerwear,46,"('PB', 'Paraíba')",P,Fall,4.2,No,Standard,79,Credit Card,Every 3 Months
+2002,73,Female,Jacket,Outerwear,72,"('SE', 'Sergipe')",PP,Fall,4.8,No,Next Day Air,85,Credit Card,Quarterly
+2003,28,Female,Coat,Outerwear,24,"('RO', 'Rondônia')",G,Fall,4.2,No,Standard,44,Debit Card,Bi-Weekly
+2004,32,Female,Jacket,Outerwear,71,"('BA', 'Bahia')",M,Winter,3.9,No,Free Shipping,44,Pix,Every 3 Months
+2005,61,Male,Jacket,Outerwear,34,"('PE', 'Pernambuco')",M,Fall,2.5,No,Free Shipping,4,Bank Transfer,Quarterly
+2006,40,Male,Coat,Outerwear,97,"('RO', 'Rondônia')",GG,Fall,2.6,Yes,Standard,32,Bank Transfer,Annually
+2007,18,Female,Coat,Outerwear,75,"('MT', 'Mato Grosso')",PP,Winter,2.7,Yes,Next Day Air,92,Debit Card,Annually
+2008,60,Male,Coat,Outerwear,71,"('ES', 'Espírito Santo')",M,Fall,4.9,No,2-Day Shipping,85,Cash,Bi-Weekly
+2009,57,Male,Coat,Outerwear,90,"('TO', 'Tocantins')",PP,Winter,3.8,Yes,Store Pickup,55,Pix,Every 3 Months
+2010,47,Male,Coat,Outerwear,106,"('PR', 'Paraná')",P,Winter,5.0,Yes,Standard,36,Pix,Bi-Weekly
+2011,23,Female,Coat,Outerwear,48,"('PE', 'Pernambuco')",P,Fall,2.6,Yes,Standard,31,Cash,Weekly
+2012,47,Male,Jacket,Outerwear,111,"('MG', 'Minas Gerais')",G,Winter,3.7,Yes,Standard,18,Bank Transfer,Weekly
+2013,67,Male,Jacket,Outerwear,42,"('SE', 'Sergipe')",GG,Winter,3.3,Yes,Next Day Air,15,Cash,Bi-Weekly
+2014,69,Male,Coat,Outerwear,116,"('MS', 'Mato Grosso do Sul')",G,Winter,4.3,No,2-Day Shipping,20,Cash,Monthly
+2015,34,Female,Coat,Outerwear,118,"('DF', 'Distrito Federal')",GG,Winter,4.4,No,Next Day Air,56,Bank Transfer,Weekly
+2016,33,Male,Coat,Outerwear,60,"('AP', 'Amapá')",GG,Fall,3.0,Yes,Express,29,Cash,Bi-Weekly
+2017,63,Female,Jacket,Outerwear,73,"('AC', 'Acre')",G,Winter,3.9,No,Express,53,Bank Transfer,Bi-Weekly
+2018,71,Male,Coat,Outerwear,118,"('MG', 'Minas Gerais')",GG,Fall,4.4,No,Standard,61,Bank Transfer,Weekly
+2019,37,Male,Coat,Outerwear,88,"('RJ', 'Rio de Janeiro')",GG,Fall,3.2,Yes,Standard,34,Cash,Weekly
+2020,19,Male,Coat,Outerwear,105,"('AP', 'Amapá')",G,Fall,4.0,Yes,Standard,79,Pix,Weekly
+2021,43,Female,Jacket,Outerwear,102,"('DF', 'Distrito Federal')",G,Fall,4.7,Yes,2-Day Shipping,6,Debit Card,Annually
+2022,38,Female,Coat,Outerwear,61,"('GO', 'Goiás')",M,Winter,3.2,No,2-Day Shipping,32,Bank Transfer,Bi-Weekly
+2023,19,Female,Coat,Outerwear,48,"('ES', 'Espírito Santo')",PP,Fall,3.9,Yes,Standard,25,Bank Transfer,Monthly
+2024,33,Female,Coat,Outerwear,105,"('BA', 'Bahia')",PP,Fall,4.0,No,2-Day Shipping,98,Debit Card,Bi-Weekly
+2025,56,Female,Jacket,Outerwear,59,"('PE', 'Pernambuco')",PP,Fall,3.1,No,Free Shipping,50,Credit Card,Quarterly
+2026,55,Female,Jacket,Outerwear,109,"('CE', 'Ceará')",M,Fall,3.2,Yes,Standard,44,Pix,Bi-Weekly
+2027,60,Male,Jacket,Outerwear,84,"('AM', 'Amazonas')",M,Fall,5.0,No,Free Shipping,13,Cash,Bi-Weekly
+2028,58,Male,Jacket,Outerwear,75,"('MG', 'Minas Gerais')",P,Winter,2.8,No,Next Day Air,59,Cash,Bi-Weekly
+2029,38,Female,Jacket,Outerwear,55,"('MA', 'Maranhão')",G,Fall,3.1,No,Free Shipping,43,Bank Transfer,Bi-Weekly
+2030,72,Male,Jacket,Outerwear,82,"('CE', 'Ceará')",P,Winter,4.7,No,Next Day Air,35,Pix,Bi-Weekly
+2031,53,Female,Jacket,Outerwear,30,"('RJ', 'Rio de Janeiro')",P,Winter,3.3,Yes,Store Pickup,88,Cash,Annually
+2032,46,Female,Jacket,Outerwear,57,"('SC', 'Santa Catarina')",P,Winter,2.5,No,Next Day Air,84,Pix,Annually
+2033,48,Male,Coat,Outerwear,115,"('ES', 'Espírito Santo')",GG,Winter,4.3,No,Standard,34,Debit Card,Monthly
+2034,32,Female,Jacket,Outerwear,60,"('AC', 'Acre')",PP,Fall,4.9,Yes,Standard,94,Cash,Bi-Weekly
+2035,64,Male,Jacket,Outerwear,44,"('PB', 'Paraíba')",M,Fall,3.5,Yes,Next Day Air,38,Bank Transfer,Quarterly
+2036,35,Female,Jacket,Outerwear,90,"('PR', 'Paraná')",M,Fall,4.4,Yes,2-Day Shipping,1,Pix,Every 3 Months
+2037,48,Male,Coat,Outerwear,63,"('PR', 'Paraná')",P,Fall,4.6,No,Express,14,Bank Transfer,Annually
+2038,49,Female,Jacket,Outerwear,39,"('MG', 'Minas Gerais')",P,Winter,3.2,Yes,Free Shipping,15,Pix,Every 3 Months
+2039,56,Female,Coat,Outerwear,77,"('RS', 'Rio Grande do Sul')",G,Winter,3.2,No,Next Day Air,72,Pix,Weekly
+2040,57,Female,Jacket,Outerwear,100,"('MA', 'Maranhão')",P,Winter,2.6,Yes,Express,30,Credit Card,Weekly
+2041,28,Female,Coat,Outerwear,77,"('AL', 'Alagoas')",GG,Winter,3.3,Yes,Standard,29,Debit Card,Monthly
+2042,62,Male,Jacket,Outerwear,107,"('PE', 'Pernambuco')",P,Winter,4.3,No,Standard,14,Pix,Bi-Weekly
+2043,59,Female,Coat,Outerwear,38,"('DF', 'Distrito Federal')",PP,Fall,3.5,No,Store Pickup,76,Pix,Annually
+2044,46,Female,Coat,Outerwear,108,"('ES', 'Espírito Santo')",M,Winter,2.8,No,Store Pickup,56,Bank Transfer,Quarterly
+2045,74,Male,Coat,Outerwear,97,"('AL', 'Alagoas')",M,Fall,2.8,Yes,Next Day Air,86,Pix,Annually
+2046,66,Male,Jacket,Outerwear,117,"('RJ', 'Rio de Janeiro')",P,Winter,4.3,No,2-Day Shipping,35,Credit Card,Quarterly
+2047,58,Male,Jacket,Outerwear,80,"('DF', 'Distrito Federal')",M,Winter,4.8,No,Next Day Air,85,Bank Transfer,Quarterly
+2048,39,Male,Coat,Outerwear,56,"('SC', 'Santa Catarina')",G,Fall,4.0,Yes,Free Shipping,40,Debit Card,Bi-Weekly
+2049,25,Male,Jacket,Outerwear,104,"('TO', 'Tocantins')",GG,Winter,4.5,Yes,Store Pickup,24,Pix,Bi-Weekly
+2050,57,Male,Coat,Outerwear,117,"('RO', 'Rondônia')",PP,Fall,2.7,Yes,Express,36,Cash,Quarterly
+2051,25,Female,Jacket,Outerwear,110,"('RN', 'Rio Grande do Norte')",P,Winter,4.1,Yes,2-Day Shipping,70,Cash,Every 3 Months
+2052,32,Female,Coat,Outerwear,35,"('MA', 'Maranhão')",P,Winter,3.3,No,Store Pickup,53,Cash,Every 3 Months
+2053,33,Male,Jacket,Outerwear,69,"('DF', 'Distrito Federal')",P,Fall,3.9,No,Next Day Air,98,Cash,Bi-Weekly
+2054,68,Male,Jacket,Outerwear,56,"('SP', 'São Paulo')",M,Winter,4.8,No,Free Shipping,68,Cash,Annually
+2055,39,Male,Coat,Outerwear,61,"('DF', 'Distrito Federal')",P,Fall,4.1,No,Free Shipping,29,Cash,Bi-Weekly
+2056,38,Male,Coat,Outerwear,69,"('PA', 'Pará')",P,Winter,4.5,Yes,2-Day Shipping,64,Pix,Monthly
+2057,73,Female,Coat,Outerwear,32,"('DF', 'Distrito Federal')",GG,Winter,2.7,Yes,Free Shipping,52,Credit Card,Monthly
+2058,48,Male,Coat,Outerwear,99,"('SP', 'São Paulo')",G,Fall,3.0,No,Free Shipping,40,Cash,Every 3 Months
+2059,57,Female,Jacket,Outerwear,100,"('CE', 'Ceará')",M,Fall,2.8,No,Free Shipping,12,Bank Transfer,Bi-Weekly
+2060,28,Male,Jacket,Outerwear,25,"('PI', 'Piauí')",M,Fall,5.0,No,Free Shipping,47,Cash,Annually
+2061,33,Male,Jacket,Outerwear,41,"('AM', 'Amazonas')",P,Fall,4.7,Yes,Next Day Air,63,Pix,Weekly
+2062,32,Male,Coat,Outerwear,78,"('RR', 'Roraima')",M,Fall,4.0,No,Store Pickup,86,Pix,Annually
+2063,22,Male,Coat,Outerwear,95,"('RR', 'Roraima')",M,Winter,4.7,No,Store Pickup,38,Credit Card,Every 3 Months
+2064,72,Male,Jacket,Outerwear,50,"('CE', 'Ceará')",G,Winter,4.4,No,2-Day Shipping,89,Debit Card,Every 3 Months
+2065,71,Male,Coat,Outerwear,21,"('RR', 'Roraima')",GG,Fall,5.0,No,Express,99,Credit Card,Bi-Weekly
+2066,32,Female,Coat,Outerwear,106,"('DF', 'Distrito Federal')",P,Fall,4.5,No,Express,100,Cash,Quarterly
+2067,55,Male,Jacket,Outerwear,31,"('PB', 'Paraíba')",M,Winter,3.6,Yes,Free Shipping,25,Credit Card,Monthly
+2068,51,Male,Jacket,Outerwear,52,"('MT', 'Mato Grosso')",G,Winter,4.5,Yes,Store Pickup,59,Bank Transfer,Monthly
+2069,66,Female,Coat,Outerwear,91,"('AP', 'Amapá')",M,Fall,4.6,Yes,Next Day Air,33,Pix,Monthly
+2070,47,Male,Coat,Outerwear,94,"('PI', 'Piauí')",G,Winter,4.0,Yes,Free Shipping,60,Bank Transfer,Every 3 Months
+2071,57,Female,Jacket,Outerwear,101,"('GO', 'Goiás')",G,Winter,5.0,Yes,Free Shipping,17,Bank Transfer,Bi-Weekly
+2072,37,Male,Jacket,Outerwear,32,"('TO', 'Tocantins')",P,Fall,5.0,No,Store Pickup,47,Pix,Quarterly
+2073,55,Female,Coat,Outerwear,103,"('MG', 'Minas Gerais')",PP,Winter,3.4,No,Next Day Air,4,Debit Card,Bi-Weekly
+2074,46,Male,Jacket,Outerwear,66,"('PE', 'Pernambuco')",PP,Winter,3.2,No,Standard,7,Cash,Every 3 Months
+2075,30,Female,Coat,Outerwear,31,"('SC', 'Santa Catarina')",P,Fall,3.3,No,Store Pickup,31,Credit Card,Bi-Weekly
+2076,22,Female,Jacket,Outerwear,49,"('RR', 'Roraima')",M,Fall,2.6,No,2-Day Shipping,18,Credit Card,Every 3 Months
+2077,69,Female,Jacket,Outerwear,104,"('AP', 'Amapá')",PP,Fall,2.7,No,Express,100,Credit Card,Weekly
+2078,19,Female,Coat,Outerwear,26,"('RJ', 'Rio de Janeiro')",P,Winter,2.5,Yes,Next Day Air,95,Bank Transfer,Bi-Weekly
+2079,46,Male,Jacket,Outerwear,77,"('PR', 'Paraná')",GG,Fall,3.4,No,Express,58,Bank Transfer,Bi-Weekly
+2080,48,Male,Coat,Outerwear,107,"('DF', 'Distrito Federal')",PP,Winter,4.6,Yes,Next Day Air,10,Debit Card,Weekly
+2081,22,Female,Coat,Outerwear,99,"('RS', 'Rio Grande do Sul')",GG,Winter,4.7,No,Store Pickup,58,Pix,Bi-Weekly
+2082,24,Female,Jacket,Outerwear,75,"('AC', 'Acre')",G,Fall,4.5,No,Next Day Air,58,Cash,Annually
+2083,64,Female,Coat,Outerwear,74,"('SP', 'São Paulo')",M,Winter,3.2,Yes,Standard,87,Cash,Bi-Weekly
+2084,23,Female,Jacket,Outerwear,75,"('AC', 'Acre')",PP,Winter,3.1,Yes,Free Shipping,75,Pix,Bi-Weekly
+2085,60,Female,Coat,Outerwear,65,"('BA', 'Bahia')",G,Fall,4.3,No,2-Day Shipping,45,Bank Transfer,Quarterly
+2086,27,Male,Jacket,Outerwear,33,"('RO', 'Rondônia')",M,Winter,2.9,No,Standard,73,Credit Card,Bi-Weekly
+2087,72,Female,Coat,Outerwear,23,"('RR', 'Roraima')",P,Winter,3.1,No,Express,44,Bank Transfer,Bi-Weekly
+2088,73,Female,Coat,Outerwear,28,"('MG', 'Minas Gerais')",P,Fall,2.8,Yes,2-Day Shipping,48,Cash,Quarterly
+2089,39,Female,Coat,Outerwear,59,"('PI', 'Piauí')",M,Fall,2.7,Yes,Free Shipping,20,Pix,Annually
+2090,61,Female,Coat,Outerwear,76,"('PE', 'Pernambuco')",G,Winter,3.8,No,Store Pickup,34,Credit Card,Monthly
+2091,40,Male,Jacket,Outerwear,56,"('AC', 'Acre')",GG,Winter,2.5,No,Standard,5,Credit Card,Monthly
+2092,56,Female,Jacket,Outerwear,46,"('ES', 'Espírito Santo')",M,Fall,3.0,No,Next Day Air,37,Debit Card,Bi-Weekly
+2093,18,Male,Coat,Outerwear,42,"('GO', 'Goiás')",P,Winter,4.2,Yes,Express,64,Pix,Annually
+2094,22,Male,Jacket,Outerwear,75,"('DF', 'Distrito Federal')",PP,Winter,3.9,No,Standard,73,Cash,Every 3 Months
+2095,63,Male,Coat,Outerwear,34,"('PE', 'Pernambuco')",G,Fall,3.1,Yes,Standard,79,Cash,Quarterly
+2096,23,Male,Jacket,Outerwear,51,"('PA', 'Pará')",G,Winter,4.1,Yes,2-Day Shipping,50,Debit Card,Quarterly
+2097,32,Male,Jacket,Outerwear,29,"('TO', 'Tocantins')",GG,Fall,3.2,Yes,Express,99,Debit Card,Weekly
+2098,64,Female,Jacket,Outerwear,33,"('GO', 'Goiás')",P,Winter,4.3,Yes,Express,77,Credit Card,Annually
+2099,29,Male,Coat,Outerwear,116,"('RS', 'Rio Grande do Sul')",GG,Winter,3.2,No,Express,80,Debit Card,Bi-Weekly
+2100,46,Female,Coat,Outerwear,76,"('DF', 'Distrito Federal')",M,Winter,4.6,No,2-Day Shipping,64,Bank Transfer,Quarterly
+2101,47,Male,Jacket,Outerwear,27,"('PI', 'Piauí')",M,Winter,3.9,Yes,Express,78,Pix,Every 3 Months
+2102,47,Female,Coat,Outerwear,93,"('BA', 'Bahia')",P,Winter,4.8,Yes,2-Day Shipping,7,Cash,Weekly
+2103,69,Male,Jacket,Outerwear,84,"('CE', 'Ceará')",P,Fall,2.5,No,Next Day Air,56,Pix,Monthly
+2104,41,Male,Coat,Outerwear,69,"('PR', 'Paraná')",G,Winter,2.7,No,2-Day Shipping,8,Debit Card,Monthly
+2105,53,Male,Coat,Outerwear,52,"('AL', 'Alagoas')",GG,Fall,4.8,Yes,Free Shipping,74,Credit Card,Annually
+2106,37,Male,Jacket,Outerwear,96,"('MG', 'Minas Gerais')",PP,Winter,4.6,No,Store Pickup,82,Debit Card,Monthly
+2107,60,Female,Coat,Outerwear,85,"('AL', 'Alagoas')",M,Fall,3.3,No,Express,23,Credit Card,Annually
+2108,67,Male,Jacket,Outerwear,48,"('AL', 'Alagoas')",P,Fall,3.9,No,Free Shipping,100,Bank Transfer,Quarterly
+2109,60,Male,Jacket,Outerwear,96,"('BA', 'Bahia')",G,Fall,4.7,Yes,Free Shipping,88,Pix,Annually
+2110,64,Male,Jacket,Outerwear,72,"('RS', 'Rio Grande do Sul')",M,Fall,4.6,No,Next Day Air,96,Cash,Quarterly
+2111,52,Female,Coat,Outerwear,120,"('RR', 'Roraima')",G,Fall,3.0,No,Standard,59,Debit Card,Weekly
+2112,50,Male,Jacket,Outerwear,45,"('SE', 'Sergipe')",GG,Fall,4.7,Yes,Next Day Air,82,Cash,Annually
+2113,53,Female,Jacket,Outerwear,56,"('RJ', 'Rio de Janeiro')",PP,Fall,2.8,No,Store Pickup,65,Credit Card,Annually
+2114,23,Female,Coat,Outerwear,64,"('ES', 'Espírito Santo')",PP,Winter,2.7,No,2-Day Shipping,64,Debit Card,Quarterly
+2115,42,Female,Coat,Outerwear,48,"('TO', 'Tocantins')",PP,Winter,3.4,No,Store Pickup,18,Credit Card,Annually
+2116,36,Male,Jacket,Outerwear,117,"('CE', 'Ceará')",G,Winter,3.2,Yes,2-Day Shipping,2,Debit Card,Bi-Weekly
+2117,71,Female,Coat,Outerwear,34,"('SP', 'São Paulo')",M,Fall,2.8,Yes,Express,6,Credit Card,Bi-Weekly
+2118,58,Male,Jacket,Outerwear,34,"('AC', 'Acre')",G,Fall,2.9,Yes,Free Shipping,91,Credit Card,Bi-Weekly
+2119,45,Female,Coat,Outerwear,50,"('PR', 'Paraná')",GG,Winter,3.5,Yes,Next Day Air,67,Debit Card,Annually
+2120,51,Female,Coat,Outerwear,80,"('BA', 'Bahia')",PP,Winter,3.2,No,Standard,95,Bank Transfer,Monthly
+2121,68,Female,Coat,Outerwear,50,"('PI', 'Piauí')",PP,Winter,3.3,Yes,Next Day Air,45,Pix,Every 3 Months
+2122,70,Female,Coat,Outerwear,109,"('AL', 'Alagoas')",G,Fall,3.2,Yes,Express,91,Cash,Bi-Weekly
+2123,36,Female,Jacket,Outerwear,45,"('CE', 'Ceará')",PP,Winter,3.1,No,Next Day Air,69,Cash,Quarterly
+2124,20,Female,Coat,Outerwear,65,"('RN', 'Rio Grande do Norte')",PP,Winter,2.8,Yes,Standard,47,Cash,Bi-Weekly
+2125,65,Male,Coat,Outerwear,63,"('GO', 'Goiás')",P,Winter,5.0,No,Standard,66,Debit Card,Bi-Weekly
+2126,64,Male,Jacket,Outerwear,75,"('DF', 'Distrito Federal')",GG,Fall,4.0,No,Free Shipping,41,Bank Transfer,Quarterly
+2127,38,Male,Coat,Outerwear,77,"('RJ', 'Rio de Janeiro')",GG,Winter,3.0,No,Free Shipping,44,Cash,Quarterly
+2128,64,Male,Coat,Outerwear,55,"('AC', 'Acre')",PP,Fall,2.6,No,Express,65,Credit Card,Quarterly
+2129,27,Male,Jacket,Outerwear,36,"('SE', 'Sergipe')",PP,Fall,3.1,No,Free Shipping,49,Pix,Annually
+2130,56,Female,Coat,Outerwear,67,"('PR', 'Paraná')",M,Winter,3.9,Yes,Store Pickup,67,Debit Card,Every 3 Months
+2131,38,Male,Jacket,Outerwear,34,"('MS', 'Mato Grosso do Sul')",PP,Fall,5.0,No,Store Pickup,71,Bank Transfer,Bi-Weekly
+2132,67,Male,Coat,Outerwear,47,"('TO', 'Tocantins')",GG,Winter,4.4,Yes,2-Day Shipping,15,Credit Card,Quarterly
+2133,46,Female,Coat,Outerwear,31,"('PA', 'Pará')",M,Winter,4.9,No,Free Shipping,38,Credit Card,Annually
+2134,68,Male,Jacket,Outerwear,35,"('MS', 'Mato Grosso do Sul')",P,Fall,3.8,No,2-Day Shipping,3,Debit Card,Quarterly
+2135,47,Female,Jacket,Outerwear,28,"('ES', 'Espírito Santo')",M,Winter,4.3,No,Next Day Air,98,Cash,Monthly
+2136,26,Male,Jacket,Outerwear,77,"('BA', 'Bahia')",G,Winter,4.4,Yes,2-Day Shipping,98,Credit Card,Every 3 Months
+2137,50,Female,Jacket,Outerwear,86,"('RN', 'Rio Grande do Norte')",P,Winter,3.5,Yes,Express,41,Credit Card,Monthly
+2138,51,Male,Jacket,Outerwear,52,"('AM', 'Amazonas')",P,Winter,4.6,No,Standard,78,Pix,Monthly
+2139,50,Female,Jacket,Outerwear,41,"('BA', 'Bahia')",GG,Winter,3.6,Yes,Express,3,Bank Transfer,Quarterly
+2140,59,Male,Jacket,Outerwear,118,"('TO', 'Tocantins')",GG,Winter,3.9,No,Express,80,Pix,Bi-Weekly
+2141,59,Male,Coat,Outerwear,51,"('PB', 'Paraíba')",G,Winter,4.0,Yes,Store Pickup,88,Bank Transfer,Bi-Weekly
+2142,46,Male,Coat,Outerwear,79,"('PE', 'Pernambuco')",P,Winter,3.3,No,Express,91,Debit Card,Weekly
+2143,43,Female,Coat,Outerwear,85,"('MG', 'Minas Gerais')",GG,Fall,4.8,Yes,Store Pickup,59,Bank Transfer,Annually
+2144,46,Female,Jacket,Outerwear,32,"('TO', 'Tocantins')",PP,Winter,3.9,No,Express,31,Credit Card,Monthly
+2145,54,Male,Jacket,Outerwear,117,"('AP', 'Amapá')",P,Winter,2.9,No,Free Shipping,63,Debit Card,Quarterly
+2146,19,Female,Coat,Outerwear,84,"('SE', 'Sergipe')",G,Fall,4.7,No,Store Pickup,6,Bank Transfer,Monthly
+2147,49,Male,Coat,Outerwear,88,"('TO', 'Tocantins')",PP,Fall,4.9,Yes,Next Day Air,33,Debit Card,Annually
+2148,41,Female,Coat,Outerwear,26,"('MA', 'Maranhão')",GG,Fall,3.3,No,Standard,9,Cash,Every 3 Months
+2149,66,Male,Jacket,Outerwear,36,"('PB', 'Paraíba')",PP,Winter,3.2,No,2-Day Shipping,71,Debit Card,Annually
+2150,30,Male,Jacket,Outerwear,25,"('MS', 'Mato Grosso do Sul')",PP,Fall,4.8,No,Store Pickup,66,Cash,Weekly
+2151,56,Female,Coat,Outerwear,98,"('AC', 'Acre')",M,Fall,4.8,No,2-Day Shipping,75,Debit Card,Annually
+2152,63,Male,Coat,Outerwear,22,"('RS', 'Rio Grande do Sul')",M,Winter,2.9,No,Next Day Air,74,Debit Card,Bi-Weekly
+2153,56,Male,Coat,Outerwear,103,"('CE', 'Ceará')",GG,Fall,2.7,No,Express,21,Pix,Bi-Weekly
+2154,27,Female,Jacket,Outerwear,93,"('GO', 'Goiás')",PP,Fall,2.6,No,Store Pickup,40,Cash,Monthly
+2155,44,Female,Coat,Outerwear,84,"('RJ', 'Rio de Janeiro')",GG,Winter,4.3,Yes,Express,66,Credit Card,Bi-Weekly
+2156,60,Male,Coat,Outerwear,60,"('AP', 'Amapá')",P,Winter,4.2,No,Standard,69,Debit Card,Weekly
+2157,57,Male,Jacket,Outerwear,51,"('CE', 'Ceará')",M,Winter,4.7,No,2-Day Shipping,98,Debit Card,Every 3 Months
+2158,62,Male,Coat,Outerwear,81,"('DF', 'Distrito Federal')",M,Winter,4.3,Yes,Express,73,Pix,Weekly
+2159,75,Male,Coat,Outerwear,118,"('AL', 'Alagoas')",P,Winter,4.2,No,Free Shipping,91,Bank Transfer,Monthly
+2160,46,Male,Coat,Outerwear,47,"('SC', 'Santa Catarina')",P,Winter,2.7,No,Standard,17,Bank Transfer,Bi-Weekly
+2161,33,Female,Jacket,Outerwear,101,"('SP', 'São Paulo')",P,Fall,3.0,No,Free Shipping,42,Cash,Every 3 Months
+2162,61,Female,Jacket,Outerwear,90,"('MG', 'Minas Gerais')",P,Winter,4.8,No,Store Pickup,83,Credit Card,Quarterly
+2163,38,Male,Jacket,Outerwear,118,"('AL', 'Alagoas')",PP,Fall,4.8,Yes,Store Pickup,22,Cash,Bi-Weekly
+2164,20,Male,Coat,Outerwear,43,"('PI', 'Piauí')",M,Fall,4.3,No,Store Pickup,72,Pix,Every 3 Months
+2165,39,Male,Coat,Outerwear,102,"('SP', 'São Paulo')",GG,Winter,3.3,No,Free Shipping,34,Credit Card,Bi-Weekly
+2166,39,Female,Coat,Outerwear,102,"('RO', 'Rondônia')",M,Fall,2.7,No,Next Day Air,37,Pix,Annually
+2167,29,Male,Coat,Outerwear,85,"('PB', 'Paraíba')",M,Fall,3.0,Yes,Next Day Air,23,Credit Card,Monthly
+2168,38,Female,Jacket,Outerwear,53,"('AM', 'Amazonas')",G,Fall,2.9,No,Free Shipping,42,Debit Card,Bi-Weekly
+2169,34,Male,Jacket,Outerwear,27,"('RJ', 'Rio de Janeiro')",PP,Winter,4.0,Yes,Next Day Air,51,Pix,Bi-Weekly
+2170,62,Female,Coat,Outerwear,67,"('RN', 'Rio Grande do Norte')",GG,Fall,3.8,Yes,Free Shipping,61,Credit Card,Quarterly
+2171,65,Male,Coat,Outerwear,109,"('CE', 'Ceará')",GG,Winter,2.8,Yes,Express,97,Credit Card,Bi-Weekly
+2172,51,Male,Coat,Outerwear,29,"('PI', 'Piauí')",GG,Fall,4.3,Yes,Next Day Air,73,Pix,Every 3 Months
+2173,28,Male,Coat,Outerwear,34,"('RN', 'Rio Grande do Norte')",P,Winter,2.8,No,Free Shipping,7,Cash,Bi-Weekly
+2174,50,Male,Coat,Outerwear,92,"('PI', 'Piauí')",PP,Winter,4.0,Yes,Store Pickup,50,Debit Card,Annually
+2175,65,Female,Jacket,Outerwear,25,"('MG', 'Minas Gerais')",G,Winter,3.8,Yes,Standard,8,Cash,Annually
+2176,36,Male,Jacket,Outerwear,118,"('GO', 'Goiás')",P,Winter,3.2,No,Standard,57,Cash,Quarterly
+2177,23,Female,Coat,Outerwear,35,"('RN', 'Rio Grande do Norte')",P,Winter,4.5,Yes,Next Day Air,93,Credit Card,Annually
+2178,66,Female,Coat,Outerwear,79,"('AC', 'Acre')",GG,Winter,4.2,No,Standard,29,Credit Card,Annually
+2179,40,Female,Coat,Outerwear,44,"('BA', 'Bahia')",PP,Fall,4.9,Yes,2-Day Shipping,30,Credit Card,Weekly
+2180,24,Female,Coat,Outerwear,96,"('SE', 'Sergipe')",PP,Fall,3.4,No,2-Day Shipping,56,Credit Card,Monthly
+2181,66,Female,Jacket,Outerwear,84,"('SE', 'Sergipe')",M,Fall,4.4,No,Standard,73,Pix,Quarterly
+2182,33,Male,Jacket,Outerwear,104,"('PA', 'Pará')",GG,Fall,4.5,No,Store Pickup,35,Bank Transfer,Bi-Weekly
+2183,58,Male,Coat,Outerwear,26,"('MG', 'Minas Gerais')",M,Winter,4.1,No,Free Shipping,89,Cash,Bi-Weekly
+2184,27,Male,Coat,Outerwear,43,"('AL', 'Alagoas')",GG,Winter,3.8,Yes,Standard,38,Credit Card,Annually
+2185,21,Male,Coat,Outerwear,91,"('RS', 'Rio Grande do Sul')",GG,Fall,5.0,Yes,Store Pickup,32,Credit Card,Weekly
+2186,59,Female,Coat,Outerwear,67,"('RN', 'Rio Grande do Norte')",PP,Fall,2.7,No,Standard,48,Pix,Monthly
+2187,73,Female,Jacket,Outerwear,117,"('GO', 'Goiás')",GG,Fall,4.3,Yes,Standard,42,Debit Card,Annually
+2188,31,Female,Jacket,Outerwear,115,"('CE', 'Ceará')",G,Fall,3.2,No,Free Shipping,30,Pix,Quarterly
+2189,67,Male,Coat,Outerwear,79,"('AM', 'Amazonas')",GG,Winter,4.0,No,Free Shipping,46,Pix,Quarterly
+2190,47,Female,Coat,Outerwear,117,"('MA', 'Maranhão')",M,Fall,3.6,No,Store Pickup,52,Bank Transfer,Annually
+2191,65,Female,Jacket,Outerwear,53,"('PE', 'Pernambuco')",GG,Winter,4.1,Yes,2-Day Shipping,25,Debit Card,Every 3 Months
+2192,42,Female,Coat,Outerwear,90,"('SE', 'Sergipe')",M,Winter,3.3,No,Next Day Air,58,Credit Card,Quarterly
+2193,28,Female,Coat,Outerwear,43,"('PB', 'Paraíba')",GG,Fall,4.1,Yes,2-Day Shipping,9,Bank Transfer,Bi-Weekly
+2194,44,Female,Jacket,Outerwear,28,"('MT', 'Mato Grosso')",P,Fall,3.2,No,Free Shipping,47,Bank Transfer,Bi-Weekly
+2195,60,Male,Jacket,Outerwear,20,"('SP', 'São Paulo')",GG,Winter,4.7,Yes,Free Shipping,67,Debit Card,Every 3 Months
+2196,19,Male,Jacket,Outerwear,33,"('SC', 'Santa Catarina')",PP,Fall,3.8,Yes,Store Pickup,79,Pix,Every 3 Months
+2197,70,Male,Coat,Outerwear,70,"('PE', 'Pernambuco')",PP,Winter,2.6,No,Free Shipping,72,Credit Card,Bi-Weekly
+2198,37,Female,Jacket,Outerwear,31,"('RR', 'Roraima')",G,Winter,4.8,No,Free Shipping,7,Bank Transfer,Annually
+2199,23,Male,Coat,Outerwear,102,"('TO', 'Tocantins')",M,Fall,4.5,Yes,Free Shipping,29,Credit Card,Annually
+2200,35,Female,Jacket,Outerwear,107,"('TO', 'Tocantins')",M,Fall,4.1,No,Store Pickup,2,Credit Card,Weekly
+2201,66,Male,Jacket,Outerwear,58,"('BA', 'Bahia')",P,Fall,2.5,No,Store Pickup,86,Pix,Bi-Weekly
+2202,42,Female,Jacket,Outerwear,84,"('PB', 'Paraíba')",M,Fall,3.4,No,Store Pickup,29,Bank Transfer,Weekly
+2203,56,Male,Coat,Outerwear,23,"('PI', 'Piauí')",M,Winter,4.4,Yes,Free Shipping,45,Pix,Annually
+2204,45,Female,Coat,Outerwear,30,"('SC', 'Santa Catarina')",GG,Winter,2.5,Yes,Express,10,Debit Card,Weekly
+2205,42,Female,Coat,Outerwear,60,"('MG', 'Minas Gerais')",M,Fall,2.8,Yes,Express,39,Cash,Every 3 Months
+2206,66,Male,Jacket,Outerwear,36,"('MT', 'Mato Grosso')",PP,Fall,4.9,No,Standard,71,Pix,Every 3 Months
+2207,24,Female,Jacket,Outerwear,65,"('AL', 'Alagoas')",GG,Fall,3.1,No,Express,1,Debit Card,Weekly
+2208,42,Female,Jacket,Outerwear,93,"('RS', 'Rio Grande do Sul')",GG,Fall,3.6,Yes,2-Day Shipping,17,Debit Card,Quarterly
+2209,35,Male,Jacket,Outerwear,28,"('RS', 'Rio Grande do Sul')",P,Winter,3.9,No,Standard,38,Cash,Every 3 Months
+2210,41,Male,Jacket,Outerwear,112,"('RR', 'Roraima')",G,Fall,3.1,Yes,Next Day Air,17,Debit Card,Bi-Weekly
+2211,43,Male,Coat,Outerwear,62,"('DF', 'Distrito Federal')",G,Winter,4.9,Yes,Store Pickup,38,Debit Card,Quarterly
+2212,48,Male,Jacket,Outerwear,70,"('RJ', 'Rio de Janeiro')",M,Winter,4.4,Yes,Free Shipping,41,Cash,Annually
+2213,70,Male,Coat,Outerwear,34,"('RS', 'Rio Grande do Sul')",GG,Fall,4.0,Yes,Store Pickup,87,Pix,Annually
+2214,64,Male,Jacket,Outerwear,76,"('AC', 'Acre')",M,Fall,5.0,No,Express,17,Debit Card,Weekly
+2215,34,Female,Coat,Outerwear,68,"('SE', 'Sergipe')",PP,Winter,4.3,No,Store Pickup,68,Pix,Weekly
+2216,52,Female,Coat,Outerwear,109,"('PA', 'Pará')",GG,Fall,4.0,Yes,2-Day Shipping,84,Debit Card,Annually
+2217,59,Female,Coat,Outerwear,116,"('PI', 'Piauí')",M,Winter,4.1,Yes,Store Pickup,12,Debit Card,Annually
+2218,50,Female,Coat,Outerwear,67,"('PI', 'Piauí')",G,Winter,2.7,Yes,Next Day Air,44,Bank Transfer,Weekly
+2219,24,Male,Coat,Outerwear,30,"('PI', 'Piauí')",PP,Fall,3.6,No,Free Shipping,43,Cash,Bi-Weekly
+2220,51,Male,Coat,Outerwear,80,"('TO', 'Tocantins')",PP,Winter,3.0,No,Free Shipping,8,Debit Card,Quarterly
+2221,69,Female,Jacket,Outerwear,63,"('MA', 'Maranhão')",PP,Fall,2.5,Yes,Next Day Air,70,Credit Card,Quarterly
+2222,53,Male,Coat,Outerwear,49,"('AM', 'Amazonas')",G,Fall,3.5,No,Next Day Air,50,Bank Transfer,Bi-Weekly
+2223,46,Male,Coat,Outerwear,20,"('RR', 'Roraima')",P,Fall,3.2,Yes,Next Day Air,73,Bank Transfer,Every 3 Months
+2224,41,Male,Jacket,Outerwear,78,"('PR', 'Paraná')",PP,Winter,3.3,No,Store Pickup,76,Cash,Every 3 Months
+2225,55,Female,Coat,Outerwear,65,"('RO', 'Rondônia')",G,Fall,3.6,Yes,2-Day Shipping,86,Credit Card,Bi-Weekly
+2226,25,Female,Coat,Outerwear,34,"('RJ', 'Rio de Janeiro')",P,Winter,4.7,No,Standard,53,Pix,Monthly
+2227,54,Male,Coat,Outerwear,43,"('SE', 'Sergipe')",G,Fall,3.7,Yes,Store Pickup,62,Debit Card,Every 3 Months
+2228,29,Male,Coat,Outerwear,99,"('PE', 'Pernambuco')",PP,Winter,4.3,No,Standard,17,Credit Card,Quarterly
+2229,53,Male,Coat,Outerwear,107,"('RN', 'Rio Grande do Norte')",G,Winter,4.6,No,Express,21,Bank Transfer,Annually
+2230,68,Female,Coat,Outerwear,24,"('DF', 'Distrito Federal')",M,Fall,2.8,No,Free Shipping,21,Cash,Every 3 Months
+2231,53,Female,Jacket,Outerwear,54,"('MA', 'Maranhão')",GG,Winter,3.9,Yes,Store Pickup,97,Cash,Weekly
+2232,45,Female,Jacket,Outerwear,58,"('MA', 'Maranhão')",PP,Winter,2.7,No,Store Pickup,11,Cash,Every 3 Months
+2233,67,Female,Jacket,Outerwear,114,"('MS', 'Mato Grosso do Sul')",GG,Winter,3.2,Yes,Express,78,Credit Card,Bi-Weekly
+2234,70,Female,Jacket,Outerwear,92,"('PI', 'Piauí')",M,Winter,2.8,Yes,Store Pickup,41,Debit Card,Annually
+2235,54,Male,Jacket,Outerwear,37,"('PA', 'Pará')",G,Fall,3.9,Yes,Standard,89,Credit Card,Bi-Weekly
+2236,27,Male,Jacket,Outerwear,117,"('AC', 'Acre')",G,Winter,4.7,No,Store Pickup,80,Cash,Bi-Weekly
+2237,46,Female,Jacket,Outerwear,71,"('GO', 'Goiás')",GG,Winter,3.0,No,Next Day Air,62,Debit Card,Bi-Weekly
+2238,73,Female,Coat,Outerwear,101,"('AL', 'Alagoas')",M,Fall,4.8,No,Store Pickup,27,Cash,Every 3 Months
+2239,49,Male,Coat,Outerwear,56,"('MA', 'Maranhão')",M,Fall,3.2,No,Free Shipping,100,Debit Card,Weekly
+2240,20,Female,Coat,Outerwear,22,"('PE', 'Pernambuco')",PP,Fall,4.0,No,Standard,0,Cash,Bi-Weekly
+2241,62,Female,Coat,Outerwear,40,"('SC', 'Santa Catarina')",M,Fall,3.5,No,Free Shipping,10,Debit Card,Quarterly
+2242,21,Male,Coat,Outerwear,112,"('CE', 'Ceará')",P,Winter,2.8,Yes,Express,0,Credit Card,Weekly
+2243,22,Female,Jacket,Outerwear,86,"('GO', 'Goiás')",G,Fall,4.3,No,Store Pickup,15,Cash,Bi-Weekly
+2244,48,Female,Jacket,Outerwear,69,"('PR', 'Paraná')",PP,Fall,3.2,No,Standard,47,Debit Card,Weekly
+2245,42,Female,Jacket,Outerwear,28,"('AM', 'Amazonas')",GG,Fall,3.5,No,Express,44,Credit Card,Bi-Weekly
+2246,44,Male,Jacket,Outerwear,31,"('GO', 'Goiás')",PP,Fall,4.2,No,Free Shipping,44,Cash,Quarterly
+2247,68,Female,Jacket,Outerwear,55,"('MS', 'Mato Grosso do Sul')",PP,Fall,3.2,No,2-Day Shipping,99,Bank Transfer,Weekly
+2248,31,Female,Coat,Outerwear,57,"('AP', 'Amapá')",PP,Fall,3.6,No,Next Day Air,14,Credit Card,Bi-Weekly
+2249,58,Female,Jacket,Outerwear,66,"('GO', 'Goiás')",M,Fall,5.0,No,Express,46,Pix,Annually
+2250,66,Male,Jacket,Outerwear,22,"('AM', 'Amazonas')",GG,Fall,2.7,No,Store Pickup,27,Bank Transfer,Bi-Weekly
+2251,68,Male,Coat,Outerwear,100,"('CE', 'Ceará')",GG,Winter,3.9,No,Free Shipping,10,Pix,Quarterly
+2252,35,Female,Coat,Outerwear,30,"('DF', 'Distrito Federal')",GG,Fall,3.1,No,Store Pickup,50,Pix,Quarterly
+2253,37,Male,Jacket,Outerwear,27,"('AM', 'Amazonas')",P,Fall,3.9,Yes,Standard,58,Pix,Annually
+2254,37,Female,Jacket,Outerwear,21,"('ES', 'Espírito Santo')",P,Fall,4.7,No,Express,44,Pix,Weekly
+2255,28,Male,Jacket,Outerwear,115,"('BA', 'Bahia')",M,Fall,3.9,No,Store Pickup,54,Debit Card,Bi-Weekly
+2256,34,Female,Coat,Outerwear,78,"('SP', 'São Paulo')",GG,Winter,4.6,No,Free Shipping,72,Credit Card,Annually
+2257,28,Male,Jacket,Outerwear,93,"('GO', 'Goiás')",PP,Fall,4.7,Yes,Store Pickup,5,Bank Transfer,Bi-Weekly
+2258,20,Male,Coat,Outerwear,69,"('MG', 'Minas Gerais')",P,Fall,4.5,No,2-Day Shipping,28,Debit Card,Monthly
+2259,44,Male,Coat,Outerwear,29,"('CE', 'Ceará')",GG,Winter,4.1,Yes,Express,22,Credit Card,Bi-Weekly
+2260,43,Female,Coat,Outerwear,56,"('MS', 'Mato Grosso do Sul')",M,Winter,2.7,No,Free Shipping,1,Debit Card,Weekly
+2261,36,Male,Jacket,Outerwear,79,"('RS', 'Rio Grande do Sul')",M,Winter,2.5,Yes,Express,19,Bank Transfer,Monthly
+2262,19,Female,Coat,Outerwear,101,"('RN', 'Rio Grande do Norte')",PP,Winter,4.1,No,Store Pickup,94,Debit Card,Quarterly
+2263,31,Female,Coat,Outerwear,82,"('SC', 'Santa Catarina')",PP,Fall,4.7,Yes,Free Shipping,5,Credit Card,Bi-Weekly
+2264,62,Male,Coat,Outerwear,115,"('RS', 'Rio Grande do Sul')",PP,Fall,3.2,Yes,Next Day Air,81,Cash,Bi-Weekly
+2265,55,Female,Coat,Outerwear,104,"('MT', 'Mato Grosso')",P,Fall,3.3,No,Free Shipping,40,Cash,Monthly
+2266,38,Male,Coat,Outerwear,49,"('SC', 'Santa Catarina')",PP,Fall,3.2,Yes,Free Shipping,19,Bank Transfer,Bi-Weekly
+2267,46,Male,Coat,Outerwear,72,"('AP', 'Amapá')",PP,Winter,2.8,No,Free Shipping,39,Cash,Weekly
+2268,72,Female,Jacket,Outerwear,40,"('MG', 'Minas Gerais')",M,Fall,4.7,No,Standard,18,Bank Transfer,Every 3 Months
+2269,40,Male,Jacket,Outerwear,106,"('PE', 'Pernambuco')",M,Winter,2.6,Yes,Free Shipping,51,Cash,Monthly
+2270,24,Male,Jacket,Outerwear,37,"('PE', 'Pernambuco')",PP,Fall,4.3,Yes,Next Day Air,16,Credit Card,Annually
+2271,41,Female,Coat,Outerwear,29,"('CE', 'Ceará')",PP,Fall,4.3,No,2-Day Shipping,16,Bank Transfer,Weekly
+2272,25,Female,Coat,Outerwear,26,"('MA', 'Maranhão')",P,Winter,4.6,No,Next Day Air,3,Cash,Quarterly
+2273,29,Male,Jacket,Outerwear,43,"('PB', 'Paraíba')",M,Winter,2.9,Yes,2-Day Shipping,4,Pix,Weekly
+2274,59,Male,Coat,Outerwear,72,"('PR', 'Paraná')",GG,Winter,4.3,Yes,Store Pickup,35,Cash,Quarterly
+2275,44,Female,Jacket,Outerwear,100,"('SC', 'Santa Catarina')",GG,Fall,4.7,No,Standard,61,Pix,Bi-Weekly
+2276,40,Male,Coat,Outerwear,54,"('MS', 'Mato Grosso do Sul')",P,Fall,4.8,Yes,Standard,3,Debit Card,Bi-Weekly
+2277,69,Male,Coat,Outerwear,118,"('DF', 'Distrito Federal')",GG,Fall,3.2,Yes,Standard,31,Credit Card,Bi-Weekly
+2278,52,Female,Jacket,Outerwear,93,"('MS', 'Mato Grosso do Sul')",G,Winter,2.7,Yes,2-Day Shipping,30,Pix,Annually
+2279,69,Male,Jacket,Outerwear,110,"('ES', 'Espírito Santo')",M,Fall,3.6,Yes,Next Day Air,63,Pix,Bi-Weekly
+2280,29,Male,Jacket,Outerwear,31,"('BA', 'Bahia')",PP,Fall,3.8,Yes,Express,67,Cash,Bi-Weekly
+2281,39,Female,Jacket,Outerwear,63,"('MA', 'Maranhão')",P,Winter,4.5,Yes,Standard,18,Pix,Annually
+2282,67,Female,Coat,Outerwear,29,"('AM', 'Amazonas')",M,Winter,3.0,No,2-Day Shipping,38,Debit Card,Annually
+2283,28,Male,Coat,Outerwear,103,"('RO', 'Rondônia')",M,Fall,2.7,No,Store Pickup,28,Pix,Every 3 Months
+2284,42,Male,Coat,Outerwear,36,"('RR', 'Roraima')",P,Fall,3.2,No,Next Day Air,98,Pix,Quarterly
+2285,29,Male,Jacket,Outerwear,101,"('PR', 'Paraná')",GG,Fall,5.0,Yes,Standard,42,Bank Transfer,Every 3 Months
+2286,40,Male,Jacket,Outerwear,101,"('SP', 'São Paulo')",PP,Winter,2.9,Yes,Free Shipping,33,Credit Card,Annually
+2287,62,Female,Coat,Outerwear,52,"('RO', 'Rondônia')",PP,Fall,4.9,No,Next Day Air,56,Cash,Quarterly
+2288,74,Male,Coat,Outerwear,68,"('MT', 'Mato Grosso')",M,Winter,3.0,No,2-Day Shipping,100,Pix,Weekly
+2289,28,Male,Jacket,Outerwear,24,"('MT', 'Mato Grosso')",M,Fall,4.8,No,Express,13,Bank Transfer,Quarterly
+2290,28,Male,Jacket,Outerwear,113,"('SP', 'São Paulo')",PP,Fall,4.5,No,Express,90,Bank Transfer,Monthly
+2291,59,Female,Coat,Outerwear,40,"('MS', 'Mato Grosso do Sul')",PP,Fall,2.8,Yes,Express,24,Cash,Weekly
+2292,60,Male,Coat,Outerwear,50,"('PE', 'Pernambuco')",PP,Fall,4.8,No,Free Shipping,19,Bank Transfer,Quarterly
+2293,18,Male,Jacket,Outerwear,57,"('RN', 'Rio Grande do Norte')",GG,Winter,4.2,Yes,Next Day Air,3,Credit Card,Monthly
+2294,58,Male,Jacket,Outerwear,80,"('PB', 'Paraíba')",PP,Winter,2.9,No,Standard,62,Debit Card,Quarterly
+2295,59,Male,Jacket,Outerwear,67,"('GO', 'Goiás')",G,Winter,3.5,No,Next Day Air,5,Debit Card,Monthly
+2296,47,Male,Jacket,Outerwear,54,"('DF', 'Distrito Federal')",GG,Fall,3.6,Yes,Express,10,Debit Card,Bi-Weekly
+2297,66,Female,Jacket,Outerwear,69,"('ES', 'Espírito Santo')",GG,Winter,2.8,No,Free Shipping,73,Credit Card,Quarterly
+2298,37,Female,Coat,Outerwear,111,"('PA', 'Pará')",PP,Fall,4.1,No,Store Pickup,22,Credit Card,Weekly
+2299,69,Female,Jacket,Outerwear,25,"('ES', 'Espírito Santo')",G,Fall,3.9,Yes,Express,80,Credit Card,Every 3 Months
