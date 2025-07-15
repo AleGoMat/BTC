@@ -1,0 +1,301 @@
+ID Cliente,Edad,Género,Artículo Comprado,Categoría,Valor de Compra,Ubicación,Talla,Estación,Calificación,Suscripción Activa,Tipo de Envío,Compras Previas,Método de Pago,Frecuencia de Compras
+2000,75,Femenino,Chaqueta,Ropa de invierno,67,"('RS', 'Rio Grande do Sul')",GG,Otoño,4.9,Sí,Entrega al día siguiente,5,Tarjeta de débito,Quincenal
+2001,75,Femenino,Abrigo,Ropa de invierno,46,"('PB', 'Paraíba')",P,Otoño,4.2,No,Envío estándar,79,Tarjeta de crédito,Cada 3 meses
+2002,73,Femenino,Chaqueta,Ropa de invierno,72,"('SE', 'Sergipe')",PP,Otoño,4.8,No,Entrega al día siguiente,85,Tarjeta de crédito,Trimestral
+2003,28,Femenino,Abrigo,Ropa de invierno,24,"('RO', 'Rondônia')",G,Otoño,4.2,No,Envío estándar,44,Tarjeta de débito,Quincenal
+2004,32,Femenino,Chaqueta,Ropa de invierno,71,"('BA', 'Bahia')",M,Invierno,3.9,No,Envío gratuito,44,Pix,Cada 3 meses
+2005,61,Masculino,Chaqueta,Ropa de invierno,34,"('PE', 'Pernambuco')",M,Otoño,2.5,No,Envío gratuito,4,Transferencia bancaria,Trimestral
+2006,40,Masculino,Abrigo,Ropa de invierno,97,"('RO', 'Rondônia')",GG,Otoño,2.6,Sí,Envío estándar,32,Transferencia bancaria,Anualmente
+2007,18,Femenino,Abrigo,Ropa de invierno,75,"('MT', 'Mato Grosso')",PP,Invierno,2.7,Sí,Entrega al día siguiente,92,Tarjeta de débito,Anualmente
+2008,60,Masculino,Abrigo,Ropa de invierno,71,"('ES', 'Espírito Santo')",M,Otoño,4.9,No,Envío en 2 días,85,Efectivo,Quincenal
+2009,57,Masculino,Abrigo,Ropa de invierno,90,"('TO', 'Tocantins')",PP,Invierno,3.8,Sí,Recogida en tienda,55,Pix,Cada 3 meses
+2010,47,Masculino,Abrigo,Ropa de invierno,106,"('PR', 'Paraná')",P,Invierno,5.0,Sí,Envío estándar,36,Pix,Quincenal
+2011,23,Femenino,Abrigo,Ropa de invierno,48,"('PE', 'Pernambuco')",P,Otoño,2.6,Sí,Envío estándar,31,Efectivo,Semanal
+2012,47,Masculino,Chaqueta,Ropa de invierno,111,"('MG', 'Minas Gerais')",G,Invierno,3.7,Sí,Envío estándar,18,Transferencia bancaria,Semanal
+2013,67,Masculino,Chaqueta,Ropa de invierno,42,"('SE', 'Sergipe')",GG,Invierno,3.3,Sí,Entrega al día siguiente,15,Efectivo,Quincenal
+2014,69,Masculino,Abrigo,Ropa de invierno,116,"('MS', 'Mato Grosso do Sul')",G,Invierno,4.3,No,Envío en 2 días,20,Efectivo,Mensual
+2015,34,Femenino,Abrigo,Ropa de invierno,118,"('DF', 'Distrito Federal')",GG,Invierno,4.4,No,Entrega al día siguiente,56,Transferencia bancaria,Semanal
+2016,33,Masculino,Abrigo,Ropa de invierno,60,"('AP', 'Amapá')",GG,Otoño,3.0,Sí,Envío exprés,29,Efectivo,Quincenal
+2017,63,Femenino,Chaqueta,Ropa de invierno,73,"('AC', 'Acre')",G,Invierno,3.9,No,Envío exprés,53,Transferencia bancaria,Quincenal
+2018,71,Masculino,Abrigo,Ropa de invierno,118,"('MG', 'Minas Gerais')",GG,Otoño,4.4,No,Envío estándar,61,Transferencia bancaria,Semanal
+2019,37,Masculino,Abrigo,Ropa de invierno,88,"('RJ', 'Rio de Janeiro')",GG,Otoño,3.2,Sí,Envío estándar,34,Efectivo,Semanal
+2020,19,Masculino,Abrigo,Ropa de invierno,105,"('AP', 'Amapá')",G,Otoño,4.0,Sí,Envío estándar,79,Pix,Semanal
+2021,43,Femenino,Chaqueta,Ropa de invierno,102,"('DF', 'Distrito Federal')",G,Otoño,4.7,Sí,Envío en 2 días,6,Tarjeta de débito,Anualmente
+2022,38,Femenino,Abrigo,Ropa de invierno,61,"('GO', 'Goiás')",M,Invierno,3.2,No,Envío en 2 días,32,Transferencia bancaria,Quincenal
+2023,19,Femenino,Abrigo,Ropa de invierno,48,"('ES', 'Espírito Santo')",PP,Otoño,3.9,Sí,Envío estándar,25,Transferencia bancaria,Mensual
+2024,33,Femenino,Abrigo,Ropa de invierno,105,"('BA', 'Bahia')",PP,Otoño,4.0,No,Envío en 2 días,98,Tarjeta de débito,Quincenal
+2025,56,Femenino,Chaqueta,Ropa de invierno,59,"('PE', 'Pernambuco')",PP,Otoño,3.1,No,Envío gratuito,50,Tarjeta de crédito,Trimestral
+2026,55,Femenino,Chaqueta,Ropa de invierno,109,"('CE', 'Ceará')",M,Otoño,3.2,Sí,Envío estándar,44,Pix,Quincenal
+2027,60,Masculino,Chaqueta,Ropa de invierno,84,"('AM', 'Amazonas')",M,Otoño,5.0,No,Envío gratuito,13,Efectivo,Quincenal
+2028,58,Masculino,Chaqueta,Ropa de invierno,75,"('MG', 'Minas Gerais')",P,Invierno,2.8,No,Entrega al día siguiente,59,Efectivo,Quincenal
+2029,38,Femenino,Chaqueta,Ropa de invierno,55,"('MA', 'Maranhão')",G,Otoño,3.1,No,Envío gratuito,43,Transferencia bancaria,Quincenal
+2030,72,Masculino,Chaqueta,Ropa de invierno,82,"('CE', 'Ceará')",P,Invierno,4.7,No,Entrega al día siguiente,35,Pix,Quincenal
+2031,53,Femenino,Chaqueta,Ropa de invierno,30,"('RJ', 'Rio de Janeiro')",P,Invierno,3.3,Sí,Recogida en tienda,88,Efectivo,Anualmente
+2032,46,Femenino,Chaqueta,Ropa de invierno,57,"('SC', 'Santa Catarina')",P,Invierno,2.5,No,Entrega al día siguiente,84,Pix,Anualmente
+2033,48,Masculino,Abrigo,Ropa de invierno,115,"('ES', 'Espírito Santo')",GG,Invierno,4.3,No,Envío estándar,34,Tarjeta de débito,Mensual
+2034,32,Femenino,Chaqueta,Ropa de invierno,60,"('AC', 'Acre')",PP,Otoño,4.9,Sí,Envío estándar,94,Efectivo,Quincenal
+2035,64,Masculino,Chaqueta,Ropa de invierno,44,"('PB', 'Paraíba')",M,Otoño,3.5,Sí,Entrega al día siguiente,38,Transferencia bancaria,Trimestral
+2036,35,Femenino,Chaqueta,Ropa de invierno,90,"('PR', 'Paraná')",M,Otoño,4.4,Sí,Envío en 2 días,1,Pix,Cada 3 meses
+2037,48,Masculino,Abrigo,Ropa de invierno,63,"('PR', 'Paraná')",P,Otoño,4.6,No,Envío exprés,14,Transferencia bancaria,Anualmente
+2038,49,Femenino,Chaqueta,Ropa de invierno,39,"('MG', 'Minas Gerais')",P,Invierno,3.2,Sí,Envío gratuito,15,Pix,Cada 3 meses
+2039,56,Femenino,Abrigo,Ropa de invierno,77,"('RS', 'Rio Grande do Sul')",G,Invierno,3.2,No,Entrega al día siguiente,72,Pix,Semanal
+2040,57,Femenino,Chaqueta,Ropa de invierno,100,"('MA', 'Maranhão')",P,Invierno,2.6,Sí,Envío exprés,30,Tarjeta de crédito,Semanal
+2041,28,Femenino,Abrigo,Ropa de invierno,77,"('AL', 'Alagoas')",GG,Invierno,3.3,Sí,Envío estándar,29,Tarjeta de débito,Mensual
+2042,62,Masculino,Chaqueta,Ropa de invierno,107,"('PE', 'Pernambuco')",P,Invierno,4.3,No,Envío estándar,14,Pix,Quincenal
+2043,59,Femenino,Abrigo,Ropa de invierno,38,"('DF', 'Distrito Federal')",PP,Otoño,3.5,No,Recogida en tienda,76,Pix,Anualmente
+2044,46,Femenino,Abrigo,Ropa de invierno,108,"('ES', 'Espírito Santo')",M,Invierno,2.8,No,Recogida en tienda,56,Transferencia bancaria,Trimestral
+2045,74,Masculino,Abrigo,Ropa de invierno,97,"('AL', 'Alagoas')",M,Otoño,2.8,Sí,Entrega al día siguiente,86,Pix,Anualmente
+2046,66,Masculino,Chaqueta,Ropa de invierno,117,"('RJ', 'Rio de Janeiro')",P,Invierno,4.3,No,Envío en 2 días,35,Tarjeta de crédito,Trimestral
+2047,58,Masculino,Chaqueta,Ropa de invierno,80,"('DF', 'Distrito Federal')",M,Invierno,4.8,No,Entrega al día siguiente,85,Transferencia bancaria,Trimestral
+2048,39,Masculino,Abrigo,Ropa de invierno,56,"('SC', 'Santa Catarina')",G,Otoño,4.0,Sí,Envío gratuito,40,Tarjeta de débito,Quincenal
+2049,25,Masculino,Chaqueta,Ropa de invierno,104,"('TO', 'Tocantins')",GG,Invierno,4.5,Sí,Recogida en tienda,24,Pix,Quincenal
+2050,57,Masculino,Abrigo,Ropa de invierno,117,"('RO', 'Rondônia')",PP,Otoño,2.7,Sí,Envío exprés,36,Efectivo,Trimestral
+2051,25,Femenino,Chaqueta,Ropa de invierno,110,"('RN', 'Rio Grande do Norte')",P,Invierno,4.1,Sí,Envío en 2 días,70,Efectivo,Cada 3 meses
+2052,32,Femenino,Abrigo,Ropa de invierno,35,"('MA', 'Maranhão')",P,Invierno,3.3,No,Recogida en tienda,53,Efectivo,Cada 3 meses
+2053,33,Masculino,Chaqueta,Ropa de invierno,69,"('DF', 'Distrito Federal')",P,Otoño,3.9,No,Entrega al día siguiente,98,Efectivo,Quincenal
+2054,68,Masculino,Chaqueta,Ropa de invierno,56,"('SP', 'São Paulo')",M,Invierno,4.8,No,Envío gratuito,68,Efectivo,Anualmente
+2055,39,Masculino,Abrigo,Ropa de invierno,61,"('DF', 'Distrito Federal')",P,Otoño,4.1,No,Envío gratuito,29,Efectivo,Quincenal
+2056,38,Masculino,Abrigo,Ropa de invierno,69,"('PA', 'Pará')",P,Invierno,4.5,Sí,Envío en 2 días,64,Pix,Mensual
+2057,73,Femenino,Abrigo,Ropa de invierno,32,"('DF', 'Distrito Federal')",GG,Invierno,2.7,Sí,Envío gratuito,52,Tarjeta de crédito,Mensual
+2058,48,Masculino,Abrigo,Ropa de invierno,99,"('SP', 'São Paulo')",G,Otoño,3.0,No,Envío gratuito,40,Efectivo,Cada 3 meses
+2059,57,Femenino,Chaqueta,Ropa de invierno,100,"('CE', 'Ceará')",M,Otoño,2.8,No,Envío gratuito,12,Transferencia bancaria,Quincenal
+2060,28,Masculino,Chaqueta,Ropa de invierno,25,"('PI', 'Piauí')",M,Otoño,5.0,No,Envío gratuito,47,Efectivo,Anualmente
+2061,33,Masculino,Chaqueta,Ropa de invierno,41,"('AM', 'Amazonas')",P,Otoño,4.7,Sí,Entrega al día siguiente,63,Pix,Semanal
+2062,32,Masculino,Abrigo,Ropa de invierno,78,"('RR', 'Roraima')",M,Otoño,4.0,No,Recogida en tienda,86,Pix,Anualmente
+2063,22,Masculino,Abrigo,Ropa de invierno,95,"('RR', 'Roraima')",M,Invierno,4.7,No,Recogida en tienda,38,Tarjeta de crédito,Cada 3 meses
+2064,72,Masculino,Chaqueta,Ropa de invierno,50,"('CE', 'Ceará')",G,Invierno,4.4,No,Envío en 2 días,89,Tarjeta de débito,Cada 3 meses
+2065,71,Masculino,Abrigo,Ropa de invierno,21,"('RR', 'Roraima')",GG,Otoño,5.0,No,Envío exprés,99,Tarjeta de crédito,Quincenal
+2066,32,Femenino,Abrigo,Ropa de invierno,106,"('DF', 'Distrito Federal')",P,Otoño,4.5,No,Envío exprés,100,Efectivo,Trimestral
+2067,55,Masculino,Chaqueta,Ropa de invierno,31,"('PB', 'Paraíba')",M,Invierno,3.6,Sí,Envío gratuito,25,Tarjeta de crédito,Mensual
+2068,51,Masculino,Chaqueta,Ropa de invierno,52,"('MT', 'Mato Grosso')",G,Invierno,4.5,Sí,Recogida en tienda,59,Transferencia bancaria,Mensual
+2069,66,Femenino,Abrigo,Ropa de invierno,91,"('AP', 'Amapá')",M,Otoño,4.6,Sí,Entrega al día siguiente,33,Pix,Mensual
+2070,47,Masculino,Abrigo,Ropa de invierno,94,"('PI', 'Piauí')",G,Invierno,4.0,Sí,Envío gratuito,60,Transferencia bancaria,Cada 3 meses
+2071,57,Femenino,Chaqueta,Ropa de invierno,101,"('GO', 'Goiás')",G,Invierno,5.0,Sí,Envío gratuito,17,Transferencia bancaria,Quincenal
+2072,37,Masculino,Chaqueta,Ropa de invierno,32,"('TO', 'Tocantins')",P,Otoño,5.0,No,Recogida en tienda,47,Pix,Trimestral
+2073,55,Femenino,Abrigo,Ropa de invierno,103,"('MG', 'Minas Gerais')",PP,Invierno,3.4,No,Entrega al día siguiente,4,Tarjeta de débito,Quincenal
+2074,46,Masculino,Chaqueta,Ropa de invierno,66,"('PE', 'Pernambuco')",PP,Invierno,3.2,No,Envío estándar,7,Efectivo,Cada 3 meses
+2075,30,Femenino,Abrigo,Ropa de invierno,31,"('SC', 'Santa Catarina')",P,Otoño,3.3,No,Recogida en tienda,31,Tarjeta de crédito,Quincenal
+2076,22,Femenino,Chaqueta,Ropa de invierno,49,"('RR', 'Roraima')",M,Otoño,2.6,No,Envío en 2 días,18,Tarjeta de crédito,Cada 3 meses
+2077,69,Femenino,Chaqueta,Ropa de invierno,104,"('AP', 'Amapá')",PP,Otoño,2.7,No,Envío exprés,100,Tarjeta de crédito,Semanal
+2078,19,Femenino,Abrigo,Ropa de invierno,26,"('RJ', 'Rio de Janeiro')",P,Invierno,2.5,Sí,Entrega al día siguiente,95,Transferencia bancaria,Quincenal
+2079,46,Masculino,Chaqueta,Ropa de invierno,77,"('PR', 'Paraná')",GG,Otoño,3.4,No,Envío exprés,58,Transferencia bancaria,Quincenal
+2080,48,Masculino,Abrigo,Ropa de invierno,107,"('DF', 'Distrito Federal')",PP,Invierno,4.6,Sí,Entrega al día siguiente,10,Tarjeta de débito,Semanal
+2081,22,Femenino,Abrigo,Ropa de invierno,99,"('RS', 'Rio Grande do Sul')",GG,Invierno,4.7,No,Recogida en tienda,58,Pix,Quincenal
+2082,24,Femenino,Chaqueta,Ropa de invierno,75,"('AC', 'Acre')",G,Otoño,4.5,No,Entrega al día siguiente,58,Efectivo,Anualmente
+2083,64,Femenino,Abrigo,Ropa de invierno,74,"('SP', 'São Paulo')",M,Invierno,3.2,Sí,Envío estándar,87,Efectivo,Quincenal
+2084,23,Femenino,Chaqueta,Ropa de invierno,75,"('AC', 'Acre')",PP,Invierno,3.1,Sí,Envío gratuito,75,Pix,Quincenal
+2085,60,Femenino,Abrigo,Ropa de invierno,65,"('BA', 'Bahia')",G,Otoño,4.3,No,Envío en 2 días,45,Transferencia bancaria,Trimestral
+2086,27,Masculino,Chaqueta,Ropa de invierno,33,"('RO', 'Rondônia')",M,Invierno,2.9,No,Envío estándar,73,Tarjeta de crédito,Quincenal
+2087,72,Femenino,Abrigo,Ropa de invierno,23,"('RR', 'Roraima')",P,Invierno,3.1,No,Envío exprés,44,Transferencia bancaria,Quincenal
+2088,73,Femenino,Abrigo,Ropa de invierno,28,"('MG', 'Minas Gerais')",P,Otoño,2.8,Sí,Envío en 2 días,48,Efectivo,Trimestral
+2089,39,Femenino,Abrigo,Ropa de invierno,59,"('PI', 'Piauí')",M,Otoño,2.7,Sí,Envío gratuito,20,Pix,Anualmente
+2090,61,Femenino,Abrigo,Ropa de invierno,76,"('PE', 'Pernambuco')",G,Invierno,3.8,No,Recogida en tienda,34,Tarjeta de crédito,Mensual
+2091,40,Masculino,Chaqueta,Ropa de invierno,56,"('AC', 'Acre')",GG,Invierno,2.5,No,Envío estándar,5,Tarjeta de crédito,Mensual
+2092,56,Femenino,Chaqueta,Ropa de invierno,46,"('ES', 'Espírito Santo')",M,Otoño,3.0,No,Entrega al día siguiente,37,Tarjeta de débito,Quincenal
+2093,18,Masculino,Abrigo,Ropa de invierno,42,"('GO', 'Goiás')",P,Invierno,4.2,Sí,Envío exprés,64,Pix,Anualmente
+2094,22,Masculino,Chaqueta,Ropa de invierno,75,"('DF', 'Distrito Federal')",PP,Invierno,3.9,No,Envío estándar,73,Efectivo,Cada 3 meses
+2095,63,Masculino,Abrigo,Ropa de invierno,34,"('PE', 'Pernambuco')",G,Otoño,3.1,Sí,Envío estándar,79,Efectivo,Trimestral
+2096,23,Masculino,Chaqueta,Ropa de invierno,51,"('PA', 'Pará')",G,Invierno,4.1,Sí,Envío en 2 días,50,Tarjeta de débito,Trimestral
+2097,32,Masculino,Chaqueta,Ropa de invierno,29,"('TO', 'Tocantins')",GG,Otoño,3.2,Sí,Envío exprés,99,Tarjeta de débito,Semanal
+2098,64,Femenino,Chaqueta,Ropa de invierno,33,"('GO', 'Goiás')",P,Invierno,4.3,Sí,Envío exprés,77,Tarjeta de crédito,Anualmente
+2099,29,Masculino,Abrigo,Ropa de invierno,116,"('RS', 'Rio Grande do Sul')",GG,Invierno,3.2,No,Envío exprés,80,Tarjeta de débito,Quincenal
+2100,46,Femenino,Abrigo,Ropa de invierno,76,"('DF', 'Distrito Federal')",M,Invierno,4.6,No,Envío en 2 días,64,Transferencia bancaria,Trimestral
+2101,47,Masculino,Chaqueta,Ropa de invierno,27,"('PI', 'Piauí')",M,Invierno,3.9,Sí,Envío exprés,78,Pix,Cada 3 meses
+2102,47,Femenino,Abrigo,Ropa de invierno,93,"('BA', 'Bahia')",P,Invierno,4.8,Sí,Envío en 2 días,7,Efectivo,Semanal
+2103,69,Masculino,Chaqueta,Ropa de invierno,84,"('CE', 'Ceará')",P,Otoño,2.5,No,Entrega al día siguiente,56,Pix,Mensual
+2104,41,Masculino,Abrigo,Ropa de invierno,69,"('PR', 'Paraná')",G,Invierno,2.7,No,Envío en 2 días,8,Tarjeta de débito,Mensual
+2105,53,Masculino,Abrigo,Ropa de invierno,52,"('AL', 'Alagoas')",GG,Otoño,4.8,Sí,Envío gratuito,74,Tarjeta de crédito,Anualmente
+2106,37,Masculino,Chaqueta,Ropa de invierno,96,"('MG', 'Minas Gerais')",PP,Invierno,4.6,No,Recogida en tienda,82,Tarjeta de débito,Mensual
+2107,60,Femenino,Abrigo,Ropa de invierno,85,"('AL', 'Alagoas')",M,Otoño,3.3,No,Envío exprés,23,Tarjeta de crédito,Anualmente
+2108,67,Masculino,Chaqueta,Ropa de invierno,48,"('AL', 'Alagoas')",P,Otoño,3.9,No,Envío gratuito,100,Transferencia bancaria,Trimestral
+2109,60,Masculino,Chaqueta,Ropa de invierno,96,"('BA', 'Bahia')",G,Otoño,4.7,Sí,Envío gratuito,88,Pix,Anualmente
+2110,64,Masculino,Chaqueta,Ropa de invierno,72,"('RS', 'Rio Grande do Sul')",M,Otoño,4.6,No,Entrega al día siguiente,96,Efectivo,Trimestral
+2111,52,Femenino,Abrigo,Ropa de invierno,120,"('RR', 'Roraima')",G,Otoño,3.0,No,Envío estándar,59,Tarjeta de débito,Semanal
+2112,50,Masculino,Chaqueta,Ropa de invierno,45,"('SE', 'Sergipe')",GG,Otoño,4.7,Sí,Entrega al día siguiente,82,Efectivo,Anualmente
+2113,53,Femenino,Chaqueta,Ropa de invierno,56,"('RJ', 'Rio de Janeiro')",PP,Otoño,2.8,No,Recogida en tienda,65,Tarjeta de crédito,Anualmente
+2114,23,Femenino,Abrigo,Ropa de invierno,64,"('ES', 'Espírito Santo')",PP,Invierno,2.7,No,Envío en 2 días,64,Tarjeta de débito,Trimestral
+2115,42,Femenino,Abrigo,Ropa de invierno,48,"('TO', 'Tocantins')",PP,Invierno,3.4,No,Recogida en tienda,18,Tarjeta de crédito,Anualmente
+2116,36,Masculino,Chaqueta,Ropa de invierno,117,"('CE', 'Ceará')",G,Invierno,3.2,Sí,Envío en 2 días,2,Tarjeta de débito,Quincenal
+2117,71,Femenino,Abrigo,Ropa de invierno,34,"('SP', 'São Paulo')",M,Otoño,2.8,Sí,Envío exprés,6,Tarjeta de crédito,Quincenal
+2118,58,Masculino,Chaqueta,Ropa de invierno,34,"('AC', 'Acre')",G,Otoño,2.9,Sí,Envío gratuito,91,Tarjeta de crédito,Quincenal
+2119,45,Femenino,Abrigo,Ropa de invierno,50,"('PR', 'Paraná')",GG,Invierno,3.5,Sí,Entrega al día siguiente,67,Tarjeta de débito,Anualmente
+2120,51,Femenino,Abrigo,Ropa de invierno,80,"('BA', 'Bahia')",PP,Invierno,3.2,No,Envío estándar,95,Transferencia bancaria,Mensual
+2121,68,Femenino,Abrigo,Ropa de invierno,50,"('PI', 'Piauí')",PP,Invierno,3.3,Sí,Entrega al día siguiente,45,Pix,Cada 3 meses
+2122,70,Femenino,Abrigo,Ropa de invierno,109,"('AL', 'Alagoas')",G,Otoño,3.2,Sí,Envío exprés,91,Efectivo,Quincenal
+2123,36,Femenino,Chaqueta,Ropa de invierno,45,"('CE', 'Ceará')",PP,Invierno,3.1,No,Entrega al día siguiente,69,Efectivo,Trimestral
+2124,20,Femenino,Abrigo,Ropa de invierno,65,"('RN', 'Rio Grande do Norte')",PP,Invierno,2.8,Sí,Envío estándar,47,Efectivo,Quincenal
+2125,65,Masculino,Abrigo,Ropa de invierno,63,"('GO', 'Goiás')",P,Invierno,5.0,No,Envío estándar,66,Tarjeta de débito,Quincenal
+2126,64,Masculino,Chaqueta,Ropa de invierno,75,"('DF', 'Distrito Federal')",GG,Otoño,4.0,No,Envío gratuito,41,Transferencia bancaria,Trimestral
+2127,38,Masculino,Abrigo,Ropa de invierno,77,"('RJ', 'Rio de Janeiro')",GG,Invierno,3.0,No,Envío gratuito,44,Efectivo,Trimestral
+2128,64,Masculino,Abrigo,Ropa de invierno,55,"('AC', 'Acre')",PP,Otoño,2.6,No,Envío exprés,65,Tarjeta de crédito,Trimestral
+2129,27,Masculino,Chaqueta,Ropa de invierno,36,"('SE', 'Sergipe')",PP,Otoño,3.1,No,Envío gratuito,49,Pix,Anualmente
+2130,56,Femenino,Abrigo,Ropa de invierno,67,"('PR', 'Paraná')",M,Invierno,3.9,Sí,Recogida en tienda,67,Tarjeta de débito,Cada 3 meses
+2131,38,Masculino,Chaqueta,Ropa de invierno,34,"('MS', 'Mato Grosso do Sul')",PP,Otoño,5.0,No,Recogida en tienda,71,Transferencia bancaria,Quincenal
+2132,67,Masculino,Abrigo,Ropa de invierno,47,"('TO', 'Tocantins')",GG,Invierno,4.4,Sí,Envío en 2 días,15,Tarjeta de crédito,Trimestral
+2133,46,Femenino,Abrigo,Ropa de invierno,31,"('PA', 'Pará')",M,Invierno,4.9,No,Envío gratuito,38,Tarjeta de crédito,Anualmente
+2134,68,Masculino,Chaqueta,Ropa de invierno,35,"('MS', 'Mato Grosso do Sul')",P,Otoño,3.8,No,Envío en 2 días,3,Tarjeta de débito,Trimestral
+2135,47,Femenino,Chaqueta,Ropa de invierno,28,"('ES', 'Espírito Santo')",M,Invierno,4.3,No,Entrega al día siguiente,98,Efectivo,Mensual
+2136,26,Masculino,Chaqueta,Ropa de invierno,77,"('BA', 'Bahia')",G,Invierno,4.4,Sí,Envío en 2 días,98,Tarjeta de crédito,Cada 3 meses
+2137,50,Femenino,Chaqueta,Ropa de invierno,86,"('RN', 'Rio Grande do Norte')",P,Invierno,3.5,Sí,Envío exprés,41,Tarjeta de crédito,Mensual
+2138,51,Masculino,Chaqueta,Ropa de invierno,52,"('AM', 'Amazonas')",P,Invierno,4.6,No,Envío estándar,78,Pix,Mensual
+2139,50,Femenino,Chaqueta,Ropa de invierno,41,"('BA', 'Bahia')",GG,Invierno,3.6,Sí,Envío exprés,3,Transferencia bancaria,Trimestral
+2140,59,Masculino,Chaqueta,Ropa de invierno,118,"('TO', 'Tocantins')",GG,Invierno,3.9,No,Envío exprés,80,Pix,Quincenal
+2141,59,Masculino,Abrigo,Ropa de invierno,51,"('PB', 'Paraíba')",G,Invierno,4.0,Sí,Recogida en tienda,88,Transferencia bancaria,Quincenal
+2142,46,Masculino,Abrigo,Ropa de invierno,79,"('PE', 'Pernambuco')",P,Invierno,3.3,No,Envío exprés,91,Tarjeta de débito,Semanal
+2143,43,Femenino,Abrigo,Ropa de invierno,85,"('MG', 'Minas Gerais')",GG,Otoño,4.8,Sí,Recogida en tienda,59,Transferencia bancaria,Anualmente
+2144,46,Femenino,Chaqueta,Ropa de invierno,32,"('TO', 'Tocantins')",PP,Invierno,3.9,No,Envío exprés,31,Tarjeta de crédito,Mensual
+2145,54,Masculino,Chaqueta,Ropa de invierno,117,"('AP', 'Amapá')",P,Invierno,2.9,No,Envío gratuito,63,Tarjeta de débito,Trimestral
+2146,19,Femenino,Abrigo,Ropa de invierno,84,"('SE', 'Sergipe')",G,Otoño,4.7,No,Recogida en tienda,6,Transferencia bancaria,Mensual
+2147,49,Masculino,Abrigo,Ropa de invierno,88,"('TO', 'Tocantins')",PP,Otoño,4.9,Sí,Entrega al día siguiente,33,Tarjeta de débito,Anualmente
+2148,41,Femenino,Abrigo,Ropa de invierno,26,"('MA', 'Maranhão')",GG,Otoño,3.3,No,Envío estándar,9,Efectivo,Cada 3 meses
+2149,66,Masculino,Chaqueta,Ropa de invierno,36,"('PB', 'Paraíba')",PP,Invierno,3.2,No,Envío en 2 días,71,Tarjeta de débito,Anualmente
+2150,30,Masculino,Chaqueta,Ropa de invierno,25,"('MS', 'Mato Grosso do Sul')",PP,Otoño,4.8,No,Recogida en tienda,66,Efectivo,Semanal
+2151,56,Femenino,Abrigo,Ropa de invierno,98,"('AC', 'Acre')",M,Otoño,4.8,No,Envío en 2 días,75,Tarjeta de débito,Anualmente
+2152,63,Masculino,Abrigo,Ropa de invierno,22,"('RS', 'Rio Grande do Sul')",M,Invierno,2.9,No,Entrega al día siguiente,74,Tarjeta de débito,Quincenal
+2153,56,Masculino,Abrigo,Ropa de invierno,103,"('CE', 'Ceará')",GG,Otoño,2.7,No,Envío exprés,21,Pix,Quincenal
+2154,27,Femenino,Chaqueta,Ropa de invierno,93,"('GO', 'Goiás')",PP,Otoño,2.6,No,Recogida en tienda,40,Efectivo,Mensual
+2155,44,Femenino,Abrigo,Ropa de invierno,84,"('RJ', 'Rio de Janeiro')",GG,Invierno,4.3,Sí,Envío exprés,66,Tarjeta de crédito,Quincenal
+2156,60,Masculino,Abrigo,Ropa de invierno,60,"('AP', 'Amapá')",P,Invierno,4.2,No,Envío estándar,69,Tarjeta de débito,Semanal
+2157,57,Masculino,Chaqueta,Ropa de invierno,51,"('CE', 'Ceará')",M,Invierno,4.7,No,Envío en 2 días,98,Tarjeta de débito,Cada 3 meses
+2158,62,Masculino,Abrigo,Ropa de invierno,81,"('DF', 'Distrito Federal')",M,Invierno,4.3,Sí,Envío exprés,73,Pix,Semanal
+2159,75,Masculino,Abrigo,Ropa de invierno,118,"('AL', 'Alagoas')",P,Invierno,4.2,No,Envío gratuito,91,Transferencia bancaria,Mensual
+2160,46,Masculino,Abrigo,Ropa de invierno,47,"('SC', 'Santa Catarina')",P,Invierno,2.7,No,Envío estándar,17,Transferencia bancaria,Quincenal
+2161,33,Femenino,Chaqueta,Ropa de invierno,101,"('SP', 'São Paulo')",P,Otoño,3.0,No,Envío gratuito,42,Efectivo,Cada 3 meses
+2162,61,Femenino,Chaqueta,Ropa de invierno,90,"('MG', 'Minas Gerais')",P,Invierno,4.8,No,Recogida en tienda,83,Tarjeta de crédito,Trimestral
+2163,38,Masculino,Chaqueta,Ropa de invierno,118,"('AL', 'Alagoas')",PP,Otoño,4.8,Sí,Recogida en tienda,22,Efectivo,Quincenal
+2164,20,Masculino,Abrigo,Ropa de invierno,43,"('PI', 'Piauí')",M,Otoño,4.3,No,Recogida en tienda,72,Pix,Cada 3 meses
+2165,39,Masculino,Abrigo,Ropa de invierno,102,"('SP', 'São Paulo')",GG,Invierno,3.3,No,Envío gratuito,34,Tarjeta de crédito,Quincenal
+2166,39,Femenino,Abrigo,Ropa de invierno,102,"('RO', 'Rondônia')",M,Otoño,2.7,No,Entrega al día siguiente,37,Pix,Anualmente
+2167,29,Masculino,Abrigo,Ropa de invierno,85,"('PB', 'Paraíba')",M,Otoño,3.0,Sí,Entrega al día siguiente,23,Tarjeta de crédito,Mensual
+2168,38,Femenino,Chaqueta,Ropa de invierno,53,"('AM', 'Amazonas')",G,Otoño,2.9,No,Envío gratuito,42,Tarjeta de débito,Quincenal
+2169,34,Masculino,Chaqueta,Ropa de invierno,27,"('RJ', 'Rio de Janeiro')",PP,Invierno,4.0,Sí,Entrega al día siguiente,51,Pix,Quincenal
+2170,62,Femenino,Abrigo,Ropa de invierno,67,"('RN', 'Rio Grande do Norte')",GG,Otoño,3.8,Sí,Envío gratuito,61,Tarjeta de crédito,Trimestral
+2171,65,Masculino,Abrigo,Ropa de invierno,109,"('CE', 'Ceará')",GG,Invierno,2.8,Sí,Envío exprés,97,Tarjeta de crédito,Quincenal
+2172,51,Masculino,Abrigo,Ropa de invierno,29,"('PI', 'Piauí')",GG,Otoño,4.3,Sí,Entrega al día siguiente,73,Pix,Cada 3 meses
+2173,28,Masculino,Abrigo,Ropa de invierno,34,"('RN', 'Rio Grande do Norte')",P,Invierno,2.8,No,Envío gratuito,7,Efectivo,Quincenal
+2174,50,Masculino,Abrigo,Ropa de invierno,92,"('PI', 'Piauí')",PP,Invierno,4.0,Sí,Recogida en tienda,50,Tarjeta de débito,Anualmente
+2175,65,Femenino,Chaqueta,Ropa de invierno,25,"('MG', 'Minas Gerais')",G,Invierno,3.8,Sí,Envío estándar,8,Efectivo,Anualmente
+2176,36,Masculino,Chaqueta,Ropa de invierno,118,"('GO', 'Goiás')",P,Invierno,3.2,No,Envío estándar,57,Efectivo,Trimestral
+2177,23,Femenino,Abrigo,Ropa de invierno,35,"('RN', 'Rio Grande do Norte')",P,Invierno,4.5,Sí,Entrega al día siguiente,93,Tarjeta de crédito,Anualmente
+2178,66,Femenino,Abrigo,Ropa de invierno,79,"('AC', 'Acre')",GG,Invierno,4.2,No,Envío estándar,29,Tarjeta de crédito,Anualmente
+2179,40,Femenino,Abrigo,Ropa de invierno,44,"('BA', 'Bahia')",PP,Otoño,4.9,Sí,Envío en 2 días,30,Tarjeta de crédito,Semanal
+2180,24,Femenino,Abrigo,Ropa de invierno,96,"('SE', 'Sergipe')",PP,Otoño,3.4,No,Envío en 2 días,56,Tarjeta de crédito,Mensual
+2181,66,Femenino,Chaqueta,Ropa de invierno,84,"('SE', 'Sergipe')",M,Otoño,4.4,No,Envío estándar,73,Pix,Trimestral
+2182,33,Masculino,Chaqueta,Ropa de invierno,104,"('PA', 'Pará')",GG,Otoño,4.5,No,Recogida en tienda,35,Transferencia bancaria,Quincenal
+2183,58,Masculino,Abrigo,Ropa de invierno,26,"('MG', 'Minas Gerais')",M,Invierno,4.1,No,Envío gratuito,89,Efectivo,Quincenal
+2184,27,Masculino,Abrigo,Ropa de invierno,43,"('AL', 'Alagoas')",GG,Invierno,3.8,Sí,Envío estándar,38,Tarjeta de crédito,Anualmente
+2185,21,Masculino,Abrigo,Ropa de invierno,91,"('RS', 'Rio Grande do Sul')",GG,Otoño,5.0,Sí,Recogida en tienda,32,Tarjeta de crédito,Semanal
+2186,59,Femenino,Abrigo,Ropa de invierno,67,"('RN', 'Rio Grande do Norte')",PP,Otoño,2.7,No,Envío estándar,48,Pix,Mensual
+2187,73,Femenino,Chaqueta,Ropa de invierno,117,"('GO', 'Goiás')",GG,Otoño,4.3,Sí,Envío estándar,42,Tarjeta de débito,Anualmente
+2188,31,Femenino,Chaqueta,Ropa de invierno,115,"('CE', 'Ceará')",G,Otoño,3.2,No,Envío gratuito,30,Pix,Trimestral
+2189,67,Masculino,Abrigo,Ropa de invierno,79,"('AM', 'Amazonas')",GG,Invierno,4.0,No,Envío gratuito,46,Pix,Trimestral
+2190,47,Femenino,Abrigo,Ropa de invierno,117,"('MA', 'Maranhão')",M,Otoño,3.6,No,Recogida en tienda,52,Transferencia bancaria,Anualmente
+2191,65,Femenino,Chaqueta,Ropa de invierno,53,"('PE', 'Pernambuco')",GG,Invierno,4.1,Sí,Envío en 2 días,25,Tarjeta de débito,Cada 3 meses
+2192,42,Femenino,Abrigo,Ropa de invierno,90,"('SE', 'Sergipe')",M,Invierno,3.3,No,Entrega al día siguiente,58,Tarjeta de crédito,Trimestral
+2193,28,Femenino,Abrigo,Ropa de invierno,43,"('PB', 'Paraíba')",GG,Otoño,4.1,Sí,Envío en 2 días,9,Transferencia bancaria,Quincenal
+2194,44,Femenino,Chaqueta,Ropa de invierno,28,"('MT', 'Mato Grosso')",P,Otoño,3.2,No,Envío gratuito,47,Transferencia bancaria,Quincenal
+2195,60,Masculino,Chaqueta,Ropa de invierno,20,"('SP', 'São Paulo')",GG,Invierno,4.7,Sí,Envío gratuito,67,Tarjeta de débito,Cada 3 meses
+2196,19,Masculino,Chaqueta,Ropa de invierno,33,"('SC', 'Santa Catarina')",PP,Otoño,3.8,Sí,Recogida en tienda,79,Pix,Cada 3 meses
+2197,70,Masculino,Abrigo,Ropa de invierno,70,"('PE', 'Pernambuco')",PP,Invierno,2.6,No,Envío gratuito,72,Tarjeta de crédito,Quincenal
+2198,37,Femenino,Chaqueta,Ropa de invierno,31,"('RR', 'Roraima')",G,Invierno,4.8,No,Envío gratuito,7,Transferencia bancaria,Anualmente
+2199,23,Masculino,Abrigo,Ropa de invierno,102,"('TO', 'Tocantins')",M,Otoño,4.5,Sí,Envío gratuito,29,Tarjeta de crédito,Anualmente
+2200,35,Femenino,Chaqueta,Ropa de invierno,107,"('TO', 'Tocantins')",M,Otoño,4.1,No,Recogida en tienda,2,Tarjeta de crédito,Semanal
+2201,66,Masculino,Chaqueta,Ropa de invierno,58,"('BA', 'Bahia')",P,Otoño,2.5,No,Recogida en tienda,86,Pix,Quincenal
+2202,42,Femenino,Chaqueta,Ropa de invierno,84,"('PB', 'Paraíba')",M,Otoño,3.4,No,Recogida en tienda,29,Transferencia bancaria,Semanal
+2203,56,Masculino,Abrigo,Ropa de invierno,23,"('PI', 'Piauí')",M,Invierno,4.4,Sí,Envío gratuito,45,Pix,Anualmente
+2204,45,Femenino,Abrigo,Ropa de invierno,30,"('SC', 'Santa Catarina')",GG,Invierno,2.5,Sí,Envío exprés,10,Tarjeta de débito,Semanal
+2205,42,Femenino,Abrigo,Ropa de invierno,60,"('MG', 'Minas Gerais')",M,Otoño,2.8,Sí,Envío exprés,39,Efectivo,Cada 3 meses
+2206,66,Masculino,Chaqueta,Ropa de invierno,36,"('MT', 'Mato Grosso')",PP,Otoño,4.9,No,Envío estándar,71,Pix,Cada 3 meses
+2207,24,Femenino,Chaqueta,Ropa de invierno,65,"('AL', 'Alagoas')",GG,Otoño,3.1,No,Envío exprés,1,Tarjeta de débito,Semanal
+2208,42,Femenino,Chaqueta,Ropa de invierno,93,"('RS', 'Rio Grande do Sul')",GG,Otoño,3.6,Sí,Envío en 2 días,17,Tarjeta de débito,Trimestral
+2209,35,Masculino,Chaqueta,Ropa de invierno,28,"('RS', 'Rio Grande do Sul')",P,Invierno,3.9,No,Envío estándar,38,Efectivo,Cada 3 meses
+2210,41,Masculino,Chaqueta,Ropa de invierno,112,"('RR', 'Roraima')",G,Otoño,3.1,Sí,Entrega al día siguiente,17,Tarjeta de débito,Quincenal
+2211,43,Masculino,Abrigo,Ropa de invierno,62,"('DF', 'Distrito Federal')",G,Invierno,4.9,Sí,Recogida en tienda,38,Tarjeta de débito,Trimestral
+2212,48,Masculino,Chaqueta,Ropa de invierno,70,"('RJ', 'Rio de Janeiro')",M,Invierno,4.4,Sí,Envío gratuito,41,Efectivo,Anualmente
+2213,70,Masculino,Abrigo,Ropa de invierno,34,"('RS', 'Rio Grande do Sul')",GG,Otoño,4.0,Sí,Recogida en tienda,87,Pix,Anualmente
+2214,64,Masculino,Chaqueta,Ropa de invierno,76,"('AC', 'Acre')",M,Otoño,5.0,No,Envío exprés,17,Tarjeta de débito,Semanal
+2215,34,Femenino,Abrigo,Ropa de invierno,68,"('SE', 'Sergipe')",PP,Invierno,4.3,No,Recogida en tienda,68,Pix,Semanal
+2216,52,Femenino,Abrigo,Ropa de invierno,109,"('PA', 'Pará')",GG,Otoño,4.0,Sí,Envío en 2 días,84,Tarjeta de débito,Anualmente
+2217,59,Femenino,Abrigo,Ropa de invierno,116,"('PI', 'Piauí')",M,Invierno,4.1,Sí,Recogida en tienda,12,Tarjeta de débito,Anualmente
+2218,50,Femenino,Abrigo,Ropa de invierno,67,"('PI', 'Piauí')",G,Invierno,2.7,Sí,Entrega al día siguiente,44,Transferencia bancaria,Semanal
+2219,24,Masculino,Abrigo,Ropa de invierno,30,"('PI', 'Piauí')",PP,Otoño,3.6,No,Envío gratuito,43,Efectivo,Quincenal
+2220,51,Masculino,Abrigo,Ropa de invierno,80,"('TO', 'Tocantins')",PP,Invierno,3.0,No,Envío gratuito,8,Tarjeta de débito,Trimestral
+2221,69,Femenino,Chaqueta,Ropa de invierno,63,"('MA', 'Maranhão')",PP,Otoño,2.5,Sí,Entrega al día siguiente,70,Tarjeta de crédito,Trimestral
+2222,53,Masculino,Abrigo,Ropa de invierno,49,"('AM', 'Amazonas')",G,Otoño,3.5,No,Entrega al día siguiente,50,Transferencia bancaria,Quincenal
+2223,46,Masculino,Abrigo,Ropa de invierno,20,"('RR', 'Roraima')",P,Otoño,3.2,Sí,Entrega al día siguiente,73,Transferencia bancaria,Cada 3 meses
+2224,41,Masculino,Chaqueta,Ropa de invierno,78,"('PR', 'Paraná')",PP,Invierno,3.3,No,Recogida en tienda,76,Efectivo,Cada 3 meses
+2225,55,Femenino,Abrigo,Ropa de invierno,65,"('RO', 'Rondônia')",G,Otoño,3.6,Sí,Envío en 2 días,86,Tarjeta de crédito,Quincenal
+2226,25,Femenino,Abrigo,Ropa de invierno,34,"('RJ', 'Rio de Janeiro')",P,Invierno,4.7,No,Envío estándar,53,Pix,Mensual
+2227,54,Masculino,Abrigo,Ropa de invierno,43,"('SE', 'Sergipe')",G,Otoño,3.7,Sí,Recogida en tienda,62,Tarjeta de débito,Cada 3 meses
+2228,29,Masculino,Abrigo,Ropa de invierno,99,"('PE', 'Pernambuco')",PP,Invierno,4.3,No,Envío estándar,17,Tarjeta de crédito,Trimestral
+2229,53,Masculino,Abrigo,Ropa de invierno,107,"('RN', 'Rio Grande do Norte')",G,Invierno,4.6,No,Envío exprés,21,Transferencia bancaria,Anualmente
+2230,68,Femenino,Abrigo,Ropa de invierno,24,"('DF', 'Distrito Federal')",M,Otoño,2.8,No,Envío gratuito,21,Efectivo,Cada 3 meses
+2231,53,Femenino,Chaqueta,Ropa de invierno,54,"('MA', 'Maranhão')",GG,Invierno,3.9,Sí,Recogida en tienda,97,Efectivo,Semanal
+2232,45,Femenino,Chaqueta,Ropa de invierno,58,"('MA', 'Maranhão')",PP,Invierno,2.7,No,Recogida en tienda,11,Efectivo,Cada 3 meses
+2233,67,Femenino,Chaqueta,Ropa de invierno,114,"('MS', 'Mato Grosso do Sul')",GG,Invierno,3.2,Sí,Envío exprés,78,Tarjeta de crédito,Quincenal
+2234,70,Femenino,Chaqueta,Ropa de invierno,92,"('PI', 'Piauí')",M,Invierno,2.8,Sí,Recogida en tienda,41,Tarjeta de débito,Anualmente
+2235,54,Masculino,Chaqueta,Ropa de invierno,37,"('PA', 'Pará')",G,Otoño,3.9,Sí,Envío estándar,89,Tarjeta de crédito,Quincenal
+2236,27,Masculino,Chaqueta,Ropa de invierno,117,"('AC', 'Acre')",G,Invierno,4.7,No,Recogida en tienda,80,Efectivo,Quincenal
+2237,46,Femenino,Chaqueta,Ropa de invierno,71,"('GO', 'Goiás')",GG,Invierno,3.0,No,Entrega al día siguiente,62,Tarjeta de débito,Quincenal
+2238,73,Femenino,Abrigo,Ropa de invierno,101,"('AL', 'Alagoas')",M,Otoño,4.8,No,Recogida en tienda,27,Efectivo,Cada 3 meses
+2239,49,Masculino,Abrigo,Ropa de invierno,56,"('MA', 'Maranhão')",M,Otoño,3.2,No,Envío gratuito,100,Tarjeta de débito,Semanal
+2240,20,Femenino,Abrigo,Ropa de invierno,22,"('PE', 'Pernambuco')",PP,Otoño,4.0,No,Envío estándar,0,Efectivo,Quincenal
+2241,62,Femenino,Abrigo,Ropa de invierno,40,"('SC', 'Santa Catarina')",M,Otoño,3.5,No,Envío gratuito,10,Tarjeta de débito,Trimestral
+2242,21,Masculino,Abrigo,Ropa de invierno,112,"('CE', 'Ceará')",P,Invierno,2.8,Sí,Envío exprés,0,Tarjeta de crédito,Semanal
+2243,22,Femenino,Chaqueta,Ropa de invierno,86,"('GO', 'Goiás')",G,Otoño,4.3,No,Recogida en tienda,15,Efectivo,Quincenal
+2244,48,Femenino,Chaqueta,Ropa de invierno,69,"('PR', 'Paraná')",PP,Otoño,3.2,No,Envío estándar,47,Tarjeta de débito,Semanal
+2245,42,Femenino,Chaqueta,Ropa de invierno,28,"('AM', 'Amazonas')",GG,Otoño,3.5,No,Envío exprés,44,Tarjeta de crédito,Quincenal
+2246,44,Masculino,Chaqueta,Ropa de invierno,31,"('GO', 'Goiás')",PP,Otoño,4.2,No,Envío gratuito,44,Efectivo,Trimestral
+2247,68,Femenino,Chaqueta,Ropa de invierno,55,"('MS', 'Mato Grosso do Sul')",PP,Otoño,3.2,No,Envío en 2 días,99,Transferencia bancaria,Semanal
+2248,31,Femenino,Abrigo,Ropa de invierno,57,"('AP', 'Amapá')",PP,Otoño,3.6,No,Entrega al día siguiente,14,Tarjeta de crédito,Quincenal
+2249,58,Femenino,Chaqueta,Ropa de invierno,66,"('GO', 'Goiás')",M,Otoño,5.0,No,Envío exprés,46,Pix,Anualmente
+2250,66,Masculino,Chaqueta,Ropa de invierno,22,"('AM', 'Amazonas')",GG,Otoño,2.7,No,Recogida en tienda,27,Transferencia bancaria,Quincenal
+2251,68,Masculino,Abrigo,Ropa de invierno,100,"('CE', 'Ceará')",GG,Invierno,3.9,No,Envío gratuito,10,Pix,Trimestral
+2252,35,Femenino,Abrigo,Ropa de invierno,30,"('DF', 'Distrito Federal')",GG,Otoño,3.1,No,Recogida en tienda,50,Pix,Trimestral
+2253,37,Masculino,Chaqueta,Ropa de invierno,27,"('AM', 'Amazonas')",P,Otoño,3.9,Sí,Envío estándar,58,Pix,Anualmente
+2254,37,Femenino,Chaqueta,Ropa de invierno,21,"('ES', 'Espírito Santo')",P,Otoño,4.7,No,Envío exprés,44,Pix,Semanal
+2255,28,Masculino,Chaqueta,Ropa de invierno,115,"('BA', 'Bahia')",M,Otoño,3.9,No,Recogida en tienda,54,Tarjeta de débito,Quincenal
+2256,34,Femenino,Abrigo,Ropa de invierno,78,"('SP', 'São Paulo')",GG,Invierno,4.6,No,Envío gratuito,72,Tarjeta de crédito,Anualmente
+2257,28,Masculino,Chaqueta,Ropa de invierno,93,"('GO', 'Goiás')",PP,Otoño,4.7,Sí,Recogida en tienda,5,Transferencia bancaria,Quincenal
+2258,20,Masculino,Abrigo,Ropa de invierno,69,"('MG', 'Minas Gerais')",P,Otoño,4.5,No,Envío en 2 días,28,Tarjeta de débito,Mensual
+2259,44,Masculino,Abrigo,Ropa de invierno,29,"('CE', 'Ceará')",GG,Invierno,4.1,Sí,Envío exprés,22,Tarjeta de crédito,Quincenal
+2260,43,Femenino,Abrigo,Ropa de invierno,56,"('MS', 'Mato Grosso do Sul')",M,Invierno,2.7,No,Envío gratuito,1,Tarjeta de débito,Semanal
+2261,36,Masculino,Chaqueta,Ropa de invierno,79,"('RS', 'Rio Grande do Sul')",M,Invierno,2.5,Sí,Envío exprés,19,Transferencia bancaria,Mensual
+2262,19,Femenino,Abrigo,Ropa de invierno,101,"('RN', 'Rio Grande do Norte')",PP,Invierno,4.1,No,Recogida en tienda,94,Tarjeta de débito,Trimestral
+2263,31,Femenino,Abrigo,Ropa de invierno,82,"('SC', 'Santa Catarina')",PP,Otoño,4.7,Sí,Envío gratuito,5,Tarjeta de crédito,Quincenal
+2264,62,Masculino,Abrigo,Ropa de invierno,115,"('RS', 'Rio Grande do Sul')",PP,Otoño,3.2,Sí,Entrega al día siguiente,81,Efectivo,Quincenal
+2265,55,Femenino,Abrigo,Ropa de invierno,104,"('MT', 'Mato Grosso')",P,Otoño,3.3,No,Envío gratuito,40,Efectivo,Mensual
+2266,38,Masculino,Abrigo,Ropa de invierno,49,"('SC', 'Santa Catarina')",PP,Otoño,3.2,Sí,Envío gratuito,19,Transferencia bancaria,Quincenal
+2267,46,Masculino,Abrigo,Ropa de invierno,72,"('AP', 'Amapá')",PP,Invierno,2.8,No,Envío gratuito,39,Efectivo,Semanal
+2268,72,Femenino,Chaqueta,Ropa de invierno,40,"('MG', 'Minas Gerais')",M,Otoño,4.7,No,Envío estándar,18,Transferencia bancaria,Cada 3 meses
+2269,40,Masculino,Chaqueta,Ropa de invierno,106,"('PE', 'Pernambuco')",M,Invierno,2.6,Sí,Envío gratuito,51,Efectivo,Mensual
+2270,24,Masculino,Chaqueta,Ropa de invierno,37,"('PE', 'Pernambuco')",PP,Otoño,4.3,Sí,Entrega al día siguiente,16,Tarjeta de crédito,Anualmente
+2271,41,Femenino,Abrigo,Ropa de invierno,29,"('CE', 'Ceará')",PP,Otoño,4.3,No,Envío en 2 días,16,Transferencia bancaria,Semanal
+2272,25,Femenino,Abrigo,Ropa de invierno,26,"('MA', 'Maranhão')",P,Invierno,4.6,No,Entrega al día siguiente,3,Efectivo,Trimestral
+2273,29,Masculino,Chaqueta,Ropa de invierno,43,"('PB', 'Paraíba')",M,Invierno,2.9,Sí,Envío en 2 días,4,Pix,Semanal
+2274,59,Masculino,Abrigo,Ropa de invierno,72,"('PR', 'Paraná')",GG,Invierno,4.3,Sí,Recogida en tienda,35,Efectivo,Trimestral
+2275,44,Femenino,Chaqueta,Ropa de invierno,100,"('SC', 'Santa Catarina')",GG,Otoño,4.7,No,Envío estándar,61,Pix,Quincenal
+2276,40,Masculino,Abrigo,Ropa de invierno,54,"('MS', 'Mato Grosso do Sul')",P,Otoño,4.8,Sí,Envío estándar,3,Tarjeta de débito,Quincenal
+2277,69,Masculino,Abrigo,Ropa de invierno,118,"('DF', 'Distrito Federal')",GG,Otoño,3.2,Sí,Envío estándar,31,Tarjeta de crédito,Quincenal
+2278,52,Femenino,Chaqueta,Ropa de invierno,93,"('MS', 'Mato Grosso do Sul')",G,Invierno,2.7,Sí,Envío en 2 días,30,Pix,Anualmente
+2279,69,Masculino,Chaqueta,Ropa de invierno,110,"('ES', 'Espírito Santo')",M,Otoño,3.6,Sí,Entrega al día siguiente,63,Pix,Quincenal
+2280,29,Masculino,Chaqueta,Ropa de invierno,31,"('BA', 'Bahia')",PP,Otoño,3.8,Sí,Envío exprés,67,Efectivo,Quincenal
+2281,39,Femenino,Chaqueta,Ropa de invierno,63,"('MA', 'Maranhão')",P,Invierno,4.5,Sí,Envío estándar,18,Pix,Anualmente
+2282,67,Femenino,Abrigo,Ropa de invierno,29,"('AM', 'Amazonas')",M,Invierno,3.0,No,Envío en 2 días,38,Tarjeta de débito,Anualmente
+2283,28,Masculino,Abrigo,Ropa de invierno,103,"('RO', 'Rondônia')",M,Otoño,2.7,No,Recogida en tienda,28,Pix,Cada 3 meses
+2284,42,Masculino,Abrigo,Ropa de invierno,36,"('RR', 'Roraima')",P,Otoño,3.2,No,Entrega al día siguiente,98,Pix,Trimestral
+2285,29,Masculino,Chaqueta,Ropa de invierno,101,"('PR', 'Paraná')",GG,Otoño,5.0,Sí,Envío estándar,42,Transferencia bancaria,Cada 3 meses
+2286,40,Masculino,Chaqueta,Ropa de invierno,101,"('SP', 'São Paulo')",PP,Invierno,2.9,Sí,Envío gratuito,33,Tarjeta de crédito,Anualmente
+2287,62,Femenino,Abrigo,Ropa de invierno,52,"('RO', 'Rondônia')",PP,Otoño,4.9,No,Entrega al día siguiente,56,Efectivo,Trimestral
+2288,74,Masculino,Abrigo,Ropa de invierno,68,"('MT', 'Mato Grosso')",M,Invierno,3.0,No,Envío en 2 días,100,Pix,Semanal
+2289,28,Masculino,Chaqueta,Ropa de invierno,24,"('MT', 'Mato Grosso')",M,Otoño,4.8,No,Envío exprés,13,Transferencia bancaria,Trimestral
+2290,28,Masculino,Chaqueta,Ropa de invierno,113,"('SP', 'São Paulo')",PP,Otoño,4.5,No,Envío exprés,90,Transferencia bancaria,Mensual
+2291,59,Femenino,Abrigo,Ropa de invierno,40,"('MS', 'Mato Grosso do Sul')",PP,Otoño,2.8,Sí,Envío exprés,24,Efectivo,Semanal
+2292,60,Masculino,Abrigo,Ropa de invierno,50,"('PE', 'Pernambuco')",PP,Otoño,4.8,No,Envío gratuito,19,Transferencia bancaria,Trimestral
+2293,18,Masculino,Chaqueta,Ropa de invierno,57,"('RN', 'Rio Grande do Norte')",GG,Invierno,4.2,Sí,Entrega al día siguiente,3,Tarjeta de crédito,Mensual
+2294,58,Masculino,Chaqueta,Ropa de invierno,80,"('PB', 'Paraíba')",PP,Invierno,2.9,No,Envío estándar,62,Tarjeta de débito,Trimestral
+2295,59,Masculino,Chaqueta,Ropa de invierno,67,"('GO', 'Goiás')",G,Invierno,3.5,No,Entrega al día siguiente,5,Tarjeta de débito,Mensual
+2296,47,Masculino,Chaqueta,Ropa de invierno,54,"('DF', 'Distrito Federal')",GG,Otoño,3.6,Sí,Envío exprés,10,Tarjeta de débito,Quincenal
+2297,66,Femenino,Chaqueta,Ropa de invierno,69,"('ES', 'Espírito Santo')",GG,Invierno,2.8,No,Envío gratuito,73,Tarjeta de crédito,Trimestral
+2298,37,Femenino,Abrigo,Ropa de invierno,111,"('PA', 'Pará')",PP,Otoño,4.1,No,Recogida en tienda,22,Tarjeta de crédito,Semanal
+2299,69,Femenino,Chaqueta,Ropa de invierno,25,"('ES', 'Espírito Santo')",G,Otoño,3.9,Sí,Envío exprés,80,Tarjeta de crédito,Cada 3 meses
